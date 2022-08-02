@@ -22,3 +22,7 @@ To run the scripts in this, following tools, datasets (both downloaded from kagg
 #5 Install the tool **CRFsuite**, please refer to http://www.chokkan.org/software/crfsuite/installs
 
 #6 Import the coreNLP file in the frameworks folder to call the coreNLP framework from thefolder named framework which housed all the downloaded external frameworks used on this project
+
+# Reviews from Kaggle datasets contains reviews from both android and apple's mobile applications
+# Reviews from android datasets contains reviews from android applications 
+# Reviews from apple datasets contains reviews from both apple applications
