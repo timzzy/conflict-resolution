@@ -19,7 +19,7 @@ To run the scripts in this, following tools, datasets (both downloaded from kagg
 
 #4 Use the cell labelled "mined app store" extract reviews from apple an save the reviews in file labeled as appstore.csv in the datasets folder
 
-#5 Install the tool **CRFsuite**, please refer to http://www.chokkan.org/software/crfsuite/installs
+#5 Install the tool CRF language suite at http://www.chokkan.org/software/crfsuite/installs
 
 #6 Import the coreNLP file in the frameworks folder to call the coreNLP framework from thefolder named framework which housed all the downloaded external frameworks used on this project
 
