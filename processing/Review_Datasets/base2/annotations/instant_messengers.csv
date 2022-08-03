@@ -1,0 +1,527 @@
+subjective	0	0	5	Super	0-subjective1	Positive	Related
+aspect	0	6	9	App	0-aspect1	Neutral	Related
+subjective	1	0	9	Ganz okay	1-subjective2	Neutral	Related
+aspect	1	33	36	app	1-aspect2	Neutral	Related
+aspect	1	64	73	schreiben	1-aspect1	Neutral	Related
+subjective	1	78	93	dafür langt sie	1-subjective1	Positive	Related
+subjective	2	0	3	Gut	2-subjective1	Positive	Related
+aspect	3	56	59	App	3-aspect1	Unknown	Related
+subjective	3	71	76	super	3-subjective1	Positive	Related
+subjective	4	0	6	Besser	4-subjective1	Positive	Related
+aspect	4	11	20	Whats app	4-aspect1	Unknown	Related
+subjective	5	0	8	Verkackt	5-subjective2	Negative	Related
+aspect	5	28	33	skype	5-aspect1	Neutral	Related
+aspect	6	0	8	Snapchat	6-aspect3	Unknown	Related
+subjective	6	9	15	stockt	6-subjective6	Negative	Related
+subjective	6	24	29	nervt	6-subjective5	Negative	Related
+subjective	6	48	62	stockt ständig	6-subjective4	Negative	Related
+aspect	6	72	77	snaps	6-aspect2	Neutral	Related
+subjective	6	90	95	hängt	6-subjective3	Negative	Related
+aspect	6	118	123	snaps	6-aspect1	Neutral	Related
+subjective	7	0	10	Schlechtes	7-subjective2	Negative	Related
+aspect	7	11	17	Update	7-aspect3	Neutral	Related
+aspect	7	30	36	Update	7-aspect2	Neutral	Related
+subjective	7	45	69	Kommunikationsgefühl weg	7-subjective1	Negative	Related
+aspect	7	116	120	Snap	7-aspect1	Neutral	Related
+subjective	8	0	4	Okay	8-subjective3	Neutral	Related
+aspect	8	35	46	Nachrichten	8-aspect2	Neutral	Related
+subjective	8	47	60	nicht zeitnah	8-subjective2	Negative	Related
+aspect	8	79	88	Anwendung	8-aspect1	Neutral	Related
+subjective	8	98	109	unbrauchbar	8-subjective1	Negative	Related
+subjective	9	0	3	Top	9-subjective2	Positive	Related
+subjective	9	46	56	Geht alles	9-subjective1	Positive	Related
+subjective	10	7	25	langsam enttäuscht	10-subjective6	Negative	Related
+aspect	10	38	46	snapchat	10-aspect2	Neutral	Related
+subjective	10	47	59	echt geliebt	10-subjective5	Positive	Related
+subjective	10	89	102	lieblingsapps	10-subjective4	Positive	Related
+aspect	10	128	134	Update	10-aspect1	Neutral	Related
+subjective	10	135	163	stürzt sie die ganze Zeit ab	10-subjective3	Negative	Related
+subjective	10	232	234	😰	10-subjective2	Negative	Related
+subjective	10	235	255	Bitte sofort beheben	10-subjective1	Negative	Related
+aspect	11	16	25	versenden	11-aspect1	Unknown	Related
+subjective	11	26	37	hängt alles	11-subjective2	Negative	Related
+subjective	11	46	74	größter Schrott aller Zeiten	11-subjective1	Negative	Related
+aspect	12	12	18	design	12-aspect0	Neutral	Related
+subjective	12	0	11	was das für	12-subjective0	Negative	Related
+subjective	13	121	144	nicht zufriedenstellend	13-subjective3	Negative	Related
+aspect	13	73	88	Zuverlässigkeit	13-aspect1	Neutral	Related
+aspect	13	46	53	Threema	13-aspect0	Neutral	Related
+subjective	13	34	45	gefällt mir	13-subjective2	Positive	Related
+subjective	13	9	22	unzuverlässig	13-subjective1	Negative	Related
+subjective	13	0	3	Gut	13-subjective0	Positive	Related
+subjective	14	59	80	Alles auf einem blick	14-subjective2	Positive	Related
+subjective	14	48	53	super	14-subjective1	Positive	Related
+aspect	14	35	47	funktioniert	14-aspect1	Neutral	Related
+aspect	14	25	34	anwendung	14-aspect0	Unknown	Related
+subjective	14	0	17	Macht was es soll	14-subjective0	Positive	Related
+aspect	15	56	64	snapchat	15-aspect0	Unknown	Related
+aspect	16	50	55	Musik	16-aspect0	Neutral	Related
+subjective	16	33	49	immer noch keine	16-subjective2	Negative	Related
+aspect	16	13	20	smileys	16-aspect1	Neutral	Related
+subjective	16	8	12	Mehr	16-subjective0	Negative	Related
+subjective	16	0	4	☆ ☆ ☆ ☆	16-subjective1	Positive	Related
+subjective	17	154	164	sauerei !!!	17-subjective2	Negative	Related
+subjective	17	128	152	kaum noch ankli ken kann	17-subjective1	Negative	Related
+aspect	17	70	77	Werbung	17-aspect3	Neutral	Related
+subjective	17	31	48	immer mehr Fehler	17-subjective0	Negative	Related
+aspect	17	24	30	Update	17-aspect2	Unknown	Related
+aspect	17	14	20	Update	17-aspect1	Unknown	Related
+aspect	17	0	6	Update	17-aspect0	Unknown	Related
+subjective	19	0	11	Einfsch gut	19-subjective0	Positive	Related
+subjective	20	5	14	Das beste	20-subjective0	Positive	Related
+subjective	21	28	50	Völlig unnötiger Müll !	21-subjective1	Negative	Related
+subjective	21	13	27	so schlecht !!!	21-subjective0	Negative	Related
+aspect	21	4	8	Ding	21-aspect0	Unknown	Related
+subjective	22	11	25	finde es super	22-subjective1	Positive	Related
+subjective	22	0	3	Wow	22-subjective0	Positive	Related
+aspect	23	73	76	app	23-aspect0	Unknown	Related
+subjective	24	0	9	Naja geht	24-subjective2	Neutral	Related
+subjective	24	43	57	mega schei * * * e	24-subjective1	Negative	Related
+aspect	25	9	15	Design	25-aspect3	Unknown	Related
+subjective	25	28	36	hässlich	25-subjective2	Negative	Related
+subjective	25	41	47	nervig	25-subjective1	Negative	Related
+aspect	25	75	83	WhatsApp	25-aspect2	Neutral	Related
+aspect	25	134	141	smileys	25-aspect1	Neutral	Foreign
+aspect	26	10	21	Nachrichten	26-aspect2	Unknown	Related
+aspect	26	40	43	app	26-aspect1	Unknown	Related
+subjective	26	48	56	echt top	26-subjective1	Positive	Related
+subjective	27	0	5	R . I . P	27-subjective1	Negative	Related
+subjective	28	7	22	einfach scheiße	28-subjective3	Negative	Related
+aspect	28	69	72	App	28-aspect2	Neutral	Related
+subjective	28	77	81	cool	28-subjective2	Positive	Related
+subjective	28	95	110	einfach scheiße	28-subjective1	Negative	Related
+aspect	28	124	130	dauert	28-aspect1	Neutral	Related
+subjective	29	47	51	kack	29-subjective1	Negative	Related
+subjective	30	0	10	Geht nicht	30-subjective1	Negative	Related
+aspect	30	42	50	hangouts	30-aspect2	Neutral	Related
+aspect	30	78	87	Einladung	30-aspect1	Neutral	Related
+subjective	31	0	7	Ganz ok	31-subjective2	Positive	Related
+aspect	31	12	15	App	31-aspect2	Unknown	Related
+aspect	31	16	21	läuft	31-aspect1	Neutral	Related
+subjective	31	29	32	gut	31-subjective1	Positive	Related
+subjective	32	0	9	Mega geil	32-subjective2	Positive	Related
+subjective	32	17	23	besser	32-subjective1	Positive	Related
+aspect	32	28	36	WhatsApp	32-aspect1	Unknown	Foreign
+subjective	33	0	11	Überflüssig	33-subjective1	Negative	Related
+aspect	33	52	63	Facebookapp	33-aspect1	Neutral	Related
+aspect	34	12	15	app	34-aspect2	Unknown	Related
+subjective	34	31	37	besser	34-subjective1	Positive	Related
+aspect	34	42	50	whatsapp	34-aspect1	Unknown	Foreign
+subjective	35	21	25	Joar	35-subjective1	Neutral	Related
+aspect	36	133	140	Android	36-aspect2	Unknown	Related
+aspect	36	116	122	IPHONE	36-aspect3	Unknown	Foreign
+aspect	36	96	106	neue Icons	36-aspect1	Unknown	Foreign
+aspect	36	58	66	SD Karte	36-aspect0	Unknown	Related
+aspect	36	16	22	App2SD	36-aspect4	Unknown	Foreign
+subjective	37	0	4	LOVE	37-subjective0	Positive	Related
+aspect	38	25	33	Facebook	38-aspect0	Unknown	Foreign
+subjective	38	14	20	besser	38-subjective1	Positive	Related
+subjective	38	0	3	Gut	38-subjective0	Positive	Related
+subjective	39	8	12	cool	39-subjective1	Positive	Related
+subjective	39	0	4	Geil	39-subjective0	Positive	Related
+aspect	40	15	36	videoaufnahmefunktion	40-aspect0	Unknown	Foreign
+subjective	41	36	44	sehr gut	41-subjective1	Positive	Related
+aspect	41	28	31	app	41-aspect0	Neutral	Related
+subjective	41	0	8	Sehr gut	41-subjective0	Positive	Related
+subjective	42	6	10	Cool	42-subjective1	Positive	Related
+subjective	42	0	2	Jo	42-subjective0	Positive	Related
+aspect	43	0	12	Mehr smileys	43-aspect0	Unknown	Foreign
+subjective	44	0	5	Super	44-subjective0	Positive	Related
+subjective	45	59	63	blöd	45-subjective2	Negative	Related
+aspect	45	48	54	kostet	45-aspect1	Neutral	Related
+subjective	45	28	31	gut	45-subjective1	Positive	Related
+aspect	45	12	15	App	45-aspect0	Neutral	Related
+subjective	45	0	4	Naja	45-subjective0	Neutral	Related
+subjective	46	15	23	echt gut	46-subjective1	Positive	Related
+subjective	46	0	4	Coll	46-subjective0	Positive	Related
+subjective	47	50	58	echt gut	47-subjective1	Positive	Related
+subjective	47	0	4	Supi	47-subjective0	Positive	Related
+aspect	48	140	158	grünen Einladungen	48-aspect2	Neutral	Related
+aspect	48	90	98	WhatsApp	48-aspect1	Neutral	Related
+aspect	48	32	47	Profilfotos-war	48-aspect0	Neutral	Related
+subjective	48	10	18	Hässlich	48-subjective0	Negative	Related
+aspect	48	0	6	Update	48-aspect3	Unknown	Related
+aspect	49	196	199	APP	49-aspect2	Unknown	Related
+aspect	49	157	162	popup	49-aspect3	Unknown	Related
+aspect	49	133	142	Telegramm	49-aspect1	Unknown	Related
+aspect	49	101	110	Nachricht	49-aspect4	Unknown	Related
+aspect	49	54	60	Update	49-aspect0	Unknown	Related
+subjective	50	44	46	😔	50-subjective0	Negative	Related
+aspect	50	5	11	Update	50-aspect0	Unknown	Related
+subjective	51	218	225	nutzlos	51-subjective0	Negative	Related
+subjective	51	132	138	Schade	51-subjective1	Negative	Related
+aspect	51	19	31	WebMessenger	51-aspect0	Unknown	Related
+subjective	52	36	44	scheisse	52-subjective0	Negative	Related
+aspect	52	14	20	anrufe	52-aspect1	Unknown	Related
+aspect	52	6	13	whatapp	52-aspect0	Unknown	Related
+subjective	53	16	20	Geil	53-subjective1	Positive	Related
+subjective	53	0	12	Einfach geil	53-subjective0	Positive	Related
+subjective	54	0	4	Cool	54-subjective0	Positive	Related
+subjective	55	8	24	Einfach nur geil	55-subjective1	Positive	Related
+subjective	55	0	4	Geil	55-subjective0	Positive	Related
+subjective	56	47	50	: ' (	56-subjective2	Negative	Related
+aspect	56	39	47	speicher	56-aspect0	Neutral	Related
+subjective	56	16	20	doof	56-subjective1	Negative	Related
+subjective	56	0	4	Dumm	56-subjective0	Negative	Related
+subjective	57	0	5	Super	57-subjective0	Positive	Related
+subjective	58	0	14	Wirklich super	58-subjective0	Positive	Related
+subjective	59	25	33	sehr gut	59-subjective0	Positive	Related
+aspect	59	10	24	blauen häkchen	59-aspect0	Unknown	Related
+subjective	61	144	152	echt top	61-subjective5	Positive	Related
+subjective	61	129	132	: ' (	61-subjective4	Negative	Related
+subjective	61	122	128	schade	61-subjective3	Negative	Related
+aspect	61	74	93	Live-Video Funktion	61-aspect1	Neutral	Related
+subjective	61	40	58	leider unterstützt	61-subjective2	Negative	Related
+aspect	61	31	34	app	61-aspect0	Neutral	Related
+subjective	61	20	30	sehr tolle	61-subjective1	Positive	Related
+subjective	61	0	5	Super	61-subjective0	Positive	Related
+subjective	62	14	31	gefällt mir nicht	62-subjective0	Negative	Related
+aspect	62	0	13	Whatsapp call	62-aspect0	Unknown	Related
+subjective	63	0	11	Ganz schimm	63-subjective0	Negative	Related
+subjective	64	12	20	Sehr gut	64-subjective1	Positive	Related
+subjective	64	0	8	Sehr gut	64-subjective0	Positive	Related
+aspect	65	91	99	abmelden	65-aspect0	Neutral	Related
+subjective	65	75	90	kann sich nicht	65-subjective1	Negative	Related
+subjective	65	57	66	echt mies	65-subjective0	Negative	Related
+aspect	65	29	46	in Facebook gehen	65-aspect1	Neutral	Related
+subjective	65	4	25	muss es herunterladen	65-subjective2	Negative	Related
+subjective	66	97	111	weitaus besser	66-subjective1	Negative	Related
+aspect	66	86	92	Ebuddy	66-aspect0	Neutral	Foreign
+subjective	66	66	84	Nicht zu empfehlen	66-subjective2	Negative	Related
+aspect	66	54	63	einloggen	66-aspect1	Neutral	Related
+subjective	66	43	53	nicht mehr	66-subjective3	Negative	Related
+subjective	66	0	13	Daumen runter	66-subjective0	Negative	Related
+subjective	67	39	57	geht einfach nicht	67-subjective1	Negative	Related
+subjective	67	27	33	dauert	67-subjective0	Negative	Related
+aspect	67	0	26	Kontaktliste aktualisieren	67-aspect0	Unknown	Related
+subjective	68	6	13	Perfekt	68-subjective1	Positive	Related
+subjective	68	0	2	:)	68-subjective0	Positive	Related
+subjective	69	124	136	ist ein MUSS	69-subjective3	Positive	Related
+aspect	69	120	123	APP	69-aspect1	Neutral	Related
+subjective	69	84	112	kann sie nur weiterempfehlen	69-subjective2	Positive	Related
+subjective	69	30	43	einfach super	69-subjective1	Positive	Related
+aspect	69	22	25	APP	69-aspect0	Neutral	Related
+subjective	69	0	12	Einfach Toll	69-subjective0	Positive	Related
+subjective	70	10	22	Wirklich gut	70-subjective1	Positive	Related
+subjective	70	0	6	Klasse	70-subjective0	Positive	Related
+subjective	71	19	38	einfach nur scheiße	71-subjective1	Negative	Related
+subjective	71	11	18	Scheiße	71-subjective0	Negative	Related
+subjective	72	37	62	Muss man weiter empfehlen	72-subjective1	Positive	Related
+subjective	72	22	35	ohne Probleme	72-subjective2	Positive	Related
+subjective	72	9	21	Klappt super	72-subjective3	Positive	Related
+subjective	72	0	5	Super	72-subjective0	Positive	Related
+subjective	73	28	40	totaler mist	73-subjective1	Negative	Related
+aspect	73	21	27	update	73-aspect0	Neutral	Related
+subjective	73	0	8	schlecht	73-subjective0	Negative	Related
+subjective	74	107	110	: ' (	74-subjective2	Negative	Related
+subjective	74	89	105	ziemlich traurig	74-subjective1	Negative	Related
+subjective	74	66	74	geht net	74-subjective0	Negative	Related
+aspect	74	47	58	runterladen	74-aspect0	Neutral	Related
+aspect	74	38	46	Whatsapp	74-aspect1	Unknown	Related
+subjective	74	0	16	Finde es komisch	74-subjective3	Negative	Related
+subjective	75	157	172	es wäre perfekt	75-subjective3	Negative	Related
+aspect	75	150	156	filter	75-aspect1	Neutral	Foreign
+subjective	75	113	124	bitte bitte	75-subjective4	Negative	Related
+aspect	75	100	112	video filter	75-aspect0	Neutral	Foreign
+subjective	75	91	96	Bitte	75-subjective2	Negative	Related
+subjective	75	32	41	viel spaß	75-subjective6	Positive	Related
+aspect	75	23	26	app	75-aspect2	Neutral	Related
+subjective	75	11	16	Liebe	75-subjective5	Positive	Related
+subjective	75	6	7	♡	75-subjective1	Positive	Related
+subjective	75	0	5	Super	75-subjective0	Positive	Related
+aspect	76	62	68	DESIGN	76-aspect0	Unknown	Related
+subjective	76	57	61	NEUE	76-subjective3	Positive	Related
+subjective	76	14	42	IHR SEID WIRKLICH DIE BESTEN	76-subjective1	Positive	Related
+subjective	76	8	13	DANKE	76-subjective2	Positive	Related
+subjective	76	0	4	GEIL	76-subjective0	Positive	Related
+subjective	77	189	200	Mega nervig	77-subjective1	Negative	Related
+subjective	77	61	79	nicht deaktivieren	77-subjective0	Negative	Related
+aspect	77	54	60	Popups	77-aspect1	Unknown	Related
+aspect	77	0	6	Popups	77-aspect0	Unknown	Related
+aspect	78	33	41	Whatsapp	78-aspect0	Unknown	Foreign
+subjective	78	22	28	Ersatz	78-subjective1	Positive	Related
+subjective	78	0	5	Super	78-subjective0	Positive	Related
+aspect	79	127	135	WhatsApp	79-aspect2	Neutral	Related
+aspect	79	70	88	Antufe ausschalten	79-aspect1	Neutral	Foreign
+subjective	79	46	56	hinzufügen	79-subjective0	Negative	Related
+aspect	79	0	19	Anrufe deaktivieren	79-aspect0	Unknown	Foreign
+subjective	80	24	39	Schlimmer gehts	80-subjective1	Negative	Related
+subjective	80	0	12	Was soll das	80-subjective0	Negative	Related
+subjective	81	38	45	scheiße	81-subjective1	Negative	Related
+subjective	81	24	29	nicht	81-subjective2	Negative	Related
+aspect	81	12	18	Öffnet	81-aspect1	Neutral	Related
+aspect	81	7	10	App	81-aspect0	Neutral	Related
+subjective	81	0	6	Scheiß	81-subjective0	Negative	Related
+subjective	82	83	96	bitte beheben	82-subjective1	Negative	Related
+subjective	82	69	82	ging es nicht	82-subjective0	Negative	Related
+subjective	82	61	68	fehlers	82-subjective2	Negative	Related
+aspect	82	20	31	instalieren	82-aspect0	Unknown	Related
+subjective	83	44	64	funktioniert einfach	83-subjective2	Positive	Related
+subjective	83	14	29	tut was er soll	83-subjective1	Negative	Related
+subjective	83	6	12	stabil	83-subjective0	Positive	Related
+aspect	83	0	5	Läuft	83-aspect0	Unknown	Related
+aspect	84	15	28	Windows Phone	84-aspect4	Unknown	Foreign
+subjective	84	29	39	wäre schön	84-subjective4	Negative	Related
+subjective	84	46	61	wäre noch schön	84-subjective3	Negative	Related
+aspect	84	76	101	Version für Windows Phone	84-aspect3	Neutral	Foreign
+subjective	84	118	121	Top	84-subjective2	Positive	Related
+aspect	84	122	125	App	84-aspect2	Neutral	Related
+aspect	84	127	146	Farben der Kontakte	84-aspect1	Neutral	Related
+subjective	84	168	175	zu Bunt	84-subjective1	Negative	Related
+aspect	85	5	11	Update	85-aspect4	Unknown	Related
+subjective	85	15	27	Echt scheiße	85-subjective6	Negative	Related
+subjective	85	65	75	nicht mehr	85-subjective5	Negative	Related
+aspect	85	76	84	abmelden	85-aspect3	Neutral	Related
+subjective	85	107	117	schlechter	85-subjective4	Negative	Related
+aspect	85	181	187	update	85-aspect2	Neutral	Related
+subjective	85	195	205	bloß nicht	85-subjective3	Negative	Related
+subjective	85	261	265	Mist	85-subjective2	Negative	Related
+aspect	85	295	298	icq	85-aspect1	Neutral	Related
+subjective	85	300	319	Bitte wieder ändern	85-subjective1	Negative	Related
+subjective	86	2	6	love	86-subjective3	Positive	Related
+aspect	86	7	16	whats app	86-aspect2	Neutral	Related
+subjective	86	24	29	liebe	86-subjective2	Positive	Related
+aspect	86	30	35	whats	86-aspect1	Neutral	Related
+subjective	86	50	63	lieblings app	86-subjective1	Positive	Related
+aspect	87	5	13	whatsapp	87-aspect1	Unknown	Related
+subjective	87	28	30	😊	87-subjective1	Positive	Related
+subjective	88	0	11	hängt total	88-subjective3	Negative	Related
+subjective	88	15	25	lächerlich	88-subjective2	Negative	Related
+subjective	88	168	211	kann einen verdammt nochmal verrückt machen	88-subjective1	Negative	Related
+subjective	89	10	20	ganz nette	89-subjective1	Positive	Related
+aspect	89	21	24	app	89-aspect1	Neutral	Related
+aspect	90	0	8	WhatsApp	90-aspect1	Unknown	Related
+subjective	90	12	29	Einfache nur cool	90-subjective1	Positive	Related
+subjective	92	0	8	Sehr gut	92-subjective1	Positive	Related
+subjective	93	43	57	stören einfach	93-subjective1	Negative	Related
+subjective	94	0	9	Geillllll	94-subjective4	Positive	Related
+subjective	94	13	22	Mega toll	94-subjective3	Positive	Related
+subjective	94	23	35	ich Liebe es	94-subjective2	Positive	Related
+subjective	94	96	108	richtig geil	94-subjective1	Positive	Related
+aspect	95	146	154	Programm	95-aspect1	Neutral	Related
+subjective	95	162	168	scheiß	95-subjective1	Negative	Related
+subjective	96	13	21	Sehr gut	96-subjective0	Positive	Related
+subjective	97	0	10	Topposoppo	97-subjective0	Positive	Related
+subjective	98	15	33	nicht sehr bekannt	98-subjective1	Negative	Related
+subjective	98	0	6	Schade	98-subjective0	Negative	Related
+aspect	99	27	33	emojis	99-aspect0	Neutral	Related
+subjective	99	0	4	Nice	99-subjective0	Positive	Related
+subjective	100	209	231	gefällt mir auch super	100-subjective2	Positive	Related
+aspect	100	193	208	blauen Häckchen	100-aspect3	Neutral	Related
+aspect	100	178	184	Update	100-aspect4	Neutral	Related
+aspect	100	158	167	Messenger	100-aspect2	Neutral	Related
+subjective	100	132	146	sehr zufrieden	100-subjective1	Positive	Related
+aspect	100	102	110	Whatsapp	100-aspect1	Neutral	Related
+subjective	100	48	64	weiter empfehlen	100-subjective0	Negative	Related
+aspect	100	35	43	Whatsapp	100-aspect0	Unknown	Related
+subjective	101	17	25	abgehört	101-subjective1	Negative	Related
+subjective	101	0	9	Behindert	101-subjective0	Negative	Related
+aspect	102	105	113	Whatsapp	102-aspect3	Neutral	Related
+aspect	102	64	70	oeffen	102-aspect2	Neutral	Related
+subjective	102	53	63	nicht mehr	102-subjective1	Negative	Related
+aspect	102	32	40	Whatsapp	102-aspect1	Neutral	Related
+aspect	102	22	28	öffnen	102-aspect0	Neutral	Related
+subjective	102	11	21	nicht mehr	102-subjective0	Negative	Related
+subjective	103	22	35	ohne Probleme	103-subjective1	Negative	Related
+aspect	103	16	21	Läuft	103-aspect0	Neutral	Related
+subjective	103	4	12	sehr gut	103-subjective0	Positive	Related
+subjective	104	13	27	Hängt nur noch	104-subjective1	Negative	Related
+subjective	104	0	7	Schwach	104-subjective0	Negative	Related
+aspect	105	47	54	smilies	105-aspect1	Neutral	Foreign
+subjective	105	26	46	könnte ein paar neue	105-subjective2	Negative	Related
+subjective	105	12	17	Super	105-subjective1	Positive	Related
+aspect	105	5	8	app	105-aspect0	Neutral	Related
+subjective	105	0	4	Gute	105-subjective0	Positive	Related
+subjective	106	30	43	wäre sinnvoll	106-subjective0	Negative	Related
+aspect	106	5	29	sortierung nach accounts	106-aspect0	Unknown	Foreign
+subjective	107	215	238	ein Schritt nach hinten	107-subjective2	Negative	Related
+subjective	107	115	136	einfach nur furchtbar	107-subjective1	Negative	Related
+aspect	107	106	110	Look	107-aspect1	Neutral	Related
+subjective	107	11	31	einfach nur hässlich	107-subjective0	Negative	Related
+aspect	107	6	10	Look	107-aspect0	Unknown	Related
+aspect	108	50	64	herunter laden	108-aspect1	Neutral	Related
+subjective	108	35	49	nicht mal mehr	108-subjective1	Negative	Related
+aspect	108	25	34	whats app	108-aspect0	Neutral	Related
+subjective	108	0	12	Scheiß Dreck	108-subjective0	Negative	Related
+subjective	109	40	51	einwandfrei	109-subjective1	Positive	Related
+aspect	109	34	39	läuft	109-aspect0	Neutral	Related
+subjective	109	22	33	net beklage	109-subjective2	Positive	Related
+subjective	109	0	8	Sehr gut	109-subjective0	Positive	Related
+aspect	110	174	185	bearbeitung	110-aspect3	Neutral	Foreign
+subjective	110	156	161	bitte	110-subjective2	Negative	Related
+subjective	110	80	101	nicht mehr herstellen	110-subjective1	Negative	Related
+aspect	110	49	55	Profil	110-aspect2	Neutral	Related
+aspect	110	36	42	update	110-aspect1	Neutral	Related
+subjective	110	13	23	nicht mehr	110-subjective0	Negative	Related
+aspect	110	0	12	Funktioniert	110-aspect0	Unknown	Related
+subjective	111	7	10	gut	111-subjective1	Positive	Related
+subjective	111	0	3	gut	111-subjective0	Positive	Related
+subjective	112	14	22	hässlich	112-subjective0	Negative	Related
+aspect	112	0	6	Desing	112-aspect0	Unknown	Related
+subjective	113	170	186	Bitte verbessern	113-subjective0	Negative	Related
+subjective	113	155	168	nicht mehr da	113-subjective1	Negative	Related
+aspect	113	116	125	Übersicht	113-aspect2	Neutral	Related
+subjective	113	103	105	:/	113-subjective3	Negative	Related
+subjective	113	97	102	nervt	113-subjective2	Negative	Related
+aspect	113	18	24	update	113-aspect1	Unknown	Related
+aspect	113	0	6	Update	113-aspect0	Unknown	Related
+subjective	114	12	25	Stürzt nur ab	114-subjective1	Negative	Related
+subjective	114	0	8	Schlecht	114-subjective0	Negative	Related
+subjective	115	126	142	alles ganz leise	115-subjective1	Negative	Related
+aspect	115	68	85	Audio Nachrichten	115-aspect1	Neutral	Related
+subjective	115	54	62	Probleme	115-subjective0	Negative	Related
+aspect	115	39	53	Aktualisierung	115-aspect2	Unknown	Related
+aspect	115	0	17	Audio Nachrichten	115-aspect0	Unknown	Related
+subjective	116	18	26	beschtes	116-subjective0	Positive	Related
+aspect	116	0	13	Whatsapp plus	116-aspect0	Unknown	Related
+subjective	117	119	122	^ ^	117-subjective2	Positive	Related
+aspect	117	106	118	Telefonieren	117-aspect3	Neutral	Related
+subjective	117	96	105	kostenlos	117-subjective1	Positive	Related
+aspect	117	68	74	update	117-aspect2	Neutral	Related
+subjective	117	29	48	einfach nur perfekt	117-subjective0	Positive	Related
+aspect	117	25	28	App	117-aspect1	Unknown	Related
+aspect	117	0	7	Perfekt	117-aspect0	Unknown	Related
+aspect	118	69	72	App	118-aspect1	Neutral	Related
+subjective	118	23	47	gar nicht mehr angezeigt	118-subjective0	Negative	Related
+aspect	118	0	11	Nachrichten	118-aspect0	Unknown	Related
+aspect	119	44	54	what's app	119-aspect1	Unknown	Related
+aspect	119	0	10	What's App	119-aspect0	Unknown	Related
+subjective	120	48	50	:)	120-subjective3	Positive	Related
+subjective	120	28	47	nur weiterempfehlen	120-subjective2	Positive	Related
+aspect	120	15	18	App	120-aspect0	Neutral	Related
+subjective	120	9	14	Super	120-subjective1	Positive	Related
+subjective	120	0	5	Super	120-subjective0	Positive	Related
+aspect	121	48	66	hat es nur niemand	121-aspect2	Neutral	Related
+subjective	121	41	47	leider	121-subjective2	Negative	Related
+subjective	121	33	39	Spitze	121-subjective1	Positive	Related
+aspect	121	25	28	App	121-aspect1	Neutral	Related
+subjective	121	4	9	passt	121-subjective0	Positive	Related
+aspect	121	0	3	App	121-aspect0	Unknown	Related
+subjective	122	56	70	nicht gesendet	122-subjective1	Negative	Related
+aspect	122	43	55	code per SMS	122-aspect1	Neutral	Related
+subjective	122	9	23	nicht gesendet	122-subjective0	Negative	Related
+aspect	122	0	3	SMS	122-aspect0	Unknown	Related
+subjective	123	0	14	Bin begeistert	123-subjective0	Positive	Related
+subjective	124	7	12	Super	124-subjective1	Positive	Related
+subjective	124	0	3	Top	124-subjective0	Positive	Related
+subjective	125	21	40	nicht einmal öffnen	125-subjective0	Negative	Related
+aspect	125	17	20	app	125-aspect0	Unknown	Related
+aspect	126	92	97	hängt	126-aspect1	Neutral	Related
+subjective	126	82	91	ab und zu	126-subjective2	Negative	Related
+aspect	126	63	72	schreiben	126-aspect0	Neutral	Related
+subjective	126	17	37	macht echt viel Spaß	126-subjective1	Positive	Related
+subjective	126	0	12	Einfach cool	126-subjective0	Positive	Related
+aspect	127	24	33	waths app	127-aspect0	Neutral	Related
+subjective	127	12	16	Toll	127-subjective1	Positive	Related
+subjective	127	0	8	Echt gut	127-subjective0	Positive	Related
+subjective	128	7	14	perfekt	128-subjective1	Positive	Related
+subjective	128	0	6	Oh yes	128-subjective0	Positive	Related
+aspect	129	170	175	skype	129-aspect1	Neutral	Related
+aspect	129	86	98	telefonieren	129-aspect0	Neutral	Related
+subjective	129	60	85	mit mehreren gleichreitig	129-subjective2	Positive	Related
+subjective	129	23	37	sehr zufrieden	129-subjective1	Positive	Related
+subjective	129	0	8	Sehr gut	129-subjective0	Positive	Related
+subjective	130	23	26	♡ ♥ ♡	130-subjective1	Positive	Related
+subjective	130	0	12	Einfach geil	130-subjective0	Positive	Related
+subjective	131	41	66	erst wenn ich onliine bin	131-subjective1	Negative	Related
+aspect	131	29	40	nachrichten	131-aspect0	Neutral	Related
+subjective	131	0	11	O man o man	131-subjective0	Negative	Related
+subjective	132	113	127	wäre echt geil	132-subjective1	Negative	Related
+aspect	132	22	52	grüner punkt auf den kontakten	132-aspect0	Neutral	Foreign
+subjective	132	3	12	wäre geil	132-subjective0	Negative	Related
+subjective	133	7	16	Läd nicht	133-subjective1	Negative	Related
+subjective	133	0	3	Omg	133-subjective0	Negative	Related
+subjective	134	58	74	ungültiges Paket	134-subjective1	Negative	Related
+aspect	134	32	42	insatliere	134-aspect0	Neutral	Related
+subjective	134	8	15	scheiße	134-subjective0	Negative	Related
+aspect	135	34	52	Update Neuigkeiten	135-aspect1	Neutral	Foreign
+subjective	135	10	20	Wäre schön	135-subjective0	Negative	Related
+aspect	135	0	6	Update	135-aspect0	Unknown	Related
+subjective	136	0	17	Macht was es soll	136-subjective0	Positive	Related
+subjective	137	120	133	Bitte beheben	137-subjective2	Negative	Related
+subjective	137	98	118	überhaupt nicht mehr	137-subjective1	Negative	Related
+aspect	137	82	94	funktioniert	137-aspect1	Neutral	Related
+aspect	137	47	58	Nachrichten	137-aspect2	Neutral	Related
+subjective	137	25	35	aufgehängt	137-subjective0	Negative	Related
+aspect	137	0	8	Whatsapp	137-aspect0	Unknown	Related
+subjective	139	79	92	Bitte Bug fix	139-subjective2	Negative	Related
+subjective	139	56	77	spackt es so hart rum	139-subjective0	Negative	Related
+aspect	139	49	55	update	139-aspect0	Neutral	Related
+aspect	139	17	25	snapchat	139-aspect1	Neutral	Related
+subjective	139	11	16	liebe	139-subjective1	Positive	Related
+aspect	140	229	241	Gruppenchats	140-aspect0	Neutral	Related
+subjective	140	206	228	wer braucht bitteschön	140-subjective1	Negative	Related
+subjective	140	0	15	Leider ein Muss	140-subjective0	Negative	Related
+subjective	141	81	83	👍	141-subjective3	Positive	Related
+subjective	141	47	72	kann garnichts dazu dagen	141-subjective2	Positive	Related
+subjective	141	36	41	super	141-subjective1	Positive	Related
+aspect	141	28	31	app	141-aspect1	Neutral	Related
+aspect	141	17	20	app	141-aspect0	Neutral	Related
+subjective	141	0	12	Richtig geil	141-subjective0	Positive	Related
+subjective	142	14	16	: D	142-subjective1	Positive	Related
+aspect	142	10	13	app	142-aspect0	Neutral	Related
+subjective	142	0	9	Echt gute	142-subjective0	Positive	Related
+subjective	143	0	4	Nice	143-subjective0	Positive	Related
+aspect	144	18	38	Whatsapp-Alternative	144-aspect0	Unknown	Related
+subjective	144	12	17	beste	144-subjective2	Positive	Related
+subjective	144	9	11	👍	144-subjective1	Positive	Related
+subjective	144	0	8	Sehr gut	144-subjective0	Positive	Related
+subjective	145	8	27	Stürzt dauerhaft ab	145-subjective1	Negative	Related
+subjective	145	0	4	Doff	145-subjective0	Negative	Related
+subjective	146	177	186	umsteigen	146-subjective2	Negative	Related
+aspect	146	167	176	WhatsApp +	146-aspect2	Neutral	Related
+subjective	146	90	98	gesperrt	146-subjective1	Negative	Related
+aspect	146	73	89	WhatsApp + Nutzer	146-aspect1	Neutral	Related
+subjective	146	24	32	gesperrt	146-subjective0	Negative	Related
+aspect	146	0	16	WhatsApp + Nutzer	146-aspect0	Unknown	Related
+subjective	147	6	13	Problem	147-subjective0	Negative	Related
+subjective	148	0	3	Lol	148-subjective0	Positive	Related
+subjective	149	193	195	😊	149-subjective7	Positive	Related
+aspect	149	186	192	kostet	149-aspect5	Neutral	Related
+subjective	149	171	185	nur um die 80 ¢	149-subjective6	Positive	Related
+aspect	149	158	161	app	149-aspect4	Neutral	Related
+subjective	149	144	148	toll	149-subjective5	Positive	Related
+aspect	149	117	129	kontaktieren	149-aspect3	Neutral	Related
+subjective	149	106	116	kostenfrei	149-subjective3	Positive	Related
+aspect	149	92	101	schreiben	149-aspect2	Neutral	Related
+subjective	149	82	91	kostenlos	149-subjective4	Positive	Related
+aspect	149	62	65	app	149-aspect1	Neutral	Related
+subjective	149	48	50	👌	149-subjective2	Positive	Related
+subjective	149	25	48	nur weiter zu empfehlen	149-subjective1	Positive	Related
+aspect	149	12	20	whatsapp	149-aspect0	Neutral	Related
+subjective	149	0	3	Top	149-subjective0	Positive	Related
+subjective	150	19	32	einfach super	150-subjective2	Positive	Related
+aspect	150	15	18	app	150-aspect0	Neutral	Related
+subjective	150	9	14	Super	150-subjective1	Positive	Related
+subjective	150	0	5	Super	150-subjective0	Positive	Related
+subjective	151	30	33	; (	151-subjective1	Negative	Related
+aspect	151	15	29	blauen Häkchen	151-aspect0	Neutral	Related
+subjective	151	4	10	fehlen	151-subjective0	Negative	Related
+subjective	152	9	11	👍	152-subjective1	Positive	Related
+aspect	152	6	9	App	152-aspect0	Neutral	Related
+subjective	152	0	5	Super	152-subjective0	Positive	Related
+subjective	153	7	16	alles gut	153-subjective0	Positive	Related
+aspect	154	41	59	2gäreten verbinden	154-aspect0	Neutral	Related
+subjective	154	10	24	wäre aber cool	154-subjective1	Negative	Related
+subjective	154	0	9	Voll cool	154-subjective0	Positive	Related
+aspect	155	92	116	Liste der besten Freunde	155-aspect1	Neutral	Related
+subjective	155	71	81	wäre schön	155-subjective1	Negative	Related
+subjective	155	41	66	leider nicht mehr so toll	155-subjective0	Negative	Related
+aspect	155	34	40	Update	155-aspect0	Unknown	Related
+subjective	156	270	299	hab es mir anders vorgestellt	156-subjective0	Negative	Related
+subjective	157	353	362	wären top	157-subjective4	Negative	Related
+aspect	157	339	352	sprachnotizen	157-aspect4	Neutral	Foreign
+aspect	157	296	307	verschenken	157-aspect5	Neutral	Related
+subjective	157	237	246	Cool wäre	157-subjective5	Negative	Related
+subjective	157	224	235	recht lange	157-subjective3	Negative	Related
+aspect	157	161	177	smileys einfügen	157-aspect3	Neutral	Related
+aspect	157	99	125	Vibration selbst bestimmen	157-aspect2	Neutral	Related
+subjective	157	65	70	Bitte	157-subjective2	Negative	Related
+subjective	157	56	63	zu lang	157-subjective1	Negative	Related
+aspect	157	36	55	Dauer der Vibration	157-aspect1	Neutral	Related
+subjective	157	13	22	erwünscht	157-subjective0	Negative	Related
+aspect	157	0	12	Verbesserung	157-aspect0	Unknown	Related
+subjective	158	8	10	😊	158-subjective1	Positive	Related
+subjective	158	0	8	Sehr gut	158-subjective0	Positive	Related
+subjective	159	9	12	Top	159-subjective1	Positive	Related
+subjective	159	0	5	Super	159-subjective0	Positive	Related

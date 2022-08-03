@@ -1,0 +1,572 @@
+subjective	1000	0	9	Frechheit	1000-subjective5	Negative	Related
+aspect	1000	48	55	pro app	1000-aspect2	Neutral	Related
+subjective	1000	80	102	immer noch nicht genug	1000-subjective4	Negative	Related
+aspect	1000	123	139	Kauf des coaches	1000-aspect1	Neutral	Related
+subjective	1000	140	149	gezwungen	1000-subjective3	Negative	Related
+subjective	1000	185	205	ziemlich unverschämt	1000-subjective2	Negative	Related
+subjective	1000	216	230	Bin enttäuscht	1000-subjective1	Negative	Related
+subjective	1001	16	20	Spaß	1001-subjective1	Positive	Related
+subjective	1002	0	5	Super	1002-subjective3	Positive	Related
+aspect	1002	32	35	app	1002-aspect2	Neutral	Related
+subjective	1002	36	41	super	1002-subjective2	Positive	Related
+subjective	1002	86	90	mehr	1002-subjective1	Negative	Related
+aspect	1002	91	101	Sportarten	1002-aspect1	Neutral	Related
+subjective	1003	0	3	Top	1003-subjective1	Positive	Related
+aspect	1003	33	44	pro version	1003-aspect1	Neutral	Related
+subjective	1004	0	3	Gut	1004-subjective2	Positive	Related
+subjective	1004	18	27	echt cool	1004-subjective1	Positive	Related
+aspect	1005	0	9	Runtastic	1005-aspect2	Unknown	Related
+aspect	1005	19	22	app	1005-aspect1	Unknown	Related
+subjective	1005	27	40	sehr nützlich	1005-subjective1	Positive	Related
+subjective	1006	0	11	Daumen hoch	1006-subjective3	Positive	Related
+subjective	1006	16	21	Super	1006-subjective2	Positive	Related
+aspect	1006	22	25	app	1006-aspect1	Neutral	Related
+subjective	1006	56	70	Einfach spitze	1006-subjective1	Positive	Related
+subjective	1007	0	5	Nette	1007-subjective2	Positive	Related
+aspect	1007	6	9	App	1007-aspect2	Unknown	Related
+aspect	1007	10	13	GPS	1007-aspect1	Neutral	Related
+subjective	1007	14	33	verbesserungswürdig	1007-subjective1	Negative	Related
+subjective	1008	0	13	Einfach super	1008-subjective2	Positive	Related
+subjective	1008	110	126	nur empfehlen :)	1008-subjective1	Positive	Related
+aspect	1009	0	3	GPS	1009-aspect1	Unknown	Related
+subjective	1010	0	5	Super	1010-subjective1	Positive	Related
+aspect	1010	6	9	app	1010-aspect1	Neutral	Related
+aspect	1011	14	17	app	1011-aspect2	Unknown	Related
+aspect	1011	46	49	app	1011-aspect1	Unknown	Related
+subjective	1011	55	92	leider nicht mehr weiter empfehlen :(	1011-subjective1	Negative	Related
+subjective	1012	7	12	Läuft	1012-subjective1	Positive	Related
+subjective	1012	0	3	Top	1012-subjective0	Positive	Related
+subjective	1013	72	92	finde es unpraktisch	1013-subjective0	Negative	Related
+aspect	1014	10	19	Sport App	1014-aspect0	Neutral	Related
+subjective	1014	4	9	beste	1014-subjective0	Positive	Related
+aspect	1015	61	68	Service	1015-aspect1	Neutral	Related
+subjective	1015	54	60	toller	1015-subjective2	Positive	Related
+aspect	1015	26	36	Funktionen	1015-aspect0	Neutral	Related
+subjective	1015	20	25	tolle	1015-subjective1	Positive	Related
+subjective	1015	0	6	Super !	1015-subjective0	Positive	Related
+subjective	1016	102	132	Ihr werdet es nicht bereuen :)	1016-subjective5	Positive	Related
+aspect	1016	87	100	runtastic app	1016-aspect0	Neutral	Related
+subjective	1016	66	82	Bitte ladet euch	1016-subjective4	Positive	Related
+subjective	1016	55	64	kostenlos	1016-subjective3	Positive	Related
+subjective	1016	43	46	Wow	1016-subjective2	Positive	Related
+subjective	1016	18	41	einfach nur beeindruckt	1016-subjective1	Positive	Related
+subjective	1016	0	6	Genial	1016-subjective0	Positive	Related
+subjective	1017	12	16	cool	1017-subjective1	Positive	Related
+subjective	1017	0	5	Super	1017-subjective0	Positive	Related
+subjective	1018	25	39	einfach klasse	1018-subjective1	Positive	Related
+aspect	1018	15	20	Couch	1018-aspect1	Neutral	Related
+aspect	1018	6	9	app	1018-aspect0	Neutral	Related
+subjective	1018	0	5	Super	1018-subjective0	Positive	Related
+subjective	1019	3	16	macht Spaß :)	1019-subjective0	Positive	Related
+subjective	1020	0	9	Voll gut !	1020-subjective0	Positive	Related
+subjective	1022	29	31	👍	1022-subjective2	Positive	Related
+aspect	1022	20	28	Programm	1022-aspect1	Neutral	Related
+subjective	1022	14	19	super	1022-subjective1	Positive	Related
+aspect	1022	6	9	App	1022-aspect0	Neutral	Related
+subjective	1022	0	5	Tolle	1022-subjective0	Positive	Related
+aspect	1023	178	183	Laufs	1023-aspect2	Neutral	Related
+subjective	1023	134	165	Abstürze mit komplettem Verlust	1023-subjective2	Negative	Related
+aspect	1023	117	132	Sperrbildschirm	1023-aspect4	Neutral	Related
+aspect	1023	99	108	Verhalten	1023-aspect1	Neutral	Related
+subjective	1023	75	98	Nicht nachvollziehbares	1023-subjective1	Negative	Related
+subjective	1023	57	73	zu Tode gepached	1023-subjective3	Negative	Related
+aspect	1023	43	56	Sports Tacker	1023-aspect3	Neutral	Related
+subjective	1023	17	27	unstabiler	1023-subjective0	Positive	Related
+aspect	1023	10	16	Update	1023-aspect0	Unknown	Related
+subjective	1024	0	15	Kostenpflichtig	1024-subjective1	Negative	Related
+aspect	1024	92	95	app	1024-aspect1	Neutral	Related
+subjective	1025	0	3	Top	1025-subjective3	Positive	Related
+aspect	1025	26	42	Wartungsarbeiten	1025-aspect1	Neutral	Related
+subjective	1025	109	139	vergeht einem einfach die Lust	1025-subjective2	Negative	Related
+subjective	1025	146	154	gelöscht	1025-subjective1	Negative	Related
+subjective	1026	14	18	cool	1026-subjective1	Positive	Related
+subjective	1027	0	4	Gute	1027-subjective2	Positive	Related
+aspect	1027	5	8	App	1027-aspect1	Neutral	Related
+subjective	1027	20	38	ziemlich zufrieden	1027-subjective1	Positive	Related
+aspect	1028	0	12	Funktioniert	1028-aspect3	Unknown	Related
+subjective	1028	13	20	bestens	1028-subjective3	Positive	Related
+aspect	1028	24	34	Gps Signal	1028-aspect2	Neutral	Related
+subjective	1028	40	56	schnell gefunden	1028-subjective2	Positive	Related
+aspect	1028	68	73	Route	1028-aspect1	Neutral	Related
+subjective	1028	84	101	genau aufgenommen	1028-subjective1	Positive	Related
+subjective	1029	0	8	Perfekte	1029-subjective3	Positive	Related
+aspect	1029	9	12	app	1029-aspect5	Neutral	Related
+aspect	1029	26	42	Running Funktion	1029-aspect4	Neutral	Related
+subjective	1029	43	53	verbessern	1029-subjective2	Negative	Related
+aspect	1029	55	58	GPS	1029-aspect3	Neutral	Related
+subjective	1029	59	70	präzisieren	1029-subjective1	Negative	Related
+aspect	1029	75	78	Run	1029-aspect2	Neutral	Related
+aspect	1029	133	136	Run	1029-aspect1	Neutral	Related
+subjective	1030	0	4	Gute	1030-subjective2	Positive	Related
+aspect	1030	5	12	Übungen	1030-aspect2	Neutral	Related
+subjective	1030	16	22	Coolrs	1030-subjective1	Positive	Related
+aspect	1030	23	31	Programm	1030-aspect1	Unknown	Related
+subjective	1031	0	21	Alles was man braucht	1031-subjective2	Positive	Related
+subjective	1031	25	30	Tolle	1031-subjective1	Positive	Related
+aspect	1031	42	50	Training	1031-aspect1	Unknown	Related
+subjective	1032	0	5	Super	1032-subjective4	Positive	Related
+aspect	1032	17	35	trainingseinheiten	1032-aspect5	Neutral	Related
+aspect	1032	44	55	Erklärungen	1032-aspect4	Neutral	Related
+subjective	1032	61	66	super	1032-subjective3	Positive	Related
+aspect	1032	67	70	app	1032-aspect3	Neutral	Related
+aspect	1032	97	108	aufstellung	1032-aspect2	Neutral	Related
+subjective	1032	109	132	viel zu unübersichtlich	1032-subjective2	Negative	Related
+aspect	1032	150	158	kalender	1032-aspect1	Neutral	Foreign
+subjective	1032	164	169	super	1032-subjective1	Negative	Related
+subjective	1033	0	6	Stabil	1033-subjective3	Positive	Related
+subjective	1033	8	14	leicht	1033-subjective2	Positive	Related
+aspect	1033	18	26	bedienen	1033-aspect1	Neutral	Related
+subjective	1033	28	43	einfach nur gut	1033-subjective1	Positive	Related
+aspect	1034	0	5	Läuft	1034-aspect1	Unknown	Related
+subjective	1034	6	12	besten	1034-subjective1	Positive	Related
+aspect	1035	0	6	Update	1035-aspect2	Unknown	Related
+aspect	1035	10	19	Anwendung	1035-aspect1	Unknown	Related
+subjective	1035	26	40	nicht gefunden	1035-subjective1	Negative	Related
+aspect	1036	138	145	Account	1036-aspect2	Neutral	Related
+subjective	1036	98	117	stimmt leider nicht	1036-subjective1	Negative	Related
+aspect	1036	90	97	Antwort	1036-aspect3	Neutral	Related
+subjective	1036	69	82	keine Antwort	1036-subjective0	Negative	Related
+aspect	1036	42	49	Support	1036-aspect1	Unknown	Related
+aspect	1036	0	3	PRO	1036-aspect0	Unknown	Related
+subjective	1037	0	7	Abzocke	1037-subjective0	Negative	Related
+subjective	1038	111	125	sehr sehr Hart	1038-subjective2	Positive	Related
+subjective	1038	85	102	einfach das beste	1038-subjective1	Positive	Related
+aspect	1038	56	71	Muskel aufbauen	1038-aspect1	Neutral	Related
+aspect	1038	42	50	abnehmen	1038-aspect2	Neutral	Related
+aspect	1038	18	21	App	1038-aspect0	Neutral	Related
+subjective	1038	0	17	Einfach die Beste	1038-subjective0	Positive	Related
+subjective	1039	78	82	Mist	1039-subjective1	Negative	Related
+aspect	1039	54	66	GPS-Funktion	1039-aspect0	Neutral	Related
+subjective	1039	19	36	nichts zu meckern	1039-subjective0	Positive	Related
+subjective	1040	11	14	Top	1040-subjective2	Positive	Related
+subjective	1040	7	10	Top	1040-subjective1	Positive	Related
+subjective	1040	0	3	Top	1040-subjective0	Positive	Related
+subjective	1041	318	337	verbesserungswürdig	1041-subjective6	Negative	Related
+aspect	1041	232	235	app	1041-aspect4	Neutral	Related
+subjective	1041	134	143	felerhaft	1041-subjective5	Negative	Related
+aspect	1041	119	129	km Anzeige	1041-aspect3	Neutral	Related
+aspect	1041	99	108	gestaltet	1041-aspect2	Neutral	Related
+subjective	1041	85	98	übersichtlich	1041-subjective4	Positive	Related
+subjective	1041	73	80	einfach	1041-subjective3	Positive	Related
+subjective	1041	66	70	toll	1041-subjective2	Positive	Related
+aspect	1041	58	61	app	1041-aspect1	Neutral	Related
+subjective	1041	36	45	felerhaft	1041-subjective1	Negative	Related
+aspect	1041	28	35	Messung	1041-aspect0	Neutral	Related
+subjective	1041	0	15	Leider nur 3 * * *	1041-subjective0	Negative	Related
+subjective	1042	25	31	klasse	1042-subjective1	Positive	Related
+aspect	1042	21	24	App	1042-aspect0	Neutral	Related
+subjective	1042	0	4	Cool	1042-subjective0	Positive	Related
+subjective	1043	0	11	Einfach gut	1043-subjective0	Positive	Related
+subjective	1044	79	88	Weiter so	1044-subjective1	Positive	Related
+aspect	1044	36	46	GPS Logger	1044-aspect1	Neutral	Related
+subjective	1044	30	35	beste	1044-subjective0	Positive	Related
+aspect	1044	0	14	Sports tracker	1044-aspect0	Unknown	Related
+aspect	1045	41	50	Anmeldung	1045-aspect0	Unknown	Related
+subjective	1045	36	40	ohne	1045-subjective2	Positive	Related
+subjective	1045	12	29	Abwechslungsreich	1045-subjective1	Positive	Related
+subjective	1045	0	8	Sehr gut	1045-subjective0	Positive	Related
+subjective	1046	13	22	alles gut	1046-subjective0	Positive	Related
+subjective	1047	0	16	Echt ein ansporn	1047-subjective0	Positive	Related
+aspect	1048	40	50	Nike + Konto	1048-aspect0	Unknown	Related
+aspect	1049	269	278	runkeeper	1049-aspect2	Neutral	Related
+subjective	1049	263	268	Danke	1049-subjective2	Positive	Related
+aspect	1049	214	240	im Hintergrund gespeichert	1049-aspect3	Neutral	Related
+subjective	1049	61	66	Beste	1049-subjective3	Positive	Related
+aspect	1049	43	46	GPS	1049-aspect1	Neutral	Related
+subjective	1049	18	33	Ab und an hängt	1049-subjective1	Negative	Related
+aspect	1049	4	11	Laufapp	1049-aspect0	Neutral	Related
+subjective	1049	0	3	Top	1049-subjective0	Positive	Related
+subjective	1050	13	24	einwandfrei	1050-subjective0	Positive	Related
+aspect	1050	0	12	Funktioniert	1050-aspect0	Unknown	Related
+subjective	1051	4	17	totale scheiß	1051-subjective0	Negative	Related
+aspect	1052	6	9	app	1052-aspect0	Neutral	Related
+subjective	1052	0	5	Super	1052-subjective0	Positive	Related
+aspect	1053	15	18	app	1053-aspect0	Neutral	Related
+subjective	1053	9	14	Super	1053-subjective1	Positive	Related
+subjective	1053	0	5	Super	1053-subjective0	Positive	Related
+subjective	1054	94	117	funktioniert nicht mehr	1054-subjective3	Negative	Related
+aspect	1054	80	93	GPS Empfänger	1054-aspect3	Neutral	Related
+subjective	1054	67	74	nutzlos	1054-subjective2	Negative	Related
+subjective	1054	48	51	gut	1054-subjective1	Positive	Related
+aspect	1054	44	47	App	1054-aspect2	Neutral	Related
+aspect	1054	26	39	funktionierte	1054-aspect1	Neutral	Related
+aspect	1054	5	8	GPS	1054-aspect0	Neutral	Related
+subjective	1054	0	4	Kein	1054-subjective0	Negative	Related
+subjective	1055	89	92	top	1055-subjective2	Positive	Related
+subjective	1055	55	87	hat alles was man dafür benötigt	1055-subjective1	Positive	Related
+aspect	1055	37	49	lauftraining	1055-aspect2	Neutral	Related
+aspect	1055	29	32	app	1055-aspect1	Neutral	Related
+aspect	1055	6	9	App	1055-aspect0	Neutral	Related
+subjective	1055	0	5	Super	1055-subjective0	Positive	Related
+aspect	1056	100	103	GPS	1056-aspect2	Neutral	Related
+subjective	1056	95	99	ohne	1056-subjective1	Negative	Related
+aspect	1056	49	52	GPS	1056-aspect1	Neutral	Related
+subjective	1056	4	26	funktioniert gar nicht	1056-subjective0	Negative	Related
+aspect	1056	0	3	GPS	1056-aspect0	Unknown	Related
+subjective	1057	127	139	verschwunden	1057-subjective2	Negative	Related
+aspect	1057	98	122	Angabe der Streckenlänge	1057-aspect2	Neutral	Related
+aspect	1057	88	93	Karte	1057-aspect1	Neutral	Related
+subjective	1057	37	61	nicht mehr zu gebrauchen	1057-subjective0	Negative	Related
+aspect	1057	29	36	Werbung	1057-aspect0	Neutral	Related
+subjective	1057	0	14	Werbung deluxe	1057-subjective1	Negative	Related
+subjective	1058	0	8	ganz gut	1058-subjective0	Positive	Related
+subjective	1059	20	34	empfehlenswert	1059-subjective1	Positive	Related
+aspect	1059	3	16	Sportprogramm	1059-aspect0	Neutral	Related
+subjective	1059	0	2	1A	1059-subjective0	Positive	Related
+subjective	1060	237	251	verloren gehen	1060-subjective2	Negative	Related
+aspect	1060	215	236	aufgezeichneten Daten	1060-aspect2	Neutral	Related
+aspect	1060	156	159	App	1060-aspect1	Neutral	Related
+subjective	1060	145	151	stürzt	1060-subjective3	Negative	Related
+aspect	1060	92	136	Auswertung auf dem Smartphone und auf dem PC	1060-aspect3	Neutral	Related
+subjective	1060	85	91	tollen	1060-subjective4	Positive	Related
+aspect	1060	71	74	App	1060-aspect0	Neutral	Related
+subjective	1060	59	70	sehr schöne	1060-subjective0	Positive	Related
+subjective	1060	0	38	Ausprobieren lohnt sich auf jeden Fall	1060-subjective1	Positive	Related
+subjective	1061	81	83	👌	1061-subjective2	Positive	Related
+subjective	1061	78	80	ok	1061-subjective1	Positive	Related
+aspect	1061	74	77	App	1061-aspect2	Neutral	Related
+subjective	1061	37	53	ziemlich komisch	1061-subjective0	Negative	Related
+aspect	1061	14	29	deutsche Stimme	1061-aspect1	Unknown	Related
+aspect	1061	0	6	Stimme	1061-aspect0	Unknown	Related
+subjective	1062	226	239	Bitte beheben	1062-subjective4	Negative	Related
+subjective	1062	214	223	das nervt	1062-subjective3	Negative	Related
+subjective	1062	174	187	stimmen nicht	1062-subjective2	Negative	Related
+aspect	1062	171	173	Km	1062-aspect1	Neutral	Related
+subjective	1062	161	169	Probleme	1062-subjective1	Negative	Related
+aspect	1062	157	160	gps	1062-aspect0	Neutral	Related
+subjective	1062	110	124	sehr zufrieden	1062-subjective0	Positive	Related
+aspect	1062	71	82	pro version	1062-aspect2	Unknown	Related
+aspect	1062	37	40	App	1062-aspect3	Unknown	Related
+aspect	1063	119	131	Abweichungen	1063-aspect1	Neutral	Related
+subjective	1063	74	86	immer größer	1063-subjective1	Negative	Related
+aspect	1063	15	25	Abweichung	1063-aspect0	Neutral	Related
+subjective	1063	0	7	Geht so	1063-subjective0	Neutral	Related
+aspect	1064	11	20	runtastic	1064-aspect0	Unknown	Foreign
+subjective	1064	0	10	Besser als	1064-subjective0	Positive	Related
+subjective	1065	11	30	Macht richtig spass	1065-subjective1	Positive	Related
+aspect	1065	6	9	app	1065-aspect0	Neutral	Related
+subjective	1065	0	5	Super	1065-subjective0	Positive	Related
+subjective	1066	70	85	guter Begleiter	1066-subjective1	Positive	Related
+subjective	1066	0	19	Perfekter Begleiter	1066-subjective0	Positive	Related
+aspect	1067	234	245	Laufdistanz	1067-aspect2	Neutral	Related
+subjective	1067	211	219	schwankt	1067-subjective2	Negative	Related
+aspect	1067	147	163	Garmin GPS Gerät	1067-aspect6	Neutral	Foreign
+aspect	1067	120	136	open street maps	1067-aspect5	Neutral	Foreign
+aspect	1067	113	118	earth	1067-aspect4	Neutral	Foreign
+aspect	1067	100	111	Google maps	1067-aspect3	Neutral	Foreign
+subjective	1067	84	94	7% weniger	1067-subjective3	Negative	Related
+aspect	1067	39	48	Distanzen	1067-aspect1	Neutral	Related
+subjective	1067	31	38	falsche	1067-subjective1	Negative	Related
+aspect	1067	11	20	Runtastic	1067-aspect0	Neutral	Related
+subjective	1067	0	7	Ungenau	1067-subjective0	Negative	Related
+subjective	1068	165	173	2 Sterne	1068-subjective1	Negative	Related
+subjective	1068	112	125	nicht möglich	1068-subjective0	Negative	Related
+aspect	1068	70	104	einloggen mittels Facebook Account	1068-aspect0	Unknown	Related
+aspect	1068	47	61	gratis Version	1068-aspect1	Unknown	Related
+aspect	1068	15	26	Pro Version	1068-aspect2	Unknown	Related
+subjective	1069	0	3	Top	1069-subjective0	Positive	Related
+aspect	1070	41	57	Deutsche Sprache	1070-aspect1	Neutral	Related
+subjective	1070	31	36	fehlt	1070-subjective2	Positive	Related
+subjective	1070	18	23	super	1070-subjective1	Positive	Related
+aspect	1070	10	13	app	1070-aspect0	Neutral	Related
+subjective	1070	0	2	4 *	1070-subjective0	Positive	Related
+subjective	1071	8	24	stürzt häufig ab	1071-subjective0	Negative	Related
+aspect	1071	4	7	App	1071-aspect0	Unknown	Related
+aspect	1072	208	211	App	1072-aspect2	Neutral	Related
+aspect	1072	168	188	Trainings bearbeiten	1072-aspect3	Neutral	Foreign
+subjective	1072	77	92	nicht brauchbar	1072-subjective1	Negative	Related
+aspect	1072	55	68	Offline Modus	1072-aspect1	Neutral	Foreign
+subjective	1072	32	54	Leider noch immer kein	1072-subjective0	Negative	Related
+aspect	1072	0	13	Offline Modus	1072-aspect0	Unknown	Related
+aspect	1073	53	61	Pulsgurt	1073-aspect1	Neutral	Related
+subjective	1073	33	44	noch geiler	1073-subjective1	Positive	Related
+aspect	1073	6	18	Trainingsapp	1073-aspect0	Neutral	Related
+subjective	1073	0	5	Super	1073-subjective0	Positive	Related
+aspect	1074	6	9	app	1074-aspect0	Neutral	Related
+subjective	1074	0	5	Great	1074-subjective0	Positive	Related
+subjective	1075	39	45	spitze	1075-subjective1	Positive	Related
+subjective	1075	15	27	dauert lange	1075-subjective0	Negative	Related
+aspect	1075	0	14	GPS Verbindung	1075-aspect0	Unknown	Related
+subjective	1076	54	62	5 sterne	1076-subjective2	Positive	Related
+subjective	1076	39	53	sehr zufrieden	1076-subjective1	Positive	Related
+aspect	1076	31	34	app	1076-aspect0	Neutral	Related
+subjective	1076	25	30	tolle	1076-subjective0	Positive	Related
+subjective	1077	0	4	Good	1077-subjective0	Positive	Related
+subjective	1078	58	63	Danke	1078-subjective1	Positive	Related
+subjective	1078	46	56	macht Spaß	1078-subjective0	Positive	Related
+subjective	1078	32	44	funktioniert	1078-subjective2	Positive	Related
+subjective	1078	21	30	Motiviert	1078-subjective3	Positive	Related
+subjective	1078	0	16	Unbedingt testen	1078-subjective4	Positive	Related
+subjective	1079	46	66	viel besser geworden	1079-subjective1	Positive	Related
+subjective	1079	0	7	Perfekt	1079-subjective0	Positive	Related
+aspect	1080	27	30	app	1080-aspect0	Neutral	Related
+subjective	1080	21	26	super	1080-subjective0	Positive	Related
+subjective	1081	55	63	schlecht	1081-subjective2	Negative	Related
+subjective	1081	34	42	schlecht	1081-subjective1	Negative	Related
+subjective	1081	25	33	schlecht	1081-subjective0	Negative	Related
+subjective	1082	211	225	ziemlich genau	1082-subjective0	Positive	Related
+aspect	1082	207	210	App	1082-aspect0	Unknown	Related
+aspect	1082	19	22	App	1082-aspect1	Unknown	Related
+subjective	1083	57	70	nicht deutsch	1083-subjective1	Negative	Related
+aspect	1083	32	51	software für den pc	1083-aspect1	Neutral	Related
+subjective	1083	14	20	Schade	1083-subjective2	Negative	Related
+aspect	1083	7	10	app	1083-aspect0	Neutral	Related
+subjective	1083	0	6	Supper	1083-subjective0	Positive	Related
+aspect	1084	0	6	Update	1084-aspect2	Unknown	Related
+aspect	1084	19	25	Update	1084-aspect1	Unknown	Related
+subjective	1084	26	31	hängt	1084-subjective3	Negative	Related
+subjective	1084	77	83	Schade	1084-subjective2	Negative	Related
+subjective	1084	85	98	Bitte beheben	1084-subjective1	Negative	Related
+subjective	1085	0	5	Tolle	1085-subjective1	Positive	Related
+aspect	1085	6	9	App	1085-aspect1	Unknown	Related
+subjective	1086	4	14	sehr guter	1086-subjective2	Positive	Related
+aspect	1086	15	23	Lauf , App	1086-aspect1	Neutral	Related
+subjective	1086	24	27	:-)	1086-subjective1	Positive	Related
+subjective	1087	0	10	Echt super	1087-subjective1	Positive	Related
+aspect	1087	11	14	app	1087-aspect1	Unknown	Related
+subjective	1088	0	5	super	1088-subjective1	Positive	Related
+subjective	1089	8	13	Geile	1089-subjective1	Positive	Related
+aspect	1089	14	17	app	1089-aspect1	Unknown	Related
+subjective	1090	0	5	Super	1090-subjective1	Positive	Related
+subjective	1091	0	5	Super	1091-subjective2	Positive	Related
+aspect	1091	6	9	app	1091-aspect1	Neutral	Related
+subjective	1091	18	46	leider etwas unübersichtlich	1091-subjective1	Negative	Related
+aspect	1092	0	11	Aktivitäten	1092-aspect2	Unknown	Related
+subjective	1092	19	51	doppelt und dreifach gespeichert	1092-subjective3	Negative	Related
+subjective	1092	58	63	Super	1092-subjective2	Positive	Related
+aspect	1092	64	67	App	1092-aspect1	Neutral	Related
+subjective	1092	68	93	tut alles was es tun soll	1092-subjective1	Positive	Related
+subjective	1093	0	5	Super	1093-subjective1	Positive	Related
+subjective	1094	0	5	Beste	1094-subjective2	Positive	Related
+aspect	1094	6	9	app	1094-aspect2	Neutral	Related
+aspect	1094	37	40	app	1094-aspect1	Neutral	Related
+subjective	1094	60	66	tiptop	1094-subjective1	Positive	Related
+subjective	1095	0	15	Gefällt mir gut	1095-subjective2	Positive	Related
+subjective	1095	19	23	Gute	1095-subjective1	Positive	Related
+aspect	1095	24	35	Fitness App	1095-aspect1	Neutral	Related
+aspect	1096	127	130	App	1096-aspect4	Neutral	Related
+subjective	1096	112	126	sehr gelungene	1096-subjective2	Positive	Related
+aspect	1096	75	85	Gestaltung	1096-aspect3	Neutral	Related
+aspect	1096	61	70	Übersicht	1096-aspect2	Neutral	Related
+subjective	1096	47	55	echt gut	1096-subjective1	Positive	Related
+aspect	1096	34	41	Ansagen	1096-aspect1	Neutral	Related
+aspect	1096	6	9	App	1096-aspect0	Neutral	Related
+subjective	1096	0	5	Beste	1096-subjective0	Positive	Related
+aspect	1097	17	25	Abstürze	1097-aspect0	Unknown	Related
+subjective	1097	0	8	Ganz gut	1097-subjective0	Positive	Related
+subjective	1098	12	26	Sehr schneller	1098-subjective1	Positive	Related
+subjective	1098	0	8	Sehr gut	1098-subjective0	Positive	Related
+subjective	1099	9	17	Sehr gut	1099-subjective1	Positive	Related
+subjective	1099	0	5	Super	1099-subjective0	Positive	Related
+aspect	1100	418	421	app	1100-aspect3	Neutral	Related
+aspect	1100	338	341	GPS	1100-aspect2	Neutral	Related
+aspect	1100	290	303	aufgezeichnet	1100-aspect4	Neutral	Related
+subjective	1100	227	238	echt ätzend	1100-subjective1	Negative	Related
+aspect	1100	159	167	runastic	1100-aspect1	Neutral	Related
+aspect	1100	47	50	App	1100-aspect0	Neutral	Related
+subjective	1100	21	33	echt mickrig	1100-subjective0	Negative	Related
+subjective	1101	148	153	Danke	1101-subjective1	Negative	Related
+aspect	1101	118	137	Erfassung der Daten	1101-aspect3	Neutral	Related
+aspect	1101	110	113	app	1101-aspect2	Neutral	Related
+aspect	1101	75	82	Trainer	1101-aspect1	Neutral	Related
+aspect	1101	51	54	app	1101-aspect0	Neutral	Related
+subjective	1101	21	28	abstütz	1101-subjective0	Negative	Related
+subjective	1102	0	5	Super	1102-subjective0	Positive	Related
+subjective	1103	114	136	kann sie nur empfehlen	1103-subjective2	Positive	Related
+aspect	1103	68	73	Coach	1103-aspect1	Neutral	Related
+aspect	1103	14	17	app	1103-aspect0	Neutral	Related
+subjective	1103	8	13	Super	1103-subjective1	Positive	Related
+subjective	1103	0	4	Geil	1103-subjective0	Positive	Related
+aspect	1104	16	20	Idee	1104-aspect0	Neutral	Related
+subjective	1104	9	15	Schöne	1104-subjective1	Positive	Related
+subjective	1104	0	5	Super	1104-subjective0	Positive	Related
+subjective	1105	0	8	Ezellent	1105-subjective0	Positive	Related
+subjective	1106	43	58	ohne Probleme :)	1106-subjective2	Positive	Related
+aspect	1106	30	42	Funktioniert	1106-aspect0	Neutral	Related
+subjective	1106	18	28	echt super	1106-subjective1	Positive	Related
+subjective	1106	0	10	Macht Spaß	1106-subjective0	Positive	Related
+subjective	1107	117	133	wäre echt klasse	1107-subjective2	Positive	Related
+aspect	1107	76	83	steppen	1107-aspect1	Neutral	Foreign
+subjective	1107	18	31	ist super :))	1107-subjective1	Positive	Related
+aspect	1107	14	17	app	1107-aspect0	Neutral	Related
+subjective	1107	0	6	hammer	1107-subjective0	Positive	Related
+subjective	1108	10	24	Einfach genial	1108-subjective1	Positive	Related
+subjective	1108	0	6	Genial	1108-subjective0	Positive	Related
+subjective	1109	199	223	so macht das keinen Sinn	1109-subjective1	Negative	Related
+aspect	1109	151	159	Webseite	1109-aspect2	Neutral	Related
+subjective	1109	117	130	total langsam	1109-subjective0	Negative	Related
+aspect	1109	113	116	App	1109-aspect0	Unknown	Related
+aspect	1109	39	48	Webserver	1109-aspect1	Unknown	Related
+subjective	1110	6	21	macht voll Spaß	1110-subjective1	Positive	Related
+subjective	1110	0	5	Super	1110-subjective0	Positive	Related
+subjective	1111	24	53	Macht alles was es verspricht	1111-subjective1	Positive	Related
+subjective	1111	0	20	Spart den tachometer	1111-subjective0	Positive	Related
+subjective	1112	32	37	super	1112-subjective1	Positive	Related
+aspect	1112	19	31	Funktioniert	1112-aspect1	Neutral	Related
+aspect	1112	7	15	programm	1112-aspect0	Neutral	Related
+subjective	1112	0	6	Tolles	1112-subjective0	Positive	Related
+aspect	1113	102	105	app	1113-aspect1	Neutral	Related
+aspect	1113	67	74	Übungen	1113-aspect0	Neutral	Related
+subjective	1113	0	8	Echt gut	1113-subjective0	Positive	Related
+subjective	1114	228	237	großartig	1114-subjective3	Positive	Related
+aspect	1114	212	222	Funktionen	1114-aspect3	Neutral	Related
+aspect	1114	197	207	Oberfläche	1114-aspect2	Neutral	Related
+subjective	1114	181	187	Schade	1114-subjective2	Negative	Related
+subjective	1114	122	134	schnell leer	1114-subjective1	Negative	Related
+aspect	1114	117	121	Akku	1114-aspect1	Neutral	Related
+aspect	1114	12	15	App	1114-aspect0	Neutral	Related
+subjective	1114	0	4	Naja	1114-subjective0	Neutral	Related
+subjective	1115	52	57	super	1115-subjective0	Positive	Related
+aspect	1115	0	6	Signal	1115-aspect0	Unknown	Related
+subjective	1116	0	4	Cool	1116-subjective0	Positive	Related
+aspect	1117	279	282	App	1117-aspect2	Neutral	Related
+aspect	1117	244	254	Auswertung	1117-aspect1	Neutral	Related
+subjective	1117	75	99	ohne viel Schnickschnack	1117-subjective5	Positive	Related
+aspect	1117	71	74	App	1117-aspect0	Neutral	Related
+subjective	1117	61	70	gelungene	1117-subjective4	Positive	Related
+subjective	1117	41	59	Einfach aufgebaute	1117-subjective3	Positive	Related
+subjective	1117	30	36	simpel	1117-subjective2	Positive	Related
+subjective	1117	14	25	Funktionell	1117-subjective1	Positive	Related
+subjective	1117	0	12	Gut gelungen	1117-subjective0	Positive	Related
+aspect	1118	6	9	app	1118-aspect0	Neutral	Related
+subjective	1118	0	5	Super	1118-subjective0	Positive	Related
+subjective	1119	9	38	Kann man nur weiter empfehlen	1119-subjective1	Positive	Related
+subjective	1119	0	5	Super	1119-subjective0	Positive	Related
+subjective	1120	172	186	extrem ungenau	1120-subjective3	Negative	Related
+aspect	1120	152	164	Laufstrecken	1120-aspect3	Neutral	Related
+subjective	1120	130	143	eher instabil	1120-subjective2	Negative	Related
+aspect	1120	107	112	läuft	1120-aspect2	Neutral	Related
+aspect	1120	50	55	Ideen	1120-aspect1	Neutral	Related
+subjective	1120	36	49	vielen tollen	1120-subjective1	Positive	Related
+aspect	1120	28	31	App	1120-aspect0	Neutral	Related
+subjective	1120	0	19	Verbesserungsbedarf	1120-subjective0	Negative	Related
+subjective	1121	0	5	Passt	1121-subjective0	Positive	Related
+subjective	1122	131	136	super	1122-subjective1	Positive	Related
+aspect	1122	33	80	Futures der Pro-Version nicht schon im Standard	1122-aspect0	Neutral	Related
+subjective	1122	11	17	Schade	1122-subjective2	Negative	Related
+subjective	1122	0	8	Sehr gut	1122-subjective0	Positive	Related
+aspect	1123	21	24	App	1123-aspect0	Neutral	Related
+subjective	1123	15	20	Gutes	1123-subjective1	Positive	Related
+subjective	1123	0	11	Alles super	1123-subjective0	Positive	Related
+aspect	1124	6	9	app	1124-aspect0	Unknown	Related
+subjective	1124	0	5	Super	1124-subjective0	Positive	Related
+subjective	1125	0	3	Top	1125-subjective0	Positive	Related
+subjective	1126	204	209	super	1126-subjective1	Positive	Related
+aspect	1126	190	195	läuft	1126-aspect1	Neutral	Related
+aspect	1126	146	159	GPS Empfänger	1126-aspect2	Neutral	Related
+aspect	1126	89	92	app	1126-aspect3	Neutral	Related
+aspect	1126	6	9	app	1126-aspect0	Neutral	Related
+subjective	1126	0	5	Super	1126-subjective0	Positive	Related
+aspect	1127	6	9	App	1127-aspect0	Neutral	Related
+subjective	1127	0	5	Tolle	1127-subjective0	Positive	Related
+aspect	1128	0	9	Runtastic	1128-aspect0	Unknown	Related
+subjective	1129	183	192	alles Top	1129-subjective1	Positive	Related
+subjective	1129	63	68	Super	1129-subjective0	Positive	Related
+aspect	1131	86	101	Funktionsumfang	1131-aspect2	Unknown	Related
+subjective	1131	79	85	großen	1131-subjective2	Positive	Related
+subjective	1131	63	72	überzeugt	1131-subjective3	Positive	Related
+aspect	1131	48	58	Sportarten	1131-aspect1	Neutral	Related
+subjective	1131	42	47	viele	1131-subjective1	Positive	Related
+aspect	1131	6	9	App	1131-aspect0	Neutral	Related
+subjective	1131	0	5	Super	1131-subjective0	Positive	Related
+subjective	1132	0	21	Einfach Große Klassse	1132-subjective0	Positive	Related
+subjective	1133	20	36	tut was sie soll	1133-subjective2	Positive	Related
+aspect	1133	16	19	app	1133-aspect0	Neutral	Related
+subjective	1133	10	15	Tolle	1133-subjective1	Positive	Related
+subjective	1133	0	4	Mega	1133-subjective0	Positive	Related
+subjective	1134	14	31	totall begeistert	1134-subjective1	Positive	Related
+aspect	1134	6	9	App	1134-aspect0	Neutral	Related
+subjective	1134	0	5	Super	1134-subjective0	Positive	Related
+subjective	1135	26	33	umsonst	1135-subjective1	Positive	Related
+subjective	1135	0	11	Alles super	1135-subjective0	Positive	Related
+subjective	1136	0	11	Einfach gut	1136-subjective0	Positive	Related
+aspect	1137	7	10	App	1137-aspect0	Unknown	Related
+subjective	1137	0	6	Klasse	1137-subjective0	Positive	Related
+aspect	1138	65	84	Bluetooth brustgurt	1138-aspect1	Unknown	Related
+subjective	1138	44	60	sehr lohnenswert	1138-subjective4	Positive	Related
+subjective	1138	37	43	sicher	1138-subjective3	Positive	Related
+subjective	1138	25	32	einfach	1138-subjective2	Positive	Related
+subjective	1138	17	24	Schnell	1138-subjective1	Positive	Related
+aspect	1138	10	13	app	1138-aspect0	Neutral	Related
+subjective	1138	0	9	Sehr gute	1138-subjective0	Positive	Related
+aspect	1139	63	95	workouts ohne Coach freischalten	1139-aspect0	Neutral	Related
+subjective	1139	41	54	nicht einfach	1139-subjective1	Negative	Related
+subjective	1139	0	9	Ganz nett	1139-subjective0	Positive	Related
+aspect	1140	94	107	Einstellungen	1140-aspect1	Neutral	Related
+aspect	1140	40	54	fitness report	1140-aspect0	Neutral	Related
+subjective	1140	0	4	Mist	1140-subjective0	Negative	Related
+subjective	1141	0	5	Super	1141-subjective0	Positive	Related
+aspect	1142	275	282	deutsch	1142-aspect5	Neutral	Related
+aspect	1142	267	270	app	1142-aspect4	Neutral	Related
+subjective	1142	153	165	verständlich	1142-subjective5	Positive	Related
+aspect	1142	131	147	trainer sprechen	1142-aspect3	Neutral	Related
+subjective	1142	111	122	einwandfrei	1142-subjective4	Positive	Related
+aspect	1142	98	110	funktioniert	1142-aspect2	Neutral	Related
+subjective	1142	89	91	:)	1142-subjective3	Positive	Related
+subjective	1142	70	78	effektiv	1142-subjective2	Positive	Related
+aspect	1142	32	39	Übungen	1142-aspect1	Neutral	Related
+subjective	1142	26	31	Tolle	1142-subjective1	Positive	Related
+subjective	1142	18	23	super	1142-subjective0	Positive	Related
+aspect	1142	14	17	app	1142-aspect0	Unknown	Related
+subjective	1143	4	13	zufrieden	1143-subjective0	Positive	Related
+subjective	1144	6	8	: D	1144-subjective0	Positive	Related
+aspect	1145	15	18	App	1145-aspect0	Neutral	Related
+subjective	1145	9	14	Super	1145-subjective1	Positive	Related
+subjective	1145	0	5	Super	1145-subjective0	Positive	Related
+subjective	1146	13	25	Zu empfehlen	1146-subjective1	Positive	Related
+aspect	1146	6	9	App	1146-aspect0	Neutral	Related
+subjective	1146	0	5	tolle	1146-subjective0	Positive	Related
+subjective	1147	68	74	kostet	1147-subjective2	Negative	Related
+subjective	1147	39	61	keine bessere gefunden	1147-subjective1	Positive	Related
+aspect	1147	10	21	Fitness APP	1147-aspect0	Neutral	Related
+subjective	1147	0	9	Sehr gute	1147-subjective0	Positive	Related
+subjective	1148	0	5	super	1148-subjective0	Positive	Related
+aspect	1149	4	7	app	1149-aspect0	Unknown	Related
+subjective	1149	0	3	Top	1149-subjective0	Positive	Related
+aspect	1150	17	20	app	1150-aspect1	Neutral	Related
+subjective	1150	13	16	Top	1150-subjective1	Positive	Related
+aspect	1150	6	9	App	1150-aspect0	Neutral	Related
+subjective	1150	0	5	Super	1150-subjective0	Positive	Related
+subjective	1151	264	265	5	1151-subjective4	Positive	Related
+aspect	1151	235	247	bedienerisch	1151-aspect3	Neutral	Related
+aspect	1151	221	230	technisch	1151-aspect2	Neutral	Related
+subjective	1151	211	213	4 ★	1151-subjective3	Positive	Related
+subjective	1151	176	182	hapert	1151-subjective2	Negative	Related
+aspect	1151	155	175	deutsche Übersetzung	1151-aspect1	Neutral	Related
+aspect	1151	72	86	app zum laufen	1151-aspect0	Neutral	Related
+subjective	1151	66	71	beste	1151-subjective1	Positive	Related
+subjective	1151	0	5	Läuft	1151-subjective0	Positive	Related
+subjective	1152	97	112	super umgesetzt	1152-subjective2	Positive	Related
+subjective	1152	44	69	nichts weltbewegend neues	1152-subjective1	Negative	Related
+aspect	1152	15	18	app	1152-aspect0	Neutral	Related
+subjective	1152	0	6	Klappt	1152-subjective0	Positive	Related
+subjective	1153	0	4	Toll	1153-subjective0	Positive	Related
+subjective	1154	166	190	😃 😃 😃 💥 💪 💪 💪 💪 👏 👏 👏 👏	1154-subjective4	Positive	Related
+subjective	1154	150	159	Weiter so	1154-subjective3	Positive	Related
+aspect	1154	103	112	streching	1154-aspect3	Neutral	Related
+aspect	1154	84	98	dynamic warmup	1154-aspect2	Neutral	Related
+subjective	1154	51	61	Alles drin	1154-subjective2	Positive	Related
+subjective	1154	42	48	Hammer	1154-subjective1	Positive	Related
+aspect	1154	30	33	App	1154-aspect1	Neutral	Related
+aspect	1154	13	21	Wahnsinn	1154-aspect0	Neutral	Related
+subjective	1154	4	12	absolute	1154-subjective0	Positive	Related
+subjective	1155	0	13	Super evektiv	1155-subjective0	Positive	Related
+aspect	1156	168	175	Übungen	1156-aspect2	Neutral	Related
+subjective	1156	154	159	stink	1156-subjective3	Negative	Related
+aspect	1156	122	129	Übungen	1156-aspect1	Neutral	Related
+subjective	1156	113	117	1 / 10	1156-subjective2	Negative	Related
+subjective	1156	70	81	einfach weg	1156-subjective1	Negative	Related
+aspect	1156	45	56	APP Version	1156-aspect0	Neutral	Related
+subjective	1156	0	29	Denen gehts nur noch um Kohle	1156-subjective0	Negative	Related
+subjective	1157	344	354	in Ordnung	1157-subjective4	Positive	Related
+aspect	1157	319	338	wiederholungszahlen	1157-aspect4	Neutral	Related
+subjective	1157	289	305	hoher Intensität	1157-subjective3	Positive	Related
+aspect	1157	276	284	workouts	1157-aspect3	Neutral	Related
+aspect	1157	168	178	Ergebnisse	1157-aspect1	Neutral	Related
+subjective	1157	133	155	bestens dafür geeignet	1157-subjective2	Positive	Related
+subjective	1157	49	66	einfach das beste	1157-subjective1	Positive	Related
+aspect	1157	25	35	Freeletics	1157-aspect1	Neutral	Related
+aspect	1157	10	21	Fitness App	1157-aspect0	Neutral	Related
+subjective	1157	4	9	beste	1157-subjective0	Positive	Related
+subjective	1158	0	5	Super	1158-subjective0	Positive	Related
+subjective	1159	0	10	Alles supi	1159-subjective0	Positive	Related

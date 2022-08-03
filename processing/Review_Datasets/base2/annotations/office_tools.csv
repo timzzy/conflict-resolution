@@ -1,0 +1,623 @@
+subjective	5000	0	5	Super	5000-subjective2	Positive	Related
+aspect	5000	6	9	App	5000-aspect1	Neutral	Related
+subjective	5000	18	27	kostenlos	5000-subjective1	Positive	Related
+subjective	5001	0	13	Überwältigend	5001-subjective4	Positive	Related
+subjective	5001	28	45	fehlte mir nichts	5001-subjective3	Positive	Related
+aspect	5001	131	144	Zeilenumbruch	5001-aspect2	Neutral	Related
+subjective	5001	172	191	verbesserungswürdig	5001-subjective2	Negative	Related
+aspect	5001	200	235	Ausblenden von Formatierungszeichen	5001-aspect1	Neutral	Foreign
+subjective	5001	263	268	nötig	5001-subjective1	Negative	Related
+subjective	5002	0	5	Super	5002-subjective2	Positive	Related
+aspect	5002	6	21	Funktionsumfang	5002-aspect2	Neutral	Related
+aspect	5002	37	53	Office-Dokumente	5002-aspect1	Neutral	Related
+subjective	5002	87	94	BESTENS	5002-subjective1	Positive	Related
+subjective	5003	0	25	Nützlicher kleiner Helfer	5003-subjective3	Positive	Related
+aspect	5003	43	55	Fotoqualität	5003-aspect2	Neutral	Related
+aspect	5003	188	197	Bedienung	5003-aspect1	Neutral	Related
+subjective	5003	203	210	einfach	5003-subjective2	Positive	Related
+subjective	5003	215	222	schnell	5003-subjective1	Positive	Related
+subjective	5004	0	8	Sehr gut	5004-subjective4	Positive	Related
+subjective	5004	49	63	wieder möglich	5004-subjective3	Positive	Related
+aspect	5004	69	79	anzumelden	5004-aspect3	Neutral	Related
+aspect	5004	81	86	Läuft	5004-aspect2	Neutral	Related
+subjective	5004	87	97	alles rund	5004-subjective2	Positive	Related
+subjective	5004	99	104	super	5004-subjective1	Positive	Related
+aspect	5004	105	116	Erweiterung	5004-aspect1	Neutral	Related
+subjective	5005	0	3	Top	5005-subjective2	Positive	Related
+subjective	5005	7	10	Top	5005-subjective1	Positive	Related
+subjective	5006	45	57	Hervorragend	5006-subjective1	Positive	Related
+subjective	5007	0	10	Leider nur	5007-subjective2	Negative	Related
+aspect	5007	15	23	Excel 97	5007-aspect1	Neutral	Related
+subjective	5007	62	92	können nicht bearbeitet werden	5007-subjective1	Negative	Related
+subjective	5008	0	13	Wirklich gute	5008-subjective6	Positive	Related
+aspect	5008	14	31	Mobile Office App	5008-aspect4	Neutral	Related
+subjective	5008	125	139	sehr zufrieden	5008-subjective5	Positive	Related
+aspect	5008	145	160	Funktionsumfang	5008-aspect3	Neutral	Related
+subjective	5008	165	176	ausreichend	5008-subjective4	Positive	Related
+subjective	5008	178	181	Gut	5008-subjective3	Positive	Related
+aspect	5008	200	209	Dokumente	5008-aspect2	Neutral	Related
+subjective	5008	315	322	wünsche	5008-subjective1	Negative	Related
+aspect	5008	331	343	Exportfilter	5008-aspect1	Neutral	Foreign
+subjective	5009	0	13	Erleichterung	5009-subjective2	Positive	Related
+aspect	5009	28	51	Bearbeitung von Dateien	5009-aspect1	Neutral	Related
+subjective	5009	59	67	ganz gut	5009-subjective1	Positive	Related
+subjective	5010	0	2	Ok	5010-subjective2	Neutral	Related
+subjective	5010	32	40	zu viele	5010-subjective1	Negative	Related
+aspect	5011	0	8	Tastatur	5011-aspect5	Unknown	Related
+subjective	5011	9	15	spinnt	5011-subjective4	Negative	Related
+aspect	5011	38	44	Update	5011-aspect4	Neutral	Related
+aspect	5011	60	68	Tastatur	5011-aspect3	Neutral	Related
+subjective	5011	69	79	sehr träge	5011-subjective3	Negative	Related
+subjective	5011	84	95	dauert ewig	5011-subjective2	Negative	Related
+aspect	5011	113	144	Buchstaben als Wort im Dokument	5011-aspect2	Neutral	Related
+aspect	5011	273	276	App	5011-aspect1	Neutral	Related
+subjective	5011	277	283	klasse	5011-subjective1	Positive	Related
+subjective	5012	415	432	Ganz magere Sache	5012-subjective7	Negative	Related
+aspect	5012	363	368	läuft	5012-aspect9	Neutral	Related
+subjective	5012	345	362	nicht auf Tablets	5012-subjective8	Negative	Related
+aspect	5012	341	344	App	5012-aspect8	Neutral	Related
+subjective	5012	275	307	lassen sie sich nur in die Cloud	5012-subjective6	Negative	Related
+aspect	5012	265	274	Speichern	5012-aspect7	Neutral	Related
+subjective	5012	225	258	lassen sich öffnen und bearbeiten	5012-subjective4	Positive	Related
+aspect	5012	210	224	lokale Dateien	5012-aspect5	Neutral	Related
+aspect	5012	200	208	OneDrive	5012-aspect4	Neutral	Related
+subjective	5012	178	199	geht scheinbar nur in	5012-subjective5	Negative	Related
+aspect	5012	168	177	Speichern	5012-aspect6	Neutral	Related
+subjective	5012	157	166	wären gut	5012-subjective3	Positive	Related
+aspect	5012	146	156	Boxcryptor	5012-aspect3	Neutral	Foreign
+aspect	5012	114	134	andere Cloud Dienste	5012-aspect2	Neutral	Foreign
+aspect	5012	79	87	OneDrive	5012-aspect0	Neutral	Related
+subjective	5012	71	78	nur mit	5012-subjective2	Negative	Related
+aspect	5012	67	70	App	5012-aspect1	Neutral	Related
+subjective	5012	16	36	noch nicht gut genug	5012-subjective1	Negative	Related
+subjective	5012	0	9	Ganz nett	5012-subjective0	Positive	Related
+subjective	5013	0	11	Fantastisch	5013-subjective0	Positive	Related
+subjective	5014	0	5	Super	5014-subjective0	Positive	Related
+subjective	5015	144	162	untergejubelt wird	5015-subjective2	Negative	Related
+aspect	5015	133	143	Zwangs-Abo	5015-aspect2	Neutral	Related
+aspect	5015	102	109	Werbung	5015-aspect1	Neutral	Related
+aspect	5015	94	101	PDF-App	5015-aspect0	Unknown	Related
+subjective	5015	21	39	Absolute Frechheit	5015-subjective0	Negative	Related
+subjective	5015	0	17	Gier frisst Hirn !	5015-subjective1	Negative	Related
+subjective	5016	41	55	alles bestens !	5016-subjective1	Positive	Related
+aspect	5016	35	40	Läuft	5016-aspect0	Neutral	Related
+subjective	5016	0	31	Seit langer Zeit sehr zufrieden	5016-subjective0	Positive	Related
+subjective	5018	11	24	Gibt besseres	5018-subjective1	Negative	Related
+subjective	5018	0	7	Geht so	5018-subjective0	Neutral	Related
+subjective	5019	0	17	Erfüllt den Zweck	5019-subjective0	Positive	Related
+subjective	5020	186	215	funktioniert es ohne Probleme	5020-subjective1	Negative	Related
+aspect	5020	177	185	HPeprint	5020-aspect1	Neutral	Foreign
+subjective	5020	67	81	nicht gedruckt	5020-subjective0	Negative	Related
+aspect	5020	54	66	PrinterShare	5020-aspect0	Unknown	Related
+subjective	5021	37	46	effizient	5021-subjective2	Positive	Related
+subjective	5021	13	32	Leicht verständlich	5021-subjective1	Positive	Related
+subjective	5021	0	9	S U P E R	5021-subjective0	Positive	Related
+aspect	5022	35	39	apps	5022-aspect0	Neutral	Related
+subjective	5022	20	34	wirklich beste	5022-subjective0	Positive	Related
+aspect	5023	90	102	auszudrucken	5023-aspect0	Neutral	Related
+subjective	5023	67	83	sehr umständlich	5023-subjective0	Negative	Related
+subjective	5023	17	20	gut	5023-subjective1	Positive	Related
+subjective	5024	0	5	Läuft	5024-subjective2	Positive	Related
+subjective	5024	42	50	ein Muss	5024-subjective1	Positive	Related
+subjective	5025	0	7	Geht so	5025-subjective1	Neutral	Related
+aspect	5025	29	32	App	5025-aspect2	Neutral	Related
+aspect	5025	94	101	Werbung	5025-aspect1	Neutral	Related
+subjective	5026	102	109	nur für	5026-subjective2	Negative	Related
+aspect	5026	110	120	Smartphone	5026-aspect1	Neutral	Related
+subjective	5026	121	134	bitte beheben	5026-subjective1	Negative	Related
+subjective	5027	0	5	Nicht	5027-subjective1	Negative	Related
+aspect	5027	6	12	gratis	5027-aspect1	Neutral	Related
+subjective	5028	0	8	Sehr gut	5028-subjective6	Positive	Related
+aspect	5028	18	21	App	5028-aspect5	Neutral	Related
+subjective	5028	22	39	ist ihr Geld wert	5028-subjective5	Positive	Related
+aspect	5028	79	91	funktioniert	5028-aspect4	Neutral	Related
+subjective	5028	96	109	ausgezeichnet	5028-subjective4	Positive	Related
+subjective	5028	144	156	Schwachpunkt	5028-subjective3	Negative	Related
+aspect	5028	165	187	Ausdruck von Webseiten	5028-aspect3	Neutral	Related
+aspect	5028	218	228	Buchstaben	5028-aspect2	Neutral	Related
+subjective	5028	251	262	sehr vielen	5028-subjective1	Negative	Related
+aspect	5028	263	274	Druckseiten	5028-aspect1	Neutral	Related
+subjective	5029	0	18	Absolutely awesome	5029-subjective1	Positive	Related
+subjective	5030	0	5	Super	5030-subjective1	Positive	Related
+subjective	5031	0	5	Gutes	5031-subjective2	Positive	Related
+aspect	5031	6	14	Programm	5031-aspect2	Neutral	Related
+aspect	5031	16	23	Startet	5031-aspect1	Neutral	Related
+subjective	5031	37	46	ungefragt	5031-subjective1	Negative	Related
+aspect	5032	0	6	Update	5032-aspect6	Unknown	Related
+subjective	5032	7	18	Katastrophe	5032-subjective4	Negative	Related
+aspect	5032	30	36	Update	5032-aspect5	Neutral	Related
+aspect	5032	51	54	App	5032-aspect4	Neutral	Related
+aspect	5032	102	105	App	5032-aspect3	Neutral	Related
+aspect	5032	162	172	Buchstaben	5032-aspect2	Neutral	Related
+subjective	5032	173	204	machen sozusagen was sie wollen	5032-subjective3	Negative	Related
+subjective	5032	441	448	Fehlern	5032-subjective2	Negative	Related
+aspect	5032	522	525	App	5032-aspect1	Neutral	Related
+subjective	5032	533	547	wirklich super	5032-subjective1	Positive	Related
+subjective	5033	0	6	Brauch	5033-subjective3	Negative	Related
+aspect	5033	7	33	Google-Drive Unterstützung	5033-aspect1	Neutral	Foreign
+subjective	5033	40	43	gut	5033-subjective2	Positive	Related
+subjective	5033	44	46	:)	5033-subjective1	Positive	Related
+subjective	5034	6	29	hängt sich komplett auf	5034-subjective1	Negative	Related
+subjective	5035	0	3	Gut	5035-subjective2	Positive	Related
+subjective	5035	7	19	Hervorragend	5035-subjective1	Positive	Related
+subjective	5036	234	238	; - )	5036-subjective2	Positive	Related
+subjective	5036	207	234	prima für meine Bedürfnisse	5036-subjective1	Positive	Related
+aspect	5036	27	35	Programm	5036-aspect0	Neutral	Related
+subjective	5036	0	6	Klasse	5036-subjective0	Positive	Related
+subjective	5037	60	70	auf Anhieb	5037-subjective0	Positive	Related
+aspect	5037	47	59	Funktioniert	5037-aspect1	Neutral	Related
+aspect	5037	42	45	App	5037-aspect0	Neutral	Related
+subjective	5037	36	41	tolle	5037-subjective1	Positive	Related
+aspect	5037	15	27	Mobile Print	5037-aspect3	Unknown	Related
+aspect	5037	0	12	PrinterShare	5037-aspect2	Unknown	Related
+subjective	5038	92	105	gut darstellt	5038-subjective2	Positive	Related
+aspect	5038	85	91	Bilder	5038-aspect2	Neutral	Related
+aspect	5038	54	57	App	5038-aspect0	Neutral	Related
+subjective	5038	33	42	wie am PC	5038-subjective1	Positive	Related
+aspect	5038	17	32	Officedokumente	5038-aspect1	Neutral	Related
+subjective	5038	0	8	Sehr gut	5038-subjective0	Positive	Related
+subjective	5039	106	121	wäre noch super	5039-subjective1	Negative	Related
+aspect	5039	75	105	Umwandeln der Dokumente in PDF	5039-aspect0	Neutral	Foreign
+subjective	5039	45	68	Macht genau das was ich	5039-subjective2	Positive	Related
+subjective	5039	29	43	Nix zu meckern	5039-subjective0	Positive	Related
+subjective	5040	428	435	Problem	5040-subjective1	Negative	Related
+aspect	5040	304	326	Word- und Exceldateien	5040-aspect2	Neutral	Related
+subjective	5040	195	203	tadellos	5040-subjective0	Positive	Related
+aspect	5040	171	183	Funktioniert	5040-aspect1	Unknown	Related
+aspect	5040	43	49	Office	5040-aspect0	Unknown	Related
+aspect	5041	15	31	schreib programm	5041-aspect0	Unknown	Related
+subjective	5041	9	14	Super	5041-subjective1	Positive	Related
+subjective	5041	0	5	Super	5041-subjective0	Positive	Related
+subjective	5042	26	33	perfekt	5042-subjective1	Positive	Related
+aspect	5042	13	25	Funktioniert	5042-aspect0	Neutral	Related
+subjective	5042	0	11	Erstklassig	5042-subjective0	Positive	Related
+subjective	5043	7	21	Sehr zufrieden	5043-subjective1	Positive	Related
+subjective	5043	0	3	Top	5043-subjective0	Positive	Related
+aspect	5044	53	56	App	5044-aspect0	Neutral	Related
+subjective	5044	34	52	Genau die richtige	5044-subjective2	Positive	Related
+subjective	5044	20	32	einfach Toll	5044-subjective1	Positive	Related
+subjective	5044	0	6	Genial	5044-subjective0	Positive	Related
+subjective	5045	507	519	Dreiste Lüge	5045-subjective3	Negative	Related
+subjective	5045	216	218	:/	5045-subjective2	Negative	Related
+subjective	5045	174	191	nicht unterstützt	5045-subjective1	Negative	Related
+aspect	5045	146	173	Bearbeitung von doc Dateien	5045-aspect0	Neutral	Related
+subjective	5045	0	4	Naja	5045-subjective0	Neutral	Related
+subjective	5046	166	177	sehr stabil	5046-subjective0	Positive	Related
+subjective	5046	148	157	am besten	5046-subjective3	Positive	Related
+aspect	5046	82	115	funktioniert mit Windows Systemen	5046-aspect1	Neutral	Related
+aspect	5046	21	28	RDP-App	5046-aspect0	Neutral	Related
+subjective	5046	10	20	kostenlose	5046-subjective1	Positive	Related
+subjective	5046	4	9	beste	5046-subjective2	Positive	Related
+subjective	5047	12	25	Sehr nützlich	5047-subjective1	Positive	Related
+subjective	5047	0	8	Sehr gut	5047-subjective0	Positive	Related
+aspect	5048	96	112	OpenOffice Files	5048-aspect1	Neutral	Foreign
+subjective	5048	77	95	Kennt jedoch keine	5048-subjective1	Negative	Related
+subjective	5048	61	70	ganz okay	5048-subjective2	Positive	Related
+aspect	5048	46	60	Microsoft Welt	5048-aspect2	Neutral	Related
+aspect	5048	6	30	OpenOffice Unterstützung	5048-aspect0	Neutral	Related
+subjective	5048	0	5	Keine	5048-subjective0	Negative	Related
+subjective	5049	93	104	alles dabei	5049-subjective2	Positive	Related
+aspect	5049	70	82	Aufzählungen	5049-aspect1	Neutral	Related
+subjective	5049	57	64	vermiss	5049-subjective1	Negative	Related
+aspect	5049	17	33	kostenpflichtige	5049-aspect0	Neutral	Related
+subjective	5049	0	6	Besser	5049-subjective0	Positive	Related
+aspect	5050	278	281	WPS	5050-aspect1	Unknown	Foreign
+subjective	5050	260	266	besser	5050-subjective1	Negative	Related
+aspect	5050	207	232	Textverarbeitungsprogramm	5050-aspect0	Neutral	Related
+subjective	5050	44	73	kann man ja gar nichts machen	5050-subjective2	Negative	Related
+subjective	5050	23	31	Blödsinn	5050-subjective0	Negative	Related
+subjective	5051	0	13	Ausgezeichnet	5051-subjective0	Positive	Related
+subjective	5052	0	15	Super zufrieden	5052-subjective0	Positive	Related
+subjective	5053	0	5	Super	5053-subjective0	Positive	Related
+aspect	5054	47	50	App	5054-aspect0	Neutral	Related
+subjective	5054	40	46	Klasse	5054-subjective1	Positive	Related
+subjective	5054	0	18	Keinerlei Probleme	5054-subjective0	Positive	Related
+subjective	5055	88	110	geht leider noch nicht	5055-subjective0	Negative	Related
+aspect	5055	78	87	Speichern	5055-aspect1	Neutral	Related
+aspect	5055	63	73	Bearbeiten	5055-aspect0	Neutral	Related
+subjective	5055	47	61	gelesen werden	5055-subjective2	Positive	Related
+aspect	5055	25	46	Open Office Dokumente	5055-aspect2	Neutral	Related
+subjective	5055	0	8	Immerhin	5055-subjective1	Neutral	Related
+subjective	5056	0	3	Top	5056-subjective0	Positive	Related
+subjective	5057	90	110	wunderbar bearbeiten	5057-subjective0	Positive	Related
+aspect	5057	78	89	google docs	5057-aspect0	Neutral	Related
+aspect	5057	30	46	rechte von gmail	5057-aspect2	Neutral	Related
+aspect	5057	22	25	app	5057-aspect1	Neutral	Related
+subjective	5057	7	15	verlangt	5057-subjective1	Neutral	Related
+subjective	5058	17	31	voll zufrieden	5058-subjective1	Positive	Related
+aspect	5058	6	9	App	5058-aspect0	Neutral	Related
+subjective	5058	0	5	Super	5058-subjective0	Positive	Related
+subjective	5059	50	63	nicht möglich	5059-subjective1	Negative	Related
+aspect	5059	27	49	power point Erstellung	5059-aspect0	Neutral	Related
+subjective	5059	0	3	Gut	5059-subjective0	Positive	Related
+subjective	5060	188	193	Danke	5060-subjective2	Positive	Related
+aspect	5060	160	171	Quickoffice	5060-aspect4	Neutral	Foreign
+aspect	5060	140	155	Google Tabellen	5060-aspect3	Neutral	Foreign
+aspect	5060	127	138	Google Docs	5060-aspect2	Neutral	Foreign
+aspect	5060	58	67	MS Office	5060-aspect1	Neutral	Related
+aspect	5060	33	36	App	5060-aspect0	Neutral	Related
+subjective	5060	24	32	perfekte	5060-subjective1	Positive	Related
+subjective	5060	0	7	Perfekt	5060-subjective0	Positive	Related
+aspect	5061	109	118	Anmeldung	5061-aspect2	Neutral	Related
+aspect	5061	84	94	Office App	5061-aspect1	Neutral	Related
+subjective	5061	74	79	hängt	5061-subjective0	Negative	Related
+aspect	5061	27	36	Microsoft	5061-aspect0	Neutral	Related
+subjective	5061	0	14	Endlosschleife	5061-subjective1	Negative	Related
+aspect	5062	234	243	Microsoft	5062-aspect2	Neutral	Related
+subjective	5062	218	229	Aprilscherz	5062-subjective2	Negative	Related
+aspect	5062	202	212	OpenOffice	5062-aspect1	Neutral	Foreign
+subjective	5062	182	201	verdammt schlechtes	5062-subjective1	Negative	Related
+aspect	5062	150	160	Funktionen	5062-aspect3	Neutral	Related
+subjective	5062	109	115	Scherz	5062-subjective3	Negative	Related
+aspect	5062	77	92	MicrosoftOffice	5062-aspect0	Neutral	Related
+subjective	5062	9	34	Soll das ein Scherz seien	5062-subjective0	Negative	Related
+aspect	5063	209	224	Premium-Version	5063-aspect4	Neutral	Related
+aspect	5063	150	157	Version	5063-aspect3	Neutral	Related
+aspect	5063	129	132	App	5063-aspect2	Neutral	Related
+subjective	5063	116	128	bescheidenen	5063-subjective1	Negative	Related
+aspect	5063	95	110	Funktionsumfang	5063-aspect1	Neutral	Related
+subjective	5063	68	74	Leider	5063-subjective0	Negative	Related
+aspect	5063	15	23	Freeware	5063-aspect0	Unknown	Related
+aspect	5064	58	61	App	5064-aspect0	Neutral	Related
+subjective	5064	35	45	Easy going	5064-subjective2	Positive	Related
+subjective	5064	9	32	Macht alles was es soll	5064-subjective1	Positive	Related
+subjective	5064	0	3	TOP	5064-subjective0	Positive	Related
+aspect	5065	150	162	Like-Buttons	5065-aspect2	Neutral	Related
+aspect	5065	139	145	Share-	5065-aspect1	Neutral	Related
+aspect	5065	128	137	Download-	5065-aspect0	Neutral	Related
+subjective	5065	51	59	nützlich	5065-subjective1	Positive	Related
+aspect	5065	38	46	bedienen	5065-aspect4	Neutral	Related
+subjective	5065	27	34	Einfach	5065-subjective2	Positive	Related
+subjective	5065	0	23	Ausgesprochen praktisch	5065-subjective0	Positive	Related
+subjective	5066	383	387	😀 👍	5066-subjective4	Positive	Related
+subjective	5066	374	382	5 Sterne	5066-subjective3	Positive	Related
+subjective	5066	346	357	tolle Sache	5066-subjective2	Positive	Related
+aspect	5066	335	344	UI Update	5066-aspect1	Neutral	Related
+subjective	5066	301	319	benutzerfreundlich	5066-subjective1	Positive	Related
+subjective	5066	282	296	sehr hilfreich	5066-subjective0	Positive	Related
+aspect	5066	265	268	App	5066-aspect0	Unknown	Related
+aspect	5066	195	214	Bildschirmauflösung	5066-aspect6	Unknown	Related
+aspect	5066	141	152	Holo Design	5066-aspect5	Unknown	Related
+aspect	5066	91	101	Jelly Bean	5066-aspect4	Unknown	Related
+aspect	5066	67	81	Android Phones	5066-aspect3	Unknown	Related
+aspect	5066	4	13	UI Update	5066-aspect2	Unknown	Related
+subjective	5067	0	3	Tja	5067-subjective0	Negative	Related
+subjective	5068	0	21	Reicht vollkommen aus	5068-subjective0	Positive	Related
+aspect	5069	27	34	english	5069-aspect0	Neutral	Related
+subjective	5069	13	23	nur leider	5069-subjective1	Negative	Related
+subjective	5069	0	11	Super sache	5069-subjective0	Positive	Related
+subjective	5071	87	100	sehr sinnvoll	5071-subjective2	Positive	Related
+aspect	5071	73	86	Sondersymbole	5071-aspect2	Neutral	Foreign
+aspect	5071	37	47	Formeltool	5071-aspect1	Neutral	Foreign
+aspect	5071	16	19	App	5071-aspect0	Neutral	Related
+subjective	5071	10	15	Tolle	5071-subjective1	Positive	Related
+subjective	5071	0	6	Klasse	5071-subjective0	Positive	Related
+subjective	5072	51	69	kost nix taugt nix	5072-subjective0	Negative	Related
+aspect	5073	39	42	App	5073-aspect0	Neutral	Related
+subjective	5073	12	18	Klasse	5073-subjective1	Positive	Related
+subjective	5073	0	8	Sehr Gut	5073-subjective0	Positive	Related
+subjective	5074	4	21	alles wie es soll	5074-subjective0	Positive	Related
+aspect	5075	16	35	Nutzungsmöglichkeit	5075-aspect1	Unknown	Related
+subjective	5075	11	15	gute	5075-subjective1	Positive	Related
+aspect	5075	6	10	Teil	5075-aspect0	Neutral	Related
+subjective	5075	0	5	Super	5075-subjective0	Positive	Related
+subjective	5076	47	65	funktioniert nicht	5076-subjective0	Negative	Related
+aspect	5076	34	46	registrieren	5076-aspect0	Neutral	Related
+subjective	5076	19	26	sinnlos	5076-subjective1	Negative	Related
+aspect	5077	11	14	App	5077-aspect0	Neutral	Related
+subjective	5077	7	10	Top	5077-subjective1	Positive	Related
+subjective	5077	0	3	Top	5077-subjective0	Positive	Related
+subjective	5078	68	77	Weiter so	5078-subjective2	Positive	Related
+subjective	5078	44	66	das ist sein Geld wert	5078-subjective1	Positive	Related
+aspect	5078	31	38	Premium	5078-aspect0	Neutral	Related
+subjective	5078	0	11	Super Sache	5078-subjective0	Positive	Related
+subjective	5079	55	66	sehr schade	5079-subjective1	Negative	Related
+aspect	5079	16	19	App	5079-aspect0	Neutral	Related
+subjective	5079	0	8	Schlecht	5079-subjective0	Negative	Related
+subjective	5080	219	246	So was darf nicht passieren	5080-subjective0	Negative	Related
+subjective	5080	15	23	verloren	5080-subjective1	Negative	Related
+aspect	5080	0	14	Excel Dokument	5080-aspect0	Unknown	Related
+aspect	5081	36	43	Polaris	5081-aspect0	Neutral	Foreign
+subjective	5081	0	5	Super	5081-subjective0	Positive	Related
+subjective	5082	166	198	Vielen vielen Dank für eure Mühe	5082-subjective1	Negative	Related
+aspect	5082	66	73	Premium	5082-aspect2	Neutral	Related
+subjective	5082	32	53	riesengroße Frechheit	5082-subjective0	Negative	Related
+aspect	5082	17	25	Kauf-App	5082-aspect1	Unknown	Related
+aspect	5082	6	13	Werbung	5082-aspect0	Unknown	Related
+subjective	5083	310	327	Einfach nur super	5083-subjective2	Positive	Related
+aspect	5083	187	190	pdf	5083-aspect2	Neutral	Related
+aspect	5083	165	174	ms Office	5083-aspect1	Neutral	Related
+subjective	5083	138	158	was mich nicht stört	5083-subjective1	Positive	Related
+aspect	5083	36	42	Office	5083-aspect0	Neutral	Related
+subjective	5083	0	16	Nur zu empfehlen	5083-subjective0	Positive	Related
+subjective	5084	0	7	Scheiße	5084-subjective3	Negative	Related
+subjective	5084	21	25	kack	5084-subjective2	Negative	Related
+aspect	5084	26	34	Programm	5084-aspect2	Neutral	Related
+aspect	5084	97	108	Vollversion	5084-aspect1	Neutral	Related
+subjective	5084	124	135	Scheißdreck	5084-subjective1	Negative	Related
+subjective	5085	0	8	Lügnerei	5085-subjective2	Negative	Related
+subjective	5085	16	31	nicht kostenlos	5085-subjective1	Negative	Related
+subjective	5086	0	9	Alles Top	5086-subjective1	Positive	Related
+subjective	5087	0	5	Super	5087-subjective1	Positive	Related
+aspect	5087	6	9	app	5087-aspect1	Unknown	Related
+subjective	5088	0	4	Gute	5088-subjective1	Positive	Related
+aspect	5088	5	8	App	5088-aspect2	Neutral	Related
+aspect	5088	38	45	Drucken	5088-aspect1	Neutral	Related
+subjective	5089	0	5	Super	5089-subjective2	Positive	Related
+subjective	5089	9	12	Gut	5089-subjective1	Positive	Related
+aspect	5089	13	21	portiert	5089-aspect1	Neutral	Related
+subjective	5090	0	11	Ausbaufähig	5090-subjective3	Neutral	Related
+subjective	5090	15	27	Leider nicht	5090-subjective2	Negative	Related
+aspect	5090	32	39	deutsch	5090-aspect3	Neutral	Related
+aspect	5090	47	75	deutsche Rechtschreibprüfung	5090-aspect2	Neutral	Foreign
+subjective	5090	90	95	beste	5090-subjective1	Positive	Related
+aspect	5090	104	114	Office App	5090-aspect1	Neutral	Related
+aspect	5091	20	34	Berechtigungen	5091-aspect1	Unknown	Related
+subjective	5091	108	131	Was soll denn das alles	5091-subjective1	Negative	Related
+subjective	5092	0	5	SUPER	5092-subjective4	Positive	Related
+subjective	5092	9	14	Super	5092-subjective3	Positive	Related
+aspect	5092	15	18	App	5092-aspect1	Neutral	Related
+subjective	5092	20	48	macht genau das was Sie soll	5092-subjective2	Positive	Related
+subjective	5092	57	67	total easy	5092-subjective1	Positive	Related
+subjective	5093	0	5	Gutes	5093-subjective1	Positive	Related
+aspect	5093	6	14	Programm	5093-aspect1	Neutral	Related
+subjective	5094	4	9	beste	5094-subjective1	Positive	Related
+subjective	5095	0	3	Gut	5095-subjective1	Positive	Related
+aspect	5095	59	62	App	5095-aspect1	Neutral	Related
+subjective	5096	36	41	Beste	5096-subjective2	Positive	Related
+subjective	5096	15	27	Absolut cool	5096-subjective1	Positive	Related
+subjective	5096	0	11	Suuper cool	5096-subjective0	Positive	Related
+subjective	5097	0	14	EMPFEHLENSWERT	5097-subjective0	Positive	Related
+subjective	5098	37	46	ungefragt	5098-subjective1	Negative	Related
+aspect	5098	16	23	Startet	5098-aspect1	Neutral	Related
+aspect	5098	6	14	Programm	5098-aspect0	Neutral	Related
+subjective	5098	0	5	Gutes	5098-subjective0	Positive	Related
+subjective	5099	0	8	Sehr gut	5099-subjective0	Positive	Related
+aspect	5100	6	9	app	5100-aspect0	Unknown	Related
+subjective	5100	0	5	Super	5100-subjective0	Positive	Related
+subjective	5101	470	481	Null Sterne	5101-subjective4	Negative	Related
+aspect	5101	286	293	Updates	5101-aspect2	Neutral	Related
+subjective	5101	280	285	keine	5101-subjective3	Negative	Related
+aspect	5101	268	275	gekauft	5101-aspect1	Neutral	Related
+subjective	5101	262	267	teuer	5101-subjective2	Negative	Related
+subjective	5101	239	260	Leider sehr entäuscht	5101-subjective1	Negative	Related
+subjective	5101	223	238	nicht kostenlos	5101-subjective0	Negative	Related
+aspect	5101	215	222	Updates	5101-aspect0	Neutral	Related
+aspect	5101	134	141	Support	5101-aspect4	Neutral	Related
+aspect	5101	24	30	Update	5101-aspect3	Neutral	Related
+subjective	5101	19	23	kein	5101-subjective6	Negative	Related
+subjective	5101	6	13	Support	5101-subjective5	Neutral	Related
+subjective	5102	36	53	Absolut zufrieden	5102-subjective2	Positive	Related
+subjective	5102	11	34	Macht das , was sie soll	5102-subjective1	Positive	Related
+aspect	5102	4	7	App	5102-aspect0	Neutral	Related
+subjective	5102	0	3	Top	5102-subjective0	Positive	Related
+subjective	5103	0	6	spitze	5103-subjective0	Positive	Related
+aspect	5104	12	18	update	5104-aspect0	Unknown	Related
+subjective	5104	0	6	Fehler	5104-subjective0	Negative	Related
+aspect	5106	372	377	Cloud	5106-aspect4	Neutral	Related
+subjective	5106	264	270	falsch	5106-subjective4	Negative	Related
+aspect	5106	240	251	Übersetzung	5106-aspect3	Neutral	Related
+subjective	5106	146	153	versagt	5106-subjective3	Negative	Related
+aspect	5106	136	145	Dokumente	5106-aspect2	Neutral	Related
+subjective	5106	122	125	gut	5106-subjective2	Positive	Related
+aspect	5106	60	64	Menu	5106-aspect1	Neutral	Related
+subjective	5106	26	39	Könnte besser	5106-subjective1	Negative	Related
+aspect	5106	10	19	Usability	5106-aspect0	Neutral	Related
+subjective	5106	0	3	Gut	5106-subjective0	Positive	Related
+aspect	5107	47	69	Animationen hinzufügen	5107-aspect1	Neutral	Related
+subjective	5107	41	46	keine	5107-subjective0	Negative	Related
+aspect	5107	5	15	PowerPoint	5107-aspect0	Unknown	Related
+subjective	5108	70	84	wenig Mehrwert	5108-subjective2	Negative	Related
+aspect	5108	46	57	Statistiken	5108-aspect1	Neutral	Related
+aspect	5108	33	35	G +	5108-aspect0	Neutral	Related
+subjective	5108	15	28	Nett verzahnt	5108-subjective1	Positive	Related
+subjective	5108	0	7	Geht so	5108-subjective0	Neutral	Related
+subjective	5109	14	40	Eine bessere gibt es nicht	5109-subjective1	Positive	Related
+aspect	5109	6	9	App	5109-aspect0	Neutral	Related
+subjective	5109	0	5	Super	5109-subjective0	Positive	Related
+subjective	5110	765	774	Frechheit	5110-subjective3	Negative	Related
+aspect	5110	730	747	offline speichern	5110-aspect3	Neutral	Related
+subjective	5110	588	616	Eine riesige Schweinerei !!!!	5110-subjective2	Negative	Related
+subjective	5110	572	584	unauffindbar	5110-subjective1	Negative	Related
+aspect	5110	554	559	Datei	5110-aspect2	Neutral	Related
+aspect	5110	310	326	Senden per Email	5110-aspect4	Neutral	Related
+aspect	5110	28	41	Word-Dokument	5110-aspect1	Neutral	Related
+subjective	5110	6	24	unrettbar verloren	5110-subjective0	Negative	Related
+aspect	5110	0	5	Datei	5110-aspect0	Unknown	Related
+subjective	5111	217	245	noch nichts besseres gesehen	5111-subjective3	Positive	Related
+aspect	5111	193	208	Funktionsumfang	5111-aspect2	Neutral	Related
+subjective	5111	170	182	nur 3 Sterne	5111-subjective2	Negative	Related
+aspect	5111	131	154	Symbolleisten skalieren	5111-aspect1	Neutral	Related
+subjective	5111	121	126	nicht	5111-subjective1	Negative	Related
+aspect	5111	13	24	Officesuite	5111-aspect0	Neutral	Related
+subjective	5111	6	12	Schöne	5111-subjective0	Positive	Related
+subjective	5112	22	34	hervorragend	5112-subjective1	Positive	Related
+aspect	5112	9	21	Funktioniert	5112-aspect0	Neutral	Related
+subjective	5112	0	5	Super	5112-subjective0	Positive	Related
+subjective	5113	492	508	komplett wertlos	5113-subjective2	Negative	Related
+aspect	5113	488	491	App	5113-aspect2	Neutral	Related
+subjective	5113	268	274	Fehler	5113-subjective3	Negative	Related
+aspect	5113	240	249	Rendering	5113-aspect3	Neutral	Related
+subjective	5113	102	115	alles astrein	5113-subjective1	Positive	Related
+aspect	5113	52	55	App	5113-aspect1	Neutral	Related
+subjective	5113	20	31	unbrauchbar	5113-subjective0	Negative	Related
+aspect	5113	13	19	Update	5113-aspect0	Unknown	Related
+aspect	5114	52	72	deutschen Spellcheck	5114-aspect1	Unknown	Foreign
+subjective	5114	40	47	Wünsche	5114-subjective2	Negative	Related
+subjective	5114	17	24	umsonst	5114-subjective1	Positive	Related
+aspect	5114	8	11	App	5114-aspect0	Neutral	Related
+subjective	5114	0	7	Geniale	5114-subjective0	Positive	Related
+aspect	5115	75	78	PDF	5115-aspect2	Unknown	Related
+aspect	5115	53	70	Office-Dokumenten	5115-aspect1	Neutral	Related
+subjective	5115	28	48	funktioniert perfekt	5115-subjective2	Positive	Related
+aspect	5115	18	26	benutzen	5115-aspect0	Neutral	Related
+subjective	5115	7	14	Einfach	5115-subjective1	Positive	Related
+subjective	5115	0	3	Top	5115-subjective0	Positive	Related
+aspect	5116	308	318	Office APP	5116-aspect2	Neutral	Related
+subjective	5116	302	307	Beste	5116-subjective2	Positive	Related
+subjective	5116	31	47	bestens geeignet	5116-subjective1	Positive	Related
+aspect	5116	21	30	Note 10.1	5116-aspect1	Neutral	Related
+aspect	5116	6	9	App	5116-aspect0	Neutral	Related
+subjective	5116	0	5	Super	5116-subjective0	Positive	Related
+subjective	5117	133	148	leider entfernt	5117-subjective1	Negative	Related
+aspect	5117	119	126	drucken	5117-aspect1	Neutral	Related
+subjective	5117	86	108	Geht leider nicht mehr	5117-subjective2	Negative	Related
+aspect	5117	16	23	Drucken	5117-aspect0	Neutral	Related
+subjective	5117	5	15	nicht mehr	5117-subjective0	Negative	Related
+aspect	5118	23	31	Win7 RDP	5118-aspect0	Neutral	Foreign
+subjective	5118	8	18	Übertrifft	5118-subjective1	Positive	Related
+subjective	5118	0	3	Top	5118-subjective0	Positive	Related
+subjective	5119	124	138	noch toleriert	5119-subjective3	Neutral	Related
+aspect	5119	111	118	Werbung	5119-aspect3	Neutral	Related
+aspect	5119	79	93	CPU Ressourcen	5119-aspect2	Neutral	Related
+subjective	5119	70	78	zu viele	5119-subjective2	Negative	Related
+subjective	5119	44	58	im Prinzip gut	5119-subjective1	Positive	Related
+aspect	5119	36	39	App	5119-aspect1	Neutral	Related
+subjective	5119	20	27	zu hoch	5119-subjective0	Negative	Related
+aspect	5119	0	19	Ressourcenverbrauch	5119-aspect0	Unknown	Related
+subjective	5120	94	106	nur 4 Sterne	5120-subjective1	Negative	Related
+subjective	5120	71	84	nicht möglich	5120-subjective2	Negative	Related
+aspect	5120	58	69	Bearbeitung	5120-aspect0	Neutral	Related
+subjective	5120	0	18	Fehlt noch einiges	5120-subjective0	Negative	Related
+subjective	5121	71	96	keine Dateien mehr öffnen	5121-subjective1	Negative	Related
+aspect	5121	67	70	App	5121-aspect2	Neutral	Related
+aspect	5121	51	57	Update	5121-aspect1	Neutral	Related
+aspect	5121	12	30	Öffnen von Dateien	5121-aspect0	Neutral	Related
+subjective	5121	0	8	Probleme	5121-subjective0	Negative	Related
+subjective	5122	0	5	super	5122-subjective0	Positive	Related
+subjective	5123	143	157	nicht geeignet	5123-subjective2	Negative	Related
+aspect	5123	127	142	mobilen Nutzung	5123-aspect3	Neutral	Related
+aspect	5123	119	122	App	5123-aspect2	Neutral	Related
+aspect	5123	48	51	App	5123-aspect1	Neutral	Related
+subjective	5123	37	47	Recht gute	5123-subjective1	Positive	Related
+aspect	5123	6	25	offline Speicherung	5123-aspect0	Neutral	Related
+subjective	5123	0	5	Keine	5123-subjective0	Negative	Related
+aspect	5124	24	31	Deutsch	5124-aspect0	Neutral	Related
+subjective	5124	10	20	Jetzt noch	5124-subjective1	Negative	Related
+subjective	5124	0	6	Klasse	5124-subjective0	Positive	Related
+subjective	5125	130	133	:-(	5125-subjective3	Negative	Related
+subjective	5125	108	122	nicht geöffnet	5125-subjective1	Negative	Related
+aspect	5125	87	102	Word 95 Dateien	5125-aspect1	Neutral	Related
+subjective	5125	45	48	:-(	5125-subjective0	Negative	Related
+subjective	5125	23	37	nicht geöffnet	5125-subjective2	Negative	Related
+aspect	5125	0	15	. docx-Dokumente	5125-aspect0	Unknown	Related
+aspect	5126	81	89	SD Karte	5126-aspect0	Neutral	Related
+subjective	5126	67	72	nicht	5126-subjective2	Negative	Related
+subjective	5126	22	49	Sofort wieder deinstalliert	5126-subjective1	Negative	Related
+subjective	5126	0	18	Nicht verschiebbar	5126-subjective0	Negative	Related
+aspect	5127	5	8	APP	5127-aspect0	Neutral	Related
+subjective	5127	0	4	Gute	5127-subjective0	Positive	Related
+subjective	5128	149	161	ausgeblendet	5128-subjective3	Negative	Related
+aspect	5128	132	143	Statuszeile	5128-aspect2	Neutral	Related
+subjective	5128	107	126	Besonders ärgerlich	5128-subjective2	Negative	Related
+subjective	5128	76	98	arg zusammengestrichen	5128-subjective1	Negative	Related
+aspect	5128	48	75	Konfigurationsmöglichkeiten	5128-aspect0	Neutral	Related
+aspect	5128	31	38	Updates	5128-aspect1	Neutral	Related
+subjective	5128	0	4	Ojeh	5128-subjective0	Negative	Related
+aspect	5129	84	90	Update	5129-aspect2	Neutral	Related
+subjective	5129	42	52	mangelhaft	5129-subjective0	Negative	Related
+aspect	5129	22	36	Formatierungen	5129-aspect1	Unknown	Related
+aspect	5129	0	14	Formatierungen	5129-aspect0	Unknown	Related
+subjective	5130	55	58	:-)	5130-subjective2	Positive	Related
+subjective	5130	45	54	KOSTENLOS	5130-subjective1	Positive	Related
+aspect	5130	6	16	Office-App	5130-aspect0	Neutral	Related
+subjective	5130	0	5	BESTE	5130-subjective0	Positive	Related
+subjective	5131	25	28	:-)	5131-subjective1	Positive	Related
+subjective	5131	0	3	Top	5131-subjective0	Positive	Related
+subjective	5132	49	63	sehr hilfreich	5132-subjective2	Negative	Related
+aspect	5132	33	41	Business	5132-aspect0	Neutral	Related
+subjective	5132	11	20	hilfreich	5132-subjective1	Positive	Related
+subjective	5132	0	10	Sehr schön	5132-subjective0	Positive	Related
+subjective	5134	26	43	endlich kostenlos	5134-subjective1	Positive	Related
+aspect	5134	10	16	Office	5134-aspect0	Neutral	Related
+subjective	5134	4	9	beste	5134-subjective0	Positive	Related
+aspect	5135	173	176	App	5135-aspect2	Neutral	Related
+subjective	5135	162	172	kostenlose	5135-subjective3	Positive	Related
+subjective	5135	70	75	super	5135-subjective2	Positive	Related
+aspect	5135	61	65	Word	5135-aspect1	Neutral	Related
+aspect	5135	42	52	smartphone	5135-aspect0	Neutral	Related
+subjective	5135	22	37	optimale Lösung	5135-subjective1	Positive	Related
+subjective	5135	0	6	Genial	5135-subjective0	Positive	Related
+subjective	5136	10	23	Sehr nützlich	5136-subjective1	Positive	Related
+subjective	5136	0	5	Super	5136-subjective0	Positive	Related
+subjective	5137	269	282	ganz schlecht	5137-subjective4	Negative	Related
+aspect	5137	254	264	Zoom Modus	5137-aspect4	Neutral	Related
+subjective	5137	229	242	nicht möglich	5137-subjective3	Negative	Related
+aspect	5137	196	228	Änderung der Bildschirmauflösung	5137-aspect3	Neutral	Related
+subjective	5137	173	188	Ein Stern Abzug	5137-subjective2	Negative	Related
+subjective	5137	27	30	gut	5137-subjective1	Positive	Related
+aspect	5137	21	26	läuft	5137-aspect2	Neutral	Related
+aspect	5137	17	20	App	5137-aspect1	Unknown	Related
+subjective	5137	6	9	gut	5137-subjective0	Positive	Related
+aspect	5137	0	5	Läuft	5137-aspect0	Unknown	Related
+subjective	5138	61	73	kein Problem	5138-subjective1	Positive	Related
+aspect	5138	23	44	Speichern auf SD-Card	5138-aspect1	Neutral	Related
+subjective	5138	13	21	tadellos	5138-subjective0	Positive	Related
+aspect	5138	0	12	Funktioniert	5138-aspect0	Unknown	Related
+aspect	5139	17	25	Programm	5139-aspect0	Unknown	Related
+subjective	5139	11	16	Super	5139-subjective1	Positive	Related
+subjective	5139	0	7	Exelent	5139-subjective0	Positive	Related
+aspect	5140	64	67	Pdf	5140-aspect2	Neutral	Related
+aspect	5140	42	59	Officeanwendungen	5140-aspect1	Neutral	Related
+subjective	5140	37	41	Alle	5140-subjective2	Positive	Related
+aspect	5140	31	35	Tool	5140-aspect0	Neutral	Related
+subjective	5140	25	30	gutes	5140-subjective1	Positive	Related
+subjective	5140	13	20	Simples	5140-subjective0	Positive	Related
+subjective	5141	83	87	Toll	5141-subjective2	Positive	Related
+aspect	5141	42	50	Programm	5141-aspect0	Neutral	Related
+subjective	5141	35	41	tolles	5141-subjective1	Positive	Related
+subjective	5141	0	21	Etwas unübersichtlich	5141-subjective0	Negative	Related
+subjective	5142	179	181	:(	5142-subjective2	Positive	Related
+subjective	5142	156	178	leider nicht brauchbar	5142-subjective1	Negative	Related
+subjective	5142	135	148	nicht möglich	5142-subjective0	Negative	Related
+aspect	5142	92	114	manuelle Konfiguration	5142-aspect0	Unknown	Related
+aspect	5143	43	60	Microsoft Produkt	5143-aspect1	Neutral	Foreign
+subjective	5143	13	31	Klasse Alternative	5143-subjective1	Positive	Related
+aspect	5143	6	9	App	5143-aspect0	Neutral	Related
+subjective	5143	0	5	Super	5143-subjective0	Positive	Related
+subjective	5144	55	67	nicht öffnen	5144-subjective0	Negative	Related
+aspect	5144	6	17	doc-Dateien	5144-aspect0	Unknown	Related
+subjective	5145	12	17	Super	5145-subjective1	Positive	Related
+subjective	5145	0	11	Einwandfrei	5145-subjective0	Positive	Related
+subjective	5146	76	86	nicht mehr	5146-subjective1	Negative	Related
+aspect	5146	60	75	Netzwerkdrucker	5146-aspect2	Neutral	Related
+aspect	5146	36	42	update	5146-aspect1	Neutral	Related
+aspect	5146	6	9	App	5146-aspect0	Neutral	Related
+subjective	5146	0	5	Super	5146-subjective0	Positive	Related
+subjective	5147	0	5	Super	5147-subjective0	Positive	Related
+subjective	5148	10	27	Macht Was es soll	5148-subjective1	Positive	Related
+subjective	5148	0	6	Tiptop	5148-subjective0	Positive	Related
+subjective	5149	22	31	kostenlos	5149-subjective2	Positive	Related
+subjective	5149	9	20	zuverlässig	5149-subjective1	Positive	Related
+subjective	5149	0	7	Schnell	5149-subjective0	Positive	Related
+aspect	5150	28	39	ODF support	5150-aspect0	Neutral	Related
+subjective	5150	0	8	Sehr Gut	5150-subjective0	Positive	Related
+subjective	5151	85	91	Schade	5151-subjective0	Negative	Related
+subjective	5152	0	13	Super einfach	5152-subjective0	Positive	Related
+aspect	5153	44	71	Anzeigen von Präsentationen	5153-aspect0	Unknown	Related
+subjective	5153	18	38	vereinzelte Abstürze	5153-subjective1	Negative	Related
+subjective	5153	0	4	Toll	5153-subjective0	Positive	Related
+subjective	5154	51	55	👍 😀	5154-subjective2	Positive	Related
+subjective	5154	43	50	perfekt	5154-subjective1	Positive	Related
+aspect	5154	39	42	APP	5154-aspect1	Neutral	Related
+aspect	5154	22	34	funktioniert	5154-aspect0	Neutral	Related
+subjective	5154	0	5	Super	5154-subjective0	Positive	Related
+subjective	5155	141	149	5 Sterne	5155-subjective1	Positive	Related
+subjective	5155	107	121	Fehler behoben	5155-subjective2	Positive	Related
+aspect	5155	85	91	update	5155-aspect0	Neutral	Related
+subjective	5155	0	5	Super	5155-subjective0	Positive	Related
+subjective	5156	157	168	Sehr schade	5156-subjective1	Negative	Related
+aspect	5156	143	155	funktioniert	5156-aspect2	Neutral	Related
+subjective	5156	132	142	nicht mehr	5156-subjective2	Negative	Related
+aspect	5156	45	48	App	5156-aspect1	Neutral	Related
+subjective	5156	12	36	nicht mehr zu gebrauchen	5156-subjective0	Negative	Related
+aspect	5156	5	11	Update	5156-aspect0	Unknown	Related
+subjective	5157	7	10	Top	5157-subjective1	Positive	Related
+subjective	5157	0	3	Top	5157-subjective0	Positive	Related
+subjective	5158	43	58	nicht angeboten	5158-subjective0	Negative	Related
+aspect	5158	28	42	Acer A1-840FHD	5158-aspect0	Unknown	Related
+subjective	5159	101	111	beachtlich	5159-subjective2	Negative	Related
+aspect	5159	69	75	Grösse	5159-aspect1	Neutral	Related
+subjective	5159	33	41	sehr gut	5159-subjective1	Positive	Related
+aspect	5159	24	32	Grafisch	5159-aspect0	Neutral	Related
+subjective	5159	10	17	tut nix	5159-subjective0	Negative	Related

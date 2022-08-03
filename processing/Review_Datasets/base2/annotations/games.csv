@@ -1,0 +1,547 @@
+aspect	4000	23	28	Event	4000-aspect3	Unknown	Related
+aspect	4000	152	157	Spiel	4000-aspect2	Unknown	Related
+subjective	4000	216	221	lange	4000-subjective1	Negative	Related
+aspect	4000	222	226	lädt	4000-aspect1	Neutral	Related
+subjective	4001	4	10	Hammer	4001-subjective2	Positive	Related
+subjective	4001	17	39	macht mir richtig Spaß	4001-subjective1	Positive	Related
+subjective	4002	3	7	cool	4002-subjective2	Positive	Related
+subjective	4002	12	21	Funny pur	4002-subjective1	Positive	Related
+subjective	4004	14	34	det es besser finden	4004-subjective1	Negative	Related
+aspect	4004	49	69	Dekoration verkaufen	4004-aspect3	Neutral	Related
+aspect	4004	90	96	Zwerge	4004-aspect2	Neutral	Related
+aspect	4004	99	104	Bäume	4004-aspect1	Neutral	Related
+subjective	4005	0	4	Toll	4005-subjective2	Positive	Related
+subjective	4005	12	16	cool	4005-subjective1	Positive	Related
+subjective	4006	0	5	Geilo	4006-subjective3	Positive	Related
+aspect	4006	55	61	donuts	4006-aspect1	Neutral	Related
+subjective	4006	125	141	bitte verbessern	4006-subjective2	Negative	Related
+subjective	4006	158	163	geilo	4006-subjective1	Positive	Related
+aspect	4007	23	29	update	4007-aspect1	Unknown	Related
+subjective	4007	66	79	Bitte beheben	4007-subjective1	Negative	Related
+subjective	4009	0	8	Schlecht	4009-subjective3	Negative	Related
+aspect	4009	18	21	APP	4009-aspect2	Neutral	Related
+subjective	4009	42	57	kann es einfach	4009-subjective2	Negative	Related
+aspect	4009	64	70	öffnen	4009-aspect1	Neutral	Related
+subjective	4009	73	81	schlecht	4009-subjective1	Negative	Related
+aspect	4010	4	9	Spiel	4010-aspect2	Unknown	Related
+subjective	4010	18	24	Hammer	4010-subjective2	Positive	Related
+aspect	4010	57	62	Spiel	4010-aspect1	Neutral	Related
+subjective	4010	63	68	bockt	4010-subjective1	Positive	Related
+subjective	4011	5	10	super	4011-subjective1	Positive	Related
+subjective	4012	6	10	cool	4012-subjective0	Positive	Related
+subjective	4013	31	37	leider	4013-subjective1	Negative	Related
+subjective	4013	12	25	Macht süchtig	4013-subjective0	Positive	Related
+aspect	4013	0	8	Simpsons	4013-aspect0	Unknown	Related
+subjective	4014	27	39	Sehr schwach	4014-subjective0	Negative	Related
+subjective	4015	14	17	gut	4015-subjective0	Positive	Related
+aspect	4015	4	9	spiel	4015-aspect0	Unknown	Related
+subjective	4016	43	52	voll dumm	4016-subjective0	Negative	Related
+aspect	4017	201	220	fragezeichenfiguren	4017-aspect4	Neutral	Related
+subjective	4017	155	160	beste	4017-subjective2	Positive	Related
+aspect	4017	141	146	spiel	4017-aspect3	Neutral	Related
+aspect	4017	124	136	frankenstein	4017-aspect2	Neutral	Related
+aspect	4017	114	122	emo ganz	4017-aspect0	Neutral	Related
+subjective	4017	91	108	funktioniren nich	4017-subjective1	Negative	Related
+aspect	4017	81	90	caraktere	4017-aspect1	Neutral	Related
+subjective	4017	0	4	Cool	4017-subjective0	Positive	Related
+subjective	4018	14	24	Es ist gut	4018-subjective0	Positive	Related
+aspect	4018	0	10	Revulution	4018-aspect0	Unknown	Related
+subjective	4019	27	50	macht richtig viel Spaß	4019-subjective1	Positive	Related
+aspect	4019	21	26	Spiel	4019-aspect0	Neutral	Related
+subjective	4019	0	16	Einfach nur geil	4019-subjective0	Positive	Related
+subjective	4020	0	3	Gut	4020-subjective0	Positive	Related
+subjective	4021	37	39	1A	4021-subjective2	Positive	Related
+subjective	4021	13	35	Perfekter Zeitvertreib	4021-subjective1	Positive	Related
+subjective	4021	0	9	Exzellent	4021-subjective0	Positive	Related
+subjective	4022	8	16	Ganz gut	4022-subjective0	Positive	Related
+aspect	4022	0	4	Epic	4022-aspect0	Unknown	Related
+subjective	4023	0	3	Gut	4023-subjective0	Positive	Related
+aspect	4024	9	22	aktualisieren	4024-aspect2	Unknown	Related
+subjective	4024	45	65	schwarzen Bildschirm	4024-subjective2	Negative	Related
+subjective	4024	74	80	schade	4024-subjective1	Negative	Related
+aspect	4024	88	93	Spiel	4024-aspect1	Neutral	Related
+subjective	4025	0	4	Cool	4025-subjective1	Positive	Related
+subjective	4026	0	4	Geil	4026-subjective2	Positive	Related
+subjective	4026	21	25	geil	4026-subjective1	Positive	Related
+subjective	4027	21	29	Ganz gut	4027-subjective2	Positive	Related
+aspect	4027	34	39	Spiel	4027-aspect1	Neutral	Related
+subjective	4027	94	105	sehr schade	4027-subjective1	Negative	Related
+subjective	4028	37	41	cool	4028-subjective2	Positive	Related
+subjective	4028	65	80	zu früh gefreut	4028-subjective1	Negative	Related
+aspect	4029	8	14	update	4029-aspect2	Unknown	Related
+aspect	4029	66	72	update	4029-aspect1	Unknown	Related
+subjective	4029	138	145	Problem	4029-subjective1	Negative	Related
+aspect	4030	0	6	Smpons	4030-aspect1	Unknown	Related
+subjective	4030	10	15	Beste	4030-subjective1	Positive	Related
+subjective	4031	0	3	Gut	4031-subjective3	Positive	Related
+subjective	4031	19	21	ok	4031-subjective2	Positive	Related
+subjective	4031	30	42	gibt bessere	4031-subjective1	Negative	Related
+subjective	4032	0	9	Wunderbar	4032-subjective2	Positive	Related
+subjective	4032	17	22	liebe	4032-subjective1	Positive	Related
+aspect	4033	28	33	läuft	4033-aspect2	Unknown	Related
+aspect	4033	38	43	Spiel	4033-aspect1	Unknown	Related
+subjective	4033	44	59	nicht mehr rund	4033-subjective1	Negative	Related
+subjective	4034	4	9	liebe	4034-subjective2	Positive	Related
+subjective	4034	33	45	einfach cool	4034-subjective1	Positive	Related
+subjective	4035	0	4	Echt	4035-subjective1	Positive	Related
+aspect	4036	19	33	clash of Clans	4036-aspect0	Neutral	Foreign
+subjective	4036	8	14	Besser	4036-subjective1	Positive	Related
+subjective	4036	0	4	Nice	4036-subjective0	Positive	Related
+subjective	4037	12	14	:)	4037-subjective1	Positive	Related
+subjective	4037	0	11	Suchtgefahr	4037-subjective0	Positive	Related
+aspect	4038	60	69	Steuerung	4038-aspect2	Unknown	Related
+subjective	4038	48	59	schrecklich	4038-subjective3	Negative	Related
+subjective	4038	38	46	bugt rum	4038-subjective2	Negative	Related
+aspect	4038	32	37	Sound	4038-aspect1	Neutral	Related
+subjective	4038	20	30	Viele Bugs	4038-subjective1	Negative	Related
+aspect	4038	11	16	Spiel	4038-aspect0	Neutral	Related
+subjective	4038	0	10	Unfertiges	4038-subjective0	Negative	Related
+subjective	4039	131	140	alles gut	4039-subjective1	Positive	Related
+subjective	4039	0	4	Geil	4039-subjective0	Positive	Related
+aspect	4040	61	66	platz	4040-aspect1	Unknown	Related
+subjective	4040	36	60	benötigt aber einiges an	4040-subjective2	Negative	Related
+subjective	4040	25	34	ganz cool	4040-subjective1	Positive	Related
+aspect	4040	15	20	Spiel	4040-aspect0	Neutral	Related
+subjective	4040	0	7	ganz ok	4040-subjective0	Positive	Related
+subjective	4041	0	5	Super	4041-subjective0	Positive	Related
+subjective	4042	0	9	Voll cool	4042-subjective0	Positive	Related
+subjective	4043	198	215	viiieeel zu klein	4043-subjective2	Negative	Related
+aspect	4043	161	167	Bilder	4043-aspect1	Neutral	Related
+aspect	4043	122	129	Trailer	4043-aspect2	Neutral	Related
+subjective	4043	116	121	keine	4043-subjective3	Negative	Related
+aspect	4043	22	27	Spiel	4043-aspect0	Neutral	Related
+subjective	4043	15	21	Tolles	4043-subjective1	Positive	Related
+subjective	4043	0	11	Suchtgefahr	4043-subjective0	Positive	Related
+subjective	4044	169	176	SO COOL	4044-subjective3	Positive	Related
+aspect	4044	150	155	SPIEL	4044-aspect2	Neutral	Related
+aspect	4044	86	90	game	4044-aspect1	Neutral	Related
+subjective	4044	73	78	Liebe	4044-subjective2	Positive	Related
+subjective	4044	34	47	macht süchtig	4044-subjective1	Positive	Related
+aspect	4044	28	33	spiel	4044-aspect0	Neutral	Related
+subjective	4044	0	20	SUPER MEGA OBER GEIL	4044-subjective0	Positive	Related
+subjective	4045	28	36	sehr gut	4045-subjective1	Positive	Related
+aspect	4045	18	23	spiel	4045-aspect0	Neutral	Related
+subjective	4045	0	9	Sehr geil	4045-subjective0	Positive	Related
+subjective	4046	22	30	gans gut	4046-subjective0	Positive	Related
+subjective	4047	15	19	cool	4047-subjective1	Positive	Related
+subjective	4047	0	4	Cool	4047-subjective0	Positive	Related
+subjective	4048	228	230	:(	4048-subjective2	Negative	Related
+subjective	4048	89	100	kackt es ab	4048-subjective1	Negative	Related
+subjective	4048	0	5	Kacke	4048-subjective0	Negative	Related
+subjective	4049	8	18	Cooooooool	4049-subjective1	Positive	Related
+subjective	4049	0	4	Cool	4049-subjective0	Positive	Related
+subjective	4051	70	80	macht spaß	4051-subjective1	Positive	Related
+aspect	4051	14	19	spiel	4051-aspect0	Neutral	Related
+subjective	4051	7	13	cooles	4051-subjective0	Positive	Related
+subjective	4052	198	208	Nein danke	4052-subjective3	Negative	Related
+subjective	4052	86	94	nicht OK	4052-subjective2	Negative	Related
+subjective	4052	65	75	Nein Danke	4052-subjective1	Negative	Related
+subjective	4052	47	64	nur über Facebook	4052-subjective0	Negative	Related
+aspect	4052	30	36	Update	4052-aspect0	Unknown	Related
+aspect	4052	0	16	Facebook Pflicht	4052-aspect1	Unknown	Related
+subjective	4053	11	16	Na ja	4053-subjective1	Neutral	Related
+subjective	4053	0	7	Geht so	4053-subjective0	Neutral	Related
+subjective	4054	35	53	schwer aufzurüsten	4054-subjective1	Negative	Related
+aspect	4054	22	27	Lager	4054-aspect1	Neutral	Related
+aspect	4054	8	13	Spiel	4054-aspect0	Neutral	Related
+subjective	4054	0	7	Schönes	4054-subjective0	Positive	Related
+aspect	4055	27	32	Spiel	4055-aspect1	Neutral	Related
+subjective	4055	21	26	Super	4055-subjective1	Positive	Related
+subjective	4055	12	16	groß	4055-subjective0	Positive	Related
+aspect	4055	0	11	Suchtfaktor	4055-aspect0	Unknown	Related
+subjective	4056	18	22	geil	4056-subjective3	Positive	Related
+subjective	4056	13	17	geil	4056-subjective2	Positive	Related
+subjective	4056	8	12	Geil	4056-subjective1	Positive	Related
+subjective	4056	0	4	Geil	4056-subjective0	Positive	Related
+subjective	4057	10	29	Cooler Zeitvertreib	4057-subjective1	Positive	Related
+subjective	4057	0	5	Super	4057-subjective0	Positive	Related
+subjective	4058	68	76	gelöscht	4058-subjective0	Negative	Related
+aspect	4058	26	37	characktere	4058-aspect0	Neutral	Related
+subjective	4058	3	14	hängt immer	4058-subjective1	Negative	Related
+subjective	4059	6	8	Ne	4059-subjective1	Negative	Related
+subjective	4059	0	2	Ne	4059-subjective0	Negative	Related
+subjective	4060	40	50	laufen weg	4060-subjective1	Negative	Related
+aspect	4060	34	39	Tiere	4060-aspect1	Neutral	Related
+subjective	4060	17	24	sch * * * *	4060-subjective0	Negative	Related
+aspect	4060	6	12	update	4060-aspect0	Unknown	Related
+subjective	4061	79	86	löschen	4061-subjective1	Negative	Related
+aspect	4061	68	73	Spiel	4061-aspect1	Neutral	Related
+subjective	4061	32	45	macht süchtig	4061-subjective0	Positive	Related
+aspect	4061	26	31	Spiel	4061-aspect0	Unknown	Related
+aspect	4063	67	74	Werbung	4063-aspect1	Neutral	Related
+aspect	4063	43	51	facebook	4063-aspect0	Neutral	Related
+subjective	4063	22	34	finde es dof	4063-subjective0	Negative	Related
+subjective	4065	87	92	wirds	4065-subjective2	Negative	Related
+subjective	4065	56	65	zwar geil	4065-subjective1	Positive	Related
+aspect	4065	29	41	jump spielen	4065-aspect0	Neutral	Related
+subjective	4065	8	28	einer von den besten	4065-subjective0	Positive	Related
+subjective	4066	136	155	besonders ärgerlich	4066-subjective3	Negative	Related
+subjective	4066	117	130	Bitte beheben	4066-subjective2	Negative	Related
+aspect	4066	82	87	Spiel	4066-aspect1	Neutral	Related
+subjective	4066	39	46	geliebt	4066-subjective1	Positive	Related
+aspect	4066	33	38	Spiel	4066-aspect0	Neutral	Related
+subjective	4066	0	17	Stürzt ständig ab	4066-subjective0	Negative	Related
+aspect	4067	49	63	vögel abknalln	4067-aspect0	Neutral	Related
+subjective	4067	22	34	einfach geil	4067-subjective0	Positive	Related
+subjective	4068	153	176	keine Reaktion bekommen	4068-subjective4	Negative	Related
+aspect	4068	102	111	SCHLÜSSEL	4068-aspect2	Neutral	Related
+subjective	4068	88	101	verschwundene	4068-subjective3	Negative	Related
+aspect	4068	66	86	GEKAUFTE GEGENSTÄNDE	4068-aspect1	Neutral	Related
+subjective	4068	52	65	verschwundene	4068-subjective2	Negative	Related
+subjective	4068	27	49	ständige Bildstörungen	4068-subjective0	Negative	Related
+subjective	4068	14	23	verlassen	4068-subjective1	Negative	Related
+aspect	4068	8	13	Spiel	4068-aspect0	Unknown	Related
+subjective	4069	78	108	komme ich nicht mal hinein !!!!	4069-subjective1	Negative	Related
+aspect	4069	56	63	spielen	4069-aspect1	Neutral	Related
+aspect	4069	18	23	Spiel	4069-aspect0	Neutral	Related
+subjective	4069	11	17	cooles	4069-subjective0	Positive	Related
+subjective	4070	29	57	auf Dauer macht es kein Spaß	4070-subjective1	Negative	Related
+subjective	4070	20	23	Gut	4070-subjective0	Positive	Related
+aspect	4071	7	12	spiel	4071-aspect0	Neutral	Related
+subjective	4071	0	6	Cooles	4071-subjective0	Positive	Related
+subjective	4072	0	9	Mal sehen	4072-subjective0	Neutral	Related
+subjective	4073	145	163	echt zum empfehlen	4073-subjective3	Positive	Related
+aspect	4073	139	144	Spiel	4073-aspect3	Neutral	Related
+subjective	4073	132	138	cooles	4073-subjective2	Positive	Related
+subjective	4073	74	91	immer sehr gut ;)	4073-subjective1	Positive	Related
+aspect	4073	61	68	Updates	4073-aspect2	Neutral	Related
+subjective	4073	31	51	vertreibt Langeweile	4073-subjective0	Positive	Related
+aspect	4073	25	30	Spiel	4073-aspect1	Unknown	Related
+aspect	4073	0	14	Subway Surfers	4073-aspect0	Unknown	Related
+aspect	4074	240	244	Farm	4074-aspect5	Neutral	Related
+aspect	4074	174	181	Support	4074-aspect3	Neutral	Related
+aspect	4074	141	145	farm	4074-aspect4	Neutral	Related
+aspect	4074	116	120	Team	4074-aspect2	Neutral	Related
+subjective	4074	109	115	tolles	4074-subjective3	Positive	Related
+subjective	4074	75	86	suchtfaktor	4074-subjective2	Positive	Related
+aspect	4074	65	70	Spiel	4074-aspect1	Neutral	Related
+subjective	4074	58	64	tolles	4074-subjective1	Positive	Related
+aspect	4074	13	18	Spiel	4074-aspect0	Neutral	Related
+subjective	4074	0	12	Sehr schönes	4074-subjective0	Positive	Related
+subjective	4075	8	24	Einfach nur cool	4075-subjective1	Positive	Related
+subjective	4075	0	4	Cool	4075-subjective0	Positive	Related
+aspect	4076	282	287	spiel	4076-aspect1	Neutral	Related
+subjective	4076	275	281	cooles	4076-subjective3	Positive	Related
+aspect	4076	250	256	Donout	4076-aspect7	Neutral	Related
+aspect	4076	237	241	Geld	4076-aspect6	Neutral	Related
+aspect	4076	205	212	Donouts	4076-aspect5	Neutral	Related
+aspect	4076	197	201	Geld	4076-aspect4	Neutral	Related
+aspect	4076	158	173	umtausch anlage	4076-aspect3	Neutral	Foreign
+subjective	4076	131	140	Toll wäre	4076-subjective4	Negative	Related
+aspect	4076	93	100	Donouts	4076-aspect2	Neutral	Related
+aspect	4076	55	60	spiel	4076-aspect0	Neutral	Related
+subjective	4076	44	54	mega gutes	4076-subjective2	Positive	Related
+subjective	4076	25	35	tolle idee	4076-subjective1	Positive	Related
+subjective	4076	0	4	Cool	4076-subjective0	Positive	Related
+subjective	4077	115	131	Spaß machts auch	4077-subjective1	Positive	Related
+subjective	4077	101	110	kostenlos	4077-subjective2	Positive	Related
+subjective	4077	18	41	Von mir volle Punktzahl	4077-subjective0	Positive	Related
+subjective	4078	0	8	Zu teuer	4078-subjective0	Negative	Related
+aspect	4079	6	11	Spiel	4079-aspect0	Neutral	Related
+subjective	4079	0	5	Super	4079-subjective0	Positive	Related
+subjective	4080	8	12	Cool	4080-subjective1	Positive	Related
+subjective	4080	0	4	Cool	4080-subjective0	Positive	Related
+aspect	4081	14	19	Spiel	4081-aspect0	Unknown	Related
+subjective	4081	7	13	Tolles	4081-subjective0	Positive	Related
+subjective	4082	20	35	macht viel Spaß	4082-subjective1	Positive	Related
+aspect	4082	14	19	Spiel	4082-aspect0	Neutral	Related
+subjective	4082	0	10	Soooo geil	4082-subjective0	Positive	Related
+subjective	4083	26	34	cooooool	4083-subjective1	Positive	Related
+aspect	4083	12	17	spiel	4083-aspect0	Neutral	Related
+subjective	4083	4	11	geilste	4083-subjective0	Positive	Related
+subjective	4085	3	10	scheiße	4085-subjective2	Negative	Related
+subjective	4085	14	21	Scheiße	4085-subjective1	Negative	Related
+subjective	4086	0	10	Macht Spaß	4086-subjective5	Positive	Related
+aspect	4086	36	45	Diamanten	4086-aspect4	Neutral	Related
+subjective	4086	204	227	macht es sehr viel Spaß	4086-subjective4	Positive	Related
+aspect	4086	233	239	Grafik	4086-aspect3	Neutral	Related
+subjective	4086	244	253	echt toll	4086-subjective3	Positive	Related
+aspect	4086	269	274	Tiere	4086-aspect2	Neutral	Related
+subjective	4086	358	370	echt drollig	4086-subjective2	Positive	Related
+aspect	4086	422	426	Obst	4086-aspect1	Neutral	Related
+subjective	4086	439	452	viel zu lange	4086-subjective1	Negative	Related
+subjective	4087	13	20	So cool	4087-subjective1	Positive	Related
+subjective	4088	0	14	Eigentlich gut	4088-subjective3	Positive	Related
+aspect	4088	38	43	Spiel	4088-aspect1	Neutral	Related
+subjective	4088	90	105	voll begeistert	4088-subjective2	Positive	Related
+subjective	4088	191	222	Was ist das für eine Verarsche ?	4088-subjective1	Negative	Related
+subjective	4089	0	8	Ganz gut	4089-subjective3	Positive	Related
+subjective	4089	13	23	etwas blöd	4089-subjective2	Negative	Related
+subjective	4089	40	50	ganz schön	4089-subjective1	Positive	Related
+subjective	4090	11	16	Hoher	4090-subjective4	Positive	Related
+subjective	4090	34	39	Super	4090-subjective3	Positive	Related
+aspect	4090	40	45	Spiel	4090-aspect2	Neutral	Related
+subjective	4090	47	53	wenige	4090-subjective2	Positive	Related
+aspect	4090	54	60	Fehler	4090-aspect1	Neutral	Related
+subjective	4090	62	66	Toll	4090-subjective1	Positive	Related
+aspect	4092	15	21	levels	4092-aspect1	Unknown	Related
+subjective	4092	28	38	langweilig	4092-subjective1	Negative	Related
+aspect	4094	4	9	spiel	4094-aspect1	Unknown	Related
+subjective	4094	28	35	so cool	4094-subjective1	Positive	Related
+aspect	4095	4	9	Spiel	4095-aspect3	Unknown	Related
+subjective	4095	14	18	cool	4095-subjective5	Positive	Related
+subjective	4095	19	24	raubt	4095-subjective4	Negative	Related
+aspect	4095	30	34	Akku	4095-aspect2	Neutral	Related
+subjective	4095	48	52	cool	4095-subjective3	Positive	Related
+aspect	4095	73	77	Akku	4095-aspect1	Neutral	Related
+subjective	4095	78	83	raubt	4095-subjective2	Negative	Related
+subjective	4095	84	171	:-) :-) :-) :-) :-) :-) :-) :-) :-) :-) :-) :-) :-) :-) :-) :-) :-) :-) :-) :-) :-) :-)	4095-subjective1	Positive	Related
+subjective	4096	105	109	cool	4096-subjective3	Positive	Related
+subjective	4096	60	62	:(	4096-subjective2	Negative	Related
+subjective	4096	49	59	voll teuer	4096-subjective1	Negative	Related
+aspect	4096	42	48	Geräte	4096-aspect0	Neutral	Related
+subjective	4096	0	14	Macht vol spaß	4096-subjective0	Positive	Related
+subjective	4097	317	319	😈	4097-subjective3	Negative	Related
+subjective	4097	213	234	kotzt mich einfach an	4097-subjective2	Negative	Related
+subjective	4097	137	153	kotst mich so an	4097-subjective4	Negative	Related
+aspect	4097	102	132	wieder ganz von vorne anfangen	4097-aspect0	Neutral	Related
+subjective	4097	30	33	gut	4097-subjective5	Positive	Related
+subjective	4097	8	14	scheiß	4097-subjective1	Negative	Related
+subjective	4097	0	3	Gut	4097-subjective0	Positive	Related
+subjective	4098	87	115	nicht hält was es verspricht	4098-subjective0	Negative	Related
+aspect	4098	44	61	super mystery box	4098-aspect0	Neutral	Related
+subjective	4098	30	43	keine einzige	4098-subjective1	Negative	Related
+subjective	4099	37	39	😊	4099-subjective3	Positive	Related
+subjective	4099	36	37	❤	4099-subjective2	Positive	Related
+aspect	4099	30	35	Spiel	4099-aspect0	Neutral	Related
+subjective	4099	17	22	Liebe	4099-subjective0	Positive	Related
+subjective	4099	0	13	Läuft wieder !	4099-subjective1	Positive	Related
+aspect	4100	411	428	Event Gegenstände	4100-aspect4	Neutral	Foreign
+subjective	4100	401	406	öfter	4100-subjective4	Negative	Related
+subjective	4100	371	391	wäre schon hilfreich	4100-subjective3	Negative	Related
+aspect	4100	249	254	Event	4100-aspect3	Neutral	Related
+subjective	4100	207	223	keinen Spaß mehr	4100-subjective1	Negative	Related
+aspect	4100	193	198	Spiel	4100-aspect2	Neutral	Related
+subjective	4100	135	161	bekommt man nicht zusammen	4100-subjective1	Negative	Related
+aspect	4100	107	118	Gegenstände	4100-aspect1	Neutral	Related
+subjective	4100	19	36	einfach zu schwer	4100-subjective0	Negative	Related
+aspect	4100	9	14	Event	4100-aspect0	Unknown	Related
+subjective	4101	0	13	Alles bestens	4101-subjective0	Positive	Related
+subjective	4102	22	26	geil	4102-subjective1	Positive	Related
+aspect	4102	12	17	spiel	4102-aspect0	Neutral	Related
+subjective	4102	0	4	Cool	4102-subjective0	Positive	Related
+subjective	4103	0	4	Cool	4103-subjective0	Positive	Related
+subjective	4104	4	25	komme nicht mehr rein	4104-subjective0	Negative	Related
+aspect	4105	101	106	Spiel	4105-aspect0	Unknown	Related
+subjective	4105	95	100	gutes	4105-subjective1	Positive	Related
+subjective	4105	70	84	nicht bekommen	4105-subjective2	Negative	Related
+aspect	4105	65	69	Tier	4105-aspect1	Neutral	Related
+subjective	4105	0	3	Gut	4105-subjective0	Positive	Related
+subjective	4106	29	37	sau cool	4106-subjective0	Positive	Related
+aspect	4106	19	24	Spiel	4106-aspect1	Unknown	Related
+aspect	4106	0	11	Farm vill 2	4106-aspect0	Unknown	Related
+subjective	4107	10	16	Hammer	4107-subjective1	Positive	Related
+subjective	4107	0	6	Hammer	4107-subjective0	Positive	Related
+subjective	4108	11	19	Sehr gut	4108-subjective0	Positive	Related
+aspect	4108	0	7	Simpson	4108-aspect0	Unknown	Related
+subjective	4109	0	8	sau geil	4109-subjective0	Positive	Related
+aspect	4110	327	342	Landerweiterung	4110-aspect5	Neutral	Related
+subjective	4110	321	326	keine	4110-subjective5	Negative	Related
+aspect	4110	308	315	Gebäude	4110-aspect6	Neutral	Related
+subjective	4110	303	307	neue	4110-subjective6	Positive	Related
+aspect	4110	276	282	Update	4110-aspect9	Neutral	Related
+aspect	4110	234	251	Landerweiterungen	4110-aspect3	Neutral	Related
+subjective	4110	230	233	nie	4110-subjective3	Negative	Related
+aspect	4110	205	212	Gebäude	4110-aspect4	Neutral	Related
+subjective	4110	194	204	immer mehr	4110-subjective4	Positive	Related
+aspect	4110	156	160	Land	4110-aspect2	Neutral	Related
+subjective	4110	134	155	Bitte doppelt so viel	4110-subjective2	Negative	Related
+aspect	4110	72	79	Gebäude	4110-aspect8	Neutral	Related
+aspect	4110	58	65	Gebäude	4110-aspect7	Neutral	Related
+subjective	4110	36	48	reicht nicht	4110-subjective1	Negative	Related
+aspect	4110	19	35	Land Erweiterung	4110-aspect1	Neutral	Related
+aspect	4110	11	15	Land	4110-aspect0	Neutral	Related
+subjective	4110	0	10	Bitte mehr	4110-subjective0	Negative	Related
+aspect	4111	62	74	defende game	4111-aspect2	Unknown	Related
+subjective	4111	57	61	best	4111-subjective3	Positive	Related
+subjective	4111	40	50	mach spass	4111-subjective4	Positive	Related
+aspect	4111	33	39	Grafik	4111-aspect1	Neutral	Related
+subjective	4111	26	32	schöne	4111-subjective2	Positive	Related
+aspect	4111	20	25	spiel	4111-aspect0	Neutral	Related
+subjective	4111	14	19	Super	4111-subjective1	Positive	Related
+subjective	4111	0	10	Mach spass	4111-subjective0	Positive	Related
+subjective	4112	26	30	toll	4112-subjective1	Positive	Related
+aspect	4112	16	21	spiel	4112-aspect0	Neutral	Related
+subjective	4112	0	8	Sent Gut	4112-subjective0	Positive	Related
+subjective	4113	24	25	♥	4113-subjective2	Positive	Related
+subjective	4113	9	24	Macht voll spaß	4113-subjective1	Positive	Related
+subjective	4113	0	5	Super	4113-subjective0	Positive	Related
+subjective	4114	249	264	Bitte beheben !!	4114-subjective4	Negative	Related
+subjective	4114	228	243	ziemlich nervig	4114-subjective3	Negative	Related
+aspect	4114	205	222	neu herunterladen	4114-aspect3	Neutral	Related
+aspect	4114	112	133	verbindung zum Server	4114-aspect2	Neutral	Related
+subjective	4114	106	111	keine	4114-subjective2	Negative	Related
+aspect	4114	79	86	spielen	4114-aspect1	Neutral	Related
+aspect	4114	71	78	account	4114-aspect0	Unknown	Related
+subjective	4114	50	59	nichtmehr	4114-subjective1	Negative	Related
+subjective	4114	0	13	Mal so mal so	4114-subjective0	Neutral	Related
+subjective	4115	0	4	GEIL	4115-subjective0	Positive	Related
+subjective	4116	7	14	Eig gut	4116-subjective1	Positive	Related
+subjective	4116	0	3	Gut	4116-subjective0	Positive	Related
+aspect	4117	20	25	spiel	4117-aspect0	Unknown	Related
+subjective	4117	7	19	Hammer geile	4117-subjective0	Positive	Related
+subjective	4118	269	283	wäre echt toll	4118-subjective6	Negative	Related
+subjective	4118	248	263	bisschen fairer	4118-subjective5	Negative	Related
+aspect	4118	229	243	der geschenken	4118-aspect4	Neutral	Foreign
+subjective	4118	192	198	👎 👎 👎	4118-subjective4	Negative	Related
+aspect	4118	186	191	coins	4118-aspect4	Neutral	Related
+subjective	4118	171	177	nur 40	4118-subjective7	Negative	Related
+subjective	4118	114	122	ein witz	4118-subjective3	Negative	Related
+aspect	4118	99	108	geschenke	4118-aspect2	Neutral	Related
+subjective	4118	61	70	noch mehr	4118-subjective2	Negative	Related
+aspect	4118	34	45	charakteren	4118-aspect1	Neutral	Related
+subjective	4118	22	33	sehr vielen	4118-subjective1	Positive	Related
+aspect	4118	12	17	spiel	4118-aspect0	Neutral	Related
+subjective	4118	0	11	Sehr cooles	4118-subjective0	Positive	Related
+subjective	4119	19	23	cool	4119-subjective1	Positive	Related
+subjective	4119	0	10	Macht Spaß	4119-subjective0	Positive	Related
+subjective	4120	13	15	: D	4120-subjective1	Positive	Related
+aspect	4120	7	12	Spiel	4120-aspect0	Neutral	Related
+subjective	4120	0	6	Geiles	4120-subjective0	Positive	Related
+aspect	4121	89	96	dounuts	4121-aspect3	Neutral	Related
+subjective	4121	75	88	viel zu wenig	4121-subjective3	Negative	Related
+aspect	4121	38	44	events	4121-aspect2	Neutral	Related
+subjective	4121	32	37	viele	4121-subjective2	Positive	Related
+aspect	4121	26	31	spiel	4121-aspect1	Neutral	Related
+subjective	4121	15	25	Echt gutes	4121-subjective1	Positive	Related
+aspect	4121	6	11	spiel	4121-aspect0	Neutral	Related
+subjective	4121	0	5	Super	4121-subjective0	Positive	Related
+subjective	4122	0	16	Beste spiel ever	4122-subjective0	Positive	Related
+aspect	4123	0	7	Hay day	4123-aspect0	Unknown	Related
+subjective	4124	135	150	tttooolllllllll	4124-subjective1	Positive	Related
+aspect	4124	115	120	Spiel	4124-aspect1	Neutral	Related
+subjective	4124	109	114	gutes	4124-subjective3	Positive	Related
+aspect	4124	29	36	figiren	4124-aspect0	Neutral	Related
+subjective	4124	19	23	Toll	4124-subjective2	Positive	Related
+subjective	4124	0	15	Best spiel ever	4124-subjective0	Positive	Related
+subjective	4125	29	57	Coooooooooooll ĺ llllllollllll	4125-subjective1	Positive	Related
+subjective	4125	0	25	Geeeeeeiiiiiiiiilllllllll	4125-subjective0	Positive	Related
+aspect	4126	161	171	gutscheine	4126-aspect2	Unknown	Related
+aspect	4126	142	151	diamanten	4126-aspect1	Neutral	Related
+aspect	4126	115	131	angeln verkaufen	4126-aspect3	Neutral	Foreign
+subjective	4126	72	76	blöd	4126-subjective2	Negative	Related
+subjective	4126	48	51	:-)	4126-subjective1	Positive	Related
+subjective	4126	36	48	echt klassse	4126-subjective0	Positive	Related
+aspect	4126	26	31	spiel	4126-aspect0	Unknown	Related
+subjective	4127	130	157	komplett von vorne anfangen	4127-subjective2	Negative	Related
+aspect	4127	87	93	Donuts	4127-aspect1	Neutral	Related
+subjective	4127	42	63	komplett verschwunden	4127-subjective1	Negative	Related
+aspect	4127	30	41	Springfield	4127-aspect0	Neutral	Related
+subjective	4127	0	7	Problem	4127-subjective0	Negative	Related
+subjective	4128	329	337	5 Sterne	4128-subjective3	Positive	Related
+subjective	4128	221	226	: ' (:(	4128-subjective2	Negative	Related
+subjective	4128	199	221	nicht mehr öffnen läst	4128-subjective1	Negative	Related
+aspect	4128	193	198	Spiel	4128-aspect1	Neutral	Related
+subjective	4128	111	117	futsch	4128-subjective0	Positive	Related
+aspect	4128	104	110	Rekord	4128-aspect0	Neutral	Related
+aspect	4128	55	65	Charaktere	4128-aspect2	Neutral	Related
+subjective	4128	24	35	fünf Sterne	4128-subjective4	Positive	Related
+subjective	4128	6	14	5 Sterne	4128-subjective5	Positive	Related
+subjective	4129	56	75	richtig richtig gut	4129-subjective2	Positive	Related
+aspect	4129	27	32	Apple	4129-aspect0	Neutral	Related
+subjective	4129	21	26	beste	4129-subjective1	Positive	Related
+subjective	4129	0	5	Super	4129-subjective0	Positive	Related
+subjective	4130	29	35	😉 😊 😃	4130-subjective1	Positive	Related
+subjective	4130	20	29	voll COOL	4130-subjective0	Positive	Related
+aspect	4130	10	15	Spiel	4130-aspect0	Unknown	Related
+subjective	4131	80	93	kotzt mich an	4131-subjective3	Negative	Related
+subjective	4131	50	74	wieder von vorn anfangen	4131-subjective2	Negative	Related
+subjective	4131	32	35	weg	4131-subjective1	Negative	Related
+aspect	4131	26	31	Spiel	4131-aspect0	Neutral	Related
+subjective	4131	0	7	Scheiße	4131-subjective0	Negative	Related
+subjective	4132	0	5	Coool	4132-subjective0	Positive	Related
+subjective	4133	14	24	Coolllllll	4133-subjective1	Positive	Related
+subjective	4133	0	10	Mega krass	4133-subjective0	Positive	Related
+subjective	4134	110	114	😠 😠	4134-subjective2	Negative	Related
+aspect	4134	99	104	Spiel	4134-aspect1	Neutral	Related
+subjective	4134	32	59	garnicht erst herunterladen	4134-subjective1	Negative	Related
+aspect	4134	25	31	update	4134-aspect0	Neutral	Related
+subjective	4134	0	12	Voll scheiße	4134-subjective0	Negative	Related
+subjective	4135	109	112	top	4135-subjective2	Positive	Related
+subjective	4135	30	48	langt leider nicht	4135-subjective3	Negative	Related
+aspect	4135	25	29	Zeit	4135-aspect0	Neutral	Related
+subjective	4135	11	16	super	4135-subjective1	Positive	Related
+subjective	4135	0	3	Gut	4135-subjective0	Positive	Related
+subjective	4136	70	72	;)	4136-subjective4	Positive	Related
+subjective	4136	49	69	macht leicht süchtig	4136-subjective3	Positive	Related
+subjective	4136	32	40	spannend	4136-subjective2	Positive	Related
+subjective	4136	15	27	Sehr evektiv	4136-subjective1	Positive	Related
+aspect	4136	6	11	spiel	4136-aspect0	Neutral	Related
+subjective	4136	0	5	Gutes	4136-subjective0	Positive	Related
+subjective	4137	80	84	mehr	4137-subjective1	Negative	Related
+aspect	4137	73	79	Tieren	4137-aspect1	Neutral	Foreign
+aspect	4137	13	18	Spiel	4137-aspect0	Neutral	Related
+subjective	4137	0	12	Sehr schönes	4137-subjective0	Positive	Related
+aspect	4138	35	44	gestartet	4138-aspect0	Neutral	Related
+subjective	4138	24	34	nicht mehr	4138-subjective1	Negative	Related
+subjective	4138	0	17	Stürzt nurnoch ab	4138-subjective0	Negative	Related
+aspect	4139	14	18	Zeit	4139-aspect0	Unknown	Related
+subjective	4139	0	9	Vertreibt	4139-subjective0	Positive	Related
+aspect	4140	102	126	Aktualisierung verfügbar	4140-aspect2	Neutral	Related
+subjective	4140	97	101	kein	4140-subjective2	Negative	Related
+aspect	4140	46	58	Spiel öffnen	4140-aspect1	Neutral	Related
+subjective	4140	35	45	kann nicht	4140-subjective1	Negative	Related
+subjective	4140	10	15	super	4140-subjective0	Positive	Related
+aspect	4140	0	5	Spiel	4140-aspect0	Unknown	Related
+subjective	4141	322	342	" Gesuche " einführen	4141-subjective6	Negative	Related
+aspect	4141	284	291	Zeitung	4141-aspect3	Neutral	Foreign
+subjective	4141	219	250	beansprucht sehr sehr viel Zeit	4141-subjective5	Negative	Related
+subjective	4141	113	129	echt viel suchen	4141-subjective4	Negative	Related
+aspect	4141	105	112	Zeitung	4141-aspect2	Neutral	Related
+subjective	4141	65	76	Suchtgefahr	4141-subjective3	Positive	Related
+aspect	4141	55	60	Spiel	4141-aspect1	Neutral	Related
+subjective	4141	44	54	Sehr gutes	4141-subjective2	Positive	Related
+subjective	4141	31	42	reibungslos	4141-subjective1	Positive	Related
+aspect	4141	24	30	funkts	4141-aspect0	Neutral	Related
+subjective	4141	0	11	Reibungslos	4141-subjective0	Positive	Related
+subjective	4142	0	9	Penetrant	4142-subjective0	Negative	Related
+subjective	4144	19	31	empfehle ich	4144-subjective2	Positive	Related
+subjective	4144	9	18	Sehr tool	4144-subjective1	Positive	Related
+subjective	4144	0	5	Coool	4144-subjective0	Positive	Related
+aspect	4145	41	57	tournaments bike	4145-aspect1	Neutral	Related
+subjective	4145	26	31	super	4145-subjective0	Positive	Related
+aspect	4145	16	21	Spiel	4145-aspect0	Unknown	Related
+subjective	4146	247	251	cool	4146-subjective3	Positive	Related
+subjective	4146	224	240	stützt es oft ab	4146-subjective1	Negative	Related
+aspect	4146	196	201	Video	4146-aspect1	Neutral	Related
+aspect	4146	166	178	Tiere wählen	4146-aspect2	Neutral	Related
+subjective	4146	105	109	Blöd	4146-subjective2	Negative	Related
+subjective	4146	21	30	echt cool	4146-subjective0	Positive	Related
+aspect	4146	11	16	Spiel	4146-aspect0	Unknown	Related
+subjective	4147	70	72	😊	4147-subjective3	Positive	Related
+aspect	4147	43	48	Spiel	4147-aspect1	Neutral	Related
+subjective	4147	35	42	schönes	4147-subjective2	Positive	Related
+subjective	4147	19	30	macht Laune	4147-subjective1	Positive	Related
+aspect	4147	13	18	Spiel	4147-aspect0	Neutral	Related
+subjective	4147	0	5	Bombe	4147-subjective0	Positive	Related
+subjective	4148	0	4	Geil	4148-subjective0	Positive	Related
+subjective	4149	11	22	richtig gut	4149-subjective0	Positive	Related
+subjective	4150	13	22	Echt geil	4150-subjective0	Positive	Related
+aspect	4151	5	8	app	4151-aspect0	Unknown	Related
+subjective	4151	0	4	Jolo	4151-subjective0	Positive	Related
+aspect	4152	121	126	spiel	4152-aspect3	Neutral	Related
+subjective	4152	97	116	Keine 5 sterne wert	4152-subjective2	Negative	Related
+subjective	4152	79	95	nix dazu gelernt	4152-subjective1	Negative	Related
+aspect	4152	55	60	Zynga	4152-aspect1	Neutral	Related
+aspect	4152	31	36	zynga	4152-aspect2	Neutral	Related
+subjective	4152	6	26	weiterhin fehlerhaft	4152-subjective0	Negative	Related
+aspect	4152	0	5	Läuft	4152-aspect0	Unknown	Related
+subjective	4153	70	85	Server Probleme	4153-subjective1	Negative	Related
+subjective	4153	0	5	Hängt	4153-subjective0	Negative	Related
+subjective	4154	90	104	daum nach oben	4154-subjective3	Positive	Related
+aspect	4154	61	70	farmspiel	4154-aspect1	Neutral	Related
+subjective	4154	39	60	kein anderes besseres	4154-subjective2	Positive	Related
+aspect	4154	25	30	spiel	4154-aspect0	Neutral	Related
+subjective	4154	18	24	geiles	4154-subjective1	Positive	Related
+subjective	4154	0	7	Geilooo	4154-subjective0	Positive	Related
+subjective	4155	16	20	😄 😍	4155-subjective1	Positive	Related
+subjective	4155	0	15	Best ever spiel	4155-subjective0	Positive	Related
+subjective	4156	14	16	: 3	4156-subjective1	Positive	Related
+subjective	4156	4	6	: D	4156-subjective0	Positive	Related
+subjective	4157	0	12	Dasestgseill	4157-subjective0	Positive	Related
+subjective	4158	35	48	bin zufrieden	4158-subjective2	Positive	Related
+subjective	4158	31	34	gut	4158-subjective1	Positive	Related
+subjective	4158	17	26	ganz nett	4158-subjective0	Positive	Related
+aspect	4159	30	35	Spiel	4159-aspect0	Neutral	Related
+subjective	4159	23	29	tolles	4159-subjective1	Positive	Related
+subjective	4159	0	8	CooleApp	4159-subjective0	Positive	Related

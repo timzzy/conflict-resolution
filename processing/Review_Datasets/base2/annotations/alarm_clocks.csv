@@ -1,0 +1,648 @@
+subjective	7000	0	15	Alles wieder ok	7000-subjective2	Positive	Related
+aspect	7000	21	27	Update	7000-aspect1	Neutral	Related
+subjective	7000	28	40	funktioniert	7000-subjective1	Positive	Related
+subjective	7001	0	10	Echt super	7001-subjective5	Positive	Related
+subjective	7001	15	22	Schönes	7001-subjective4	Positive	Related
+subjective	7001	38	51	einzigartiges	7001-subjective3	Positive	Related
+aspect	7001	52	61	interface	7001-aspect2	Neutral	Related
+subjective	7001	63	78	wirklich klasse	7001-subjective2	Positive	Related
+subjective	7001	80	90	Schön wäre	7001-subjective1	Negative	Related
+aspect	7001	113	135	lieder als klingeltöne	7001-aspect1	Neutral	Foreign
+subjective	7003	17	32	Einfach nur top	7003-subjective1	Positive	Related
+subjective	7004	0	5	Super	7004-subjective2	Positive	Related
+subjective	7004	15	21	ändert	7004-subjective1	Negative	Related
+aspect	7004	22	42	klingeltonlautstärke	7004-aspect1	Neutral	Related
+subjective	7005	10	28	Wirklich gelungene	7005-subjective2	Positive	Related
+aspect	7005	29	32	app	7005-aspect1	Neutral	Related
+subjective	7005	34	42	tadellos	7005-subjective1	Positive	Related
+subjective	7006	0	11	Sehr schöne	7006-subjective2	Positive	Related
+aspect	7006	12	14	UI	7006-aspect2	Neutral	Related
+aspect	7006	19	24	Optik	7006-aspect1	Neutral	Related
+subjective	7006	36	65	Bereicherung auf voller Länge	7006-subjective1	Positive	Related
+aspect	7007	0	13	Akkuverbrauch	7007-aspect3	Unknown	Related
+subjective	7007	14	21	zu hoch	7007-subjective2	Negative	Related
+aspect	7007	34	37	app	7007-aspect2	Neutral	Related
+aspect	7007	57	61	akku	7007-aspect1	Neutral	Related
+subjective	7007	75	99	in ein paar stunden leer	7007-subjective1	Negative	Related
+subjective	7008	31	36	150MB	7008-subjective1	Negative	Related
+aspect	7008	40	56	Hintergrunddaten	7008-aspect1	Neutral	Related
+subjective	7010	0	7	Perfect	7010-subjective7	Positive	Related
+subjective	7010	11	18	Endlich	7010-subjective6	Positive	Related
+aspect	7010	35	41	update	7010-aspect7	Neutral	Related
+subjective	7010	53	59	coolen	7010-subjective5	Positive	Related
+aspect	7010	60	66	Wecker	7010-aspect6	Neutral	Related
+aspect	7010	96	109	funktionierte	7010-aspect5	Neutral	Related
+subjective	7010	113	123	nicht mehr	7010-subjective4	Negative	Related
+subjective	7010	157	164	endlich	7010-subjective3	Positive	Related
+aspect	7010	165	171	update	7010-aspect4	Neutral	Related
+aspect	7010	182	187	läuft	7010-aspect3	Neutral	Related
+subjective	7010	203	214	ohne Fehler	7010-subjective2	Positive	Related
+aspect	7010	237	250	Sprachausgabe	7010-aspect2	Neutral	Related
+aspect	7010	255	268	Wetter Ansage	7010-aspect1	Neutral	Related
+subjective	7010	270	283	Einfach super	7010-subjective1	Positive	Related
+subjective	7011	4	9	liebe	7011-subjective1	Positive	Related
+aspect	7011	25	28	Uhr	7011-aspect2	Neutral	Related
+aspect	7011	33	49	Wettervorhersage	7011-aspect1	Neutral	Related
+subjective	7012	62	81	mich das Ding nicht	7012-subjective2	Negative	Related
+aspect	7012	56	61	weckt	7012-aspect1	Neutral	Related
+aspect	7012	37	43	Wecker	7012-aspect0	Neutral	Related
+subjective	7012	18	36	Guter vielseitiger	7012-subjective1	Positive	Related
+subjective	7012	0	14	Eigentlich gut	7012-subjective0	Positive	Related
+subjective	7013	93	117	Werbescheiß eingeblendet	7013-subjective1	Negative	Related
+subjective	7013	61	76	immer zufrieden	7013-subjective0	Positive	Related
+aspect	7013	31	34	App	7013-aspect0	Unknown	Related
+aspect	7014	172	197	Einbindung für Play Music	7014-aspect3	Neutral	Related
+subjective	7014	161	171	gibt keine	7014-subjective3	Negative	Related
+subjective	7014	139	153	nicht anpassen	7014-subjective2	Negative	Related
+aspect	7014	131	138	Widgets	7014-aspect2	Neutral	Related
+aspect	7014	120	126	Design	7014-aspect1	Neutral	Related
+aspect	7014	38	44	Wecker	7014-aspect0	Neutral	Related
+subjective	7014	29	37	schönste	7014-subjective1	Positive	Related
+subjective	7014	0	13	Guter Einkauf	7014-subjective0	Positive	Related
+aspect	7015	279	287	bedienen	7015-aspect2	Neutral	Related
+subjective	7015	256	272	ziemlich einfach	7015-subjective4	Positive	Related
+subjective	7015	172	183	wunderschön	7015-subjective3	Positive	Related
+aspect	7015	161	167	Design	7015-aspect1	Neutral	Related
+aspect	7015	147	154	Werbung	7015-aspect0	Neutral	Related
+subjective	7015	129	146	kaum bis garkeine	7015-subjective2	Positive	Related
+subjective	7015	22	49	gibt keine Einschrenku ngen	7015-subjective1	Negative	Related
+subjective	7015	0	13	Einfach super	7015-subjective0	Positive	Related
+subjective	7016	22	30	tadellos	7016-subjective1	Positive	Related
+aspect	7016	9	21	Funktioniert	7016-aspect0	Neutral	Related
+subjective	7016	0	5	Super	7016-subjective0	Positive	Related
+subjective	7018	60	63	top	7018-subjective1	Positive	Related
+aspect	7018	39	49	Wecker-App	7018-aspect0	Neutral	Related
+subjective	7018	15	38	bis jetzt keine bessere	7018-subjective2	Positive	Related
+subjective	7018	0	6	Super !	7018-subjective0	Positive	Related
+subjective	7019	13	35	Für jeden was dabei !!!	7019-subjective1	Positive	Related
+subjective	7019	0	9	Wunderbar	7019-subjective0	Positive	Related
+subjective	7020	9	12	Top	7020-subjective0	Positive	Related
+subjective	7021	227	247	Bitte beheben !!!!!!!	7021-subjective3	Negative	Related
+subjective	7021	126	139	nicht mehr !!!	7021-subjective2	Negative	Related
+aspect	7021	115	120	weckt	7021-aspect3	Neutral	Related
+aspect	7021	107	113	Wecker	7021-aspect2	Neutral	Related
+aspect	7021	95	101	Wecker	7021-aspect4	Neutral	Related
+subjective	7021	28	42	nicht mehr !!!!	7021-subjective1	Negative	Related
+aspect	7021	22	27	Weckt	7021-aspect1	Neutral	Related
+subjective	7021	17	20	top	7021-subjective0	Positive	Related
+aspect	7021	0	6	Design	7021-aspect0	Unknown	Related
+subjective	7022	14	31	entlich glücklich	7022-subjective0	Positive	Related
+subjective	7023	22	31	effizient	7023-subjective1	Positive	Related
+subjective	7023	14	17	gut	7023-subjective0	Positive	Related
+aspect	7023	0	6	Wecker	7023-aspect0	Unknown	Related
+subjective	7024	4	10	toller	7024-subjective4	Positive	Related
+aspect	7024	11	17	Wecker	7024-aspect2	Neutral	Related
+subjective	7024	60	89	Danach habe ich lange gesucht	7024-subjective3	Positive	Related
+subjective	7024	102	108	Schöne	7024-subjective2	Positive	Related
+subjective	7024	110	123	nicht nervige	7024-subjective1	Positive	Related
+aspect	7024	124	132	Melodien	7024-aspect1	Neutral	Related
+subjective	7025	0	9	Praktisch	7025-subjective2	Positive	Related
+subjective	7025	13	23	Besser wie	7025-subjective1	Positive	Related
+aspect	7025	28	43	Standard Wecker	7025-aspect1	Unknown	Foreign
+subjective	7026	0	7	Perfekt	7026-subjective2	Positive	Related
+subjective	7026	11	17	Bester	7026-subjective1	Positive	Related
+aspect	7026	18	24	Wecker	7026-aspect1	Unknown	Related
+subjective	7027	0	5	Läuft	7027-subjective2	Positive	Related
+subjective	7027	9	12	Top	7027-subjective1	Positive	Related
+aspect	7027	13	16	App	7027-aspect1	Unknown	Related
+aspect	7028	0	6	Wecker	7028-aspect3	Unknown	Related
+subjective	7028	10	30	Mal was ganz anderes	7028-subjective3	Positive	Related
+subjective	7028	32	47	Hat nicht jeder	7028-subjective2	Positive	Related
+aspect	7028	72	84	Eigene Musik	7028-aspect2	Neutral	Related
+aspect	7028	89	96	Weckton	7028-aspect1	Neutral	Related
+subjective	7028	111	116	Danke	7028-subjective1	Positive	Related
+subjective	7029	0	5	Beste	7029-subjective2	Positive	Related
+aspect	7029	9	12	App	7029-aspect1	Neutral	Related
+subjective	7029	25	27	;)	7029-subjective1	Positive	Related
+aspect	7030	20	23	app	7030-aspect2	Unknown	Related
+aspect	7030	37	43	design	7030-aspect1	Unknown	Related
+subjective	7030	131	135	0815	7030-subjective1	Negative	Related
+subjective	7031	0	5	Super	7031-subjective1	Positive	Related
+aspect	7031	6	9	app	7031-aspect1	Unknown	Related
+subjective	7032	0	8	Sehr gut	7032-subjective2	Positive	Related
+subjective	7032	21	30	Das passt	7032-subjective1	Positive	Related
+subjective	7033	0	2	:)	7033-subjective5	Positive	Related
+aspect	7033	10	13	app	7033-aspect4	Neutral	Related
+subjective	7033	18	27	sehr toll	7033-subjective4	Positive	Related
+aspect	7033	43	49	DESIGN	7033-aspect3	Neutral	Related
+subjective	7033	54	61	suuuper	7033-subjective3	Positive	Related
+aspect	7033	90	106	eigenen wecktöne	7033-aspect2	Neutral	Foreign
+aspect	7033	144	151	widgets	7033-aspect1	Neutral	Related
+subjective	7033	152	167	wären auch toll	7033-subjective2	Positive	Related
+subjective	7033	182	185	gut	7033-subjective1	Positive	Related
+subjective	7034	0	5	Prima	7034-subjective1	Positive	Related
+aspect	7034	6	9	App	7034-aspect1	Unknown	Related
+aspect	7036	132	135	app	7036-aspect1	Neutral	Related
+subjective	7036	111	131	sehr empfehlenswerte	7036-subjective2	Positive	Related
+subjective	7036	90	104	sehr zahlreich	7036-subjective1	Neutral	Related
+aspect	7036	76	89	einstellzngen	7036-aspect0	Neutral	Related
+subjective	7036	0	3	top	7036-subjective0	Positive	Related
+subjective	7037	0	5	Prima	7037-subjective0	Positive	Related
+subjective	7038	0	5	beste	7038-subjective0	Positive	Related
+subjective	7039	68	85	macht was er soll	7039-subjective1	Positive	Related
+aspect	7039	51	63	funktioniert	7039-aspect0	Neutral	Related
+subjective	7039	0	9	Suuuuuppi	7039-subjective0	Positive	Related
+aspect	7040	223	229	Wecker	7040-aspect3	Neutral	Related
+subjective	7040	200	214	sehr zufrieden	7040-subjective1	Positive	Related
+subjective	7040	153	164	Sehr schade	7040-subjective0	Negative	Related
+aspect	7040	131	136	Handy	7040-aspect2	Neutral	Related
+subjective	7040	80	100	16% höher als normal	7040-subjective2	Negative	Related
+aspect	7040	61	76	CPU -Auslastung	7040-aspect1	Unknown	Related
+aspect	7040	39	52	Wecker extrem	7040-aspect0	Unknown	Related
+subjective	7041	0	41	Funktioniert einfach genau so wie es soll	7041-subjective0	Positive	Related
+subjective	7042	12	16	Supa	7042-subjective1	Positive	Related
+subjective	7042	0	8	Sau guad	7042-subjective0	Positive	Related
+aspect	7043	11	14	App	7043-aspect0	Unknown	Related
+subjective	7043	5	10	Super	7043-subjective0	Positive	Related
+aspect	7044	105	115	Samsung S4	7044-aspect1	Unknown	Related
+subjective	7044	43	48	danke	7044-subjective1	Positive	Related
+subjective	7044	36	41	Super	7044-subjective0	Positive	Related
+aspect	7044	26	32	Update	7044-aspect0	Unknown	Related
+aspect	7045	35	45	Desire 2.2	7045-aspect1	Unknown	Related
+subjective	7045	18	34	Klare Empfehlung	7045-subjective1	Positive	Related
+aspect	7045	11	17	Wecker	7045-aspect0	Neutral	Related
+subjective	7045	0	10	Sehr guter	7045-subjective0	Positive	Related
+subjective	7046	0	13	Einfach super	7046-subjective0	Positive	Related
+subjective	7047	0	6	Tiptop	7047-subjective0	Positive	Related
+subjective	7048	0	4	Dumm	7048-subjective0	Negative	Related
+aspect	7049	30	37	Weckers	7049-aspect0	Unknown	Related
+subjective	7049	0	16	Gute Erweiterung	7049-subjective0	Positive	Related
+subjective	7050	9	12	Top	7050-subjective0	Positive	Related
+aspect	7051	17	23	Wecker	7051-aspect0	Neutral	Related
+subjective	7051	0	13	È ì nfach super	7051-subjective0	Positive	Related
+subjective	7052	109	124	Lieblingswecker	7052-subjective2	Positive	Related
+subjective	7052	62	84	höchsten Akkuverbrauch	7052-subjective1	Negative	Related
+aspect	7052	50	53	App	7052-aspect1	Neutral	Related
+aspect	7052	23	33	HTC ONE M8	7052-aspect2	Neutral	Related
+aspect	7052	6	19	Akkuverbrauch	7052-aspect0	Neutral	Related
+subjective	7052	0	5	Hoher	7052-subjective0	Negative	Related
+aspect	7053	24	33	Weckerapp	7053-aspect0	Neutral	Related
+subjective	7053	18	23	beste	7053-subjective1	Positive	Related
+subjective	7053	0	12	Hervorragend	7053-subjective0	Positive	Related
+aspect	7054	60	66	Design	7054-aspect1	Neutral	Related
+aspect	7054	17	23	Wecker	7054-aspect0	Neutral	Related
+subjective	7054	10	16	Bester	7054-subjective0	Positive	Related
+aspect	7055	6	11	weker	7055-aspect0	Unknown	Related
+subjective	7055	0	5	super	7055-subjective0	Positive	Related
+aspect	7056	58	63	Licht	7056-aspect0	Neutral	Related
+subjective	7056	30	49	bischen überttieben	7056-subjective2	Negative	Related
+subjective	7056	8	20	Richtig cool	7056-subjective1	Positive	Related
+subjective	7056	0	4	Cool	7056-subjective0	Positive	Related
+subjective	7057	356	364	5 Sterne	7057-subjective3	Positive	Related
+subjective	7057	303	318	kleines Problem	7057-subjective4	Negative	Related
+aspect	7057	256	264	Playlist	7057-aspect5	Neutral	Related
+aspect	7057	212	217	Titel	7057-aspect4	Neutral	Related
+aspect	7057	147	150	App	7057-aspect3	Neutral	Related
+subjective	7057	128	134	Leider	7057-subjective2	Negative	Related
+aspect	7057	100	105	Musik	7057-aspect2	Neutral	Related
+subjective	7057	93	99	schöne	7057-subjective1	Positive	Related
+subjective	7057	32	42	begeistert	7057-subjective0	Positive	Related
+aspect	7057	15	24	Playlists	7057-aspect1	Unknown	Related
+aspect	7057	0	10	Alarmdroid	7057-aspect0	Unknown	Related
+aspect	7058	11	14	APP	7058-aspect0	Unknown	Related
+subjective	7058	0	10	Echt Geile	7058-subjective0	Positive	Related
+subjective	7059	14	21	behoben	7059-subjective0	Positive	Related
+aspect	7059	0	13	Akku Probleme	7059-aspect0	Unknown	Related
+subjective	7060	39	57	Macht was Sie soll	7060-subjective2	Positive	Related
+subjective	7060	13	37	Kann ich jedem empfehlen	7060-subjective1	Positive	Related
+aspect	7060	6	9	App	7060-aspect0	Unknown	Related
+subjective	7060	0	5	Super	7060-subjective0	Neutral	Related
+subjective	7061	284	292	3 Sterne	7061-subjective5	Neutral	Related
+subjective	7061	256	259	Bug	7061-subjective4	Negative	Related
+subjective	7061	112	117	super	7061-subjective3	Positive	Related
+aspect	7061	85	107	Benutzerfreundlichkeit	7061-aspect3	Neutral	Related
+subjective	7061	68	71	top	7061-subjective2	Positive	Related
+aspect	7061	61	67	Design	7061-aspect2	Neutral	Related
+aspect	7061	52	55	App	7061-aspect1	Neutral	Related
+subjective	7061	37	51	sehr gelungene	7061-subjective1	Positive	Related
+aspect	7061	12	15	App	7061-aspect0	Neutral	Related
+subjective	7061	0	11	Sehr schöne	7061-subjective0	Positive	Related
+subjective	7062	46	57	läuft super	7062-subjective1	Positive	Related
+aspect	7062	21	45	Sync mit anderen Geräten	7062-aspect0	Neutral	Related
+subjective	7062	0	17	Macht was es soll	7062-subjective0	Positive	Related
+subjective	7063	0	14	Eimfach genial	7063-subjective0	Positive	Related
+subjective	7064	27	60	genauso , wie ich es erwartet habe	7064-subjective1	Positive	Related
+aspect	7064	14	26	Funktioniert	7064-aspect0	Neutral	Related
+subjective	7064	0	10	Begeistert	7064-subjective0	Positive	Related
+subjective	7065	145	164	vollstens zufrieden	7065-subjective1	Positive	Related
+aspect	7065	43	49	Wecker	7065-aspect1	Neutral	Related
+aspect	7065	11	17	Wecker	7065-aspect0	Neutral	Related
+subjective	7065	0	10	Sehr guter	7065-subjective0	Positive	Related
+subjective	7066	18	30	Hervorragend	7066-subjective0	Positive	Related
+subjective	7067	98	109	Einfach top	7067-subjective2	Positive	Related
+subjective	7067	85	96	noch besser	7067-subjective1	Positive	Related
+aspect	7067	70	76	Update	7067-aspect0	Neutral	Related
+aspect	7067	20	26	Wecker	7067-aspect1	Neutral	Related
+subjective	7067	0	3	Top	7067-subjective0	Positive	Related
+aspect	7068	134	140	Wecker	7068-aspect1	Neutral	Related
+subjective	7068	110	116	leider	7068-subjective1	Negative	Related
+aspect	7068	36	42	Wecker	7068-aspect0	Neutral	Related
+subjective	7068	8	13	Super	7068-subjective0	Positive	Related
+aspect	7069	19	22	App	7069-aspect0	Neutral	Related
+subjective	7069	11	18	Geniale	7069-subjective0	Positive	Related
+aspect	7070	23	29	wecker	7070-aspect1	Neutral	Related
+aspect	7070	12	18	wecker	7070-aspect0	Neutral	Related
+subjective	7070	7	11	naja	7070-subjective0	Neutral	Related
+subjective	7071	23	30	bestens	7071-subjective0	Positive	Related
+aspect	7071	10	22	Funktioniert	7071-aspect0	Neutral	Related
+subjective	7071	0	6	Genial	7071-subjective1	Positive	Related
+subjective	7072	73	86	Bitte beheben	7072-subjective0	Negative	Related
+aspect	7072	33	36	Ton	7072-aspect1	Neutral	Related
+subjective	7072	23	32	immer mit	7072-subjective1	Negative	Related
+aspect	7072	0	15	Ein / Ausschalten	7072-aspect0	Unknown	Related
+subjective	7073	356	367	zuverlässig	7073-subjective7	Positive	Related
+subjective	7073	345	351	besser	7073-subjective6	Positive	Related
+aspect	7073	325	331	Wecker	7073-aspect4	Neutral	Related
+subjective	7073	297	302	SUPER	7073-subjective5	Positive	Related
+subjective	7073	274	295	kann es nur empfehlen	7073-subjective4	Positive	Related
+aspect	7073	257	265	bedienen	7073-aspect2	Neutral	Related
+subjective	7073	246	253	einfach	7073-subjective3	Positive	Related
+aspect	7073	238	241	App	7073-aspect1	Neutral	Related
+subjective	7073	216	232	an alles gedacht	7073-subjective2	Positive	Related
+subjective	7073	123	143	schießt den Vogel ab	7073-subjective1	Positive	Related
+aspect	7073	98	104	Wecker	7073-aspect3	Neutral	Related
+aspect	7073	7	13	Wecker	7073-aspect0	Neutral	Related
+subjective	7073	0	6	Bester	7073-subjective0	Positive	Related
+aspect	7074	6	14	Programm	7074-aspect0	Unknown	Related
+subjective	7074	0	5	Super	7074-subjective0	Positive	Related
+subjective	7075	0	9	Entspannt	7075-subjective0	Positive	Related
+aspect	7076	29	46	SCHLUMMERFUNKTION	7076-aspect0	Unknown	Related
+aspect	7076	18	24	Wecker	7076-aspect1	Neutral	Related
+subjective	7076	6	13	Endlich	7076-subjective0	Positive	Related
+subjective	7077	7	12	läuft	7077-subjective0	Positive	Related
+aspect	7077	0	6	Update	7077-aspect0	Unknown	Related
+subjective	7078	0	5	Super	7078-subjective0	Positive	Related
+aspect	7079	25	31	Wecker	7079-aspect0	Neutral	Related
+subjective	7079	19	24	beste	7079-subjective2	Positive	Related
+subjective	7079	7	10	Top	7079-subjective1	Positive	Related
+subjective	7079	0	3	Top	7079-subjective0	Positive	Related
+subjective	7080	57	61	okay	7080-subjective1	Positive	Related
+aspect	7080	6	12	wecker	7080-aspect0	Neutral	Related
+subjective	7080	0	5	guter	7080-subjective0	Positive	Related
+aspect	7081	121	124	app	7081-aspect2	Unknown	Related
+subjective	7081	115	120	tolle	7081-subjective3	Positive	Related
+aspect	7081	61	89	eigene Lieder als Klingelton	7081-aspect1	Neutral	Related
+subjective	7081	40	46	schade	7081-subjective2	Negative	Related
+aspect	7081	18	21	App	7081-aspect0	Neutral	Related
+subjective	7081	8	17	Sehr gute	7081-subjective1	Positive	Related
+subjective	7081	0	4	Toll	7081-subjective0	Positive	Related
+subjective	7082	118	131	alles bestens	7082-subjective3	Positive	Related
+aspect	7082	88	105	Schlummerfunktion	7082-aspect2	Neutral	Related
+subjective	7082	77	83	leider	7082-subjective4	Negative	Related
+aspect	7082	43	50	Weckapp	7082-aspect1	Neutral	Related
+subjective	7082	37	42	tolle	7082-subjective1	Positive	Related
+subjective	7082	17	28	vielen Dank	7082-subjective2	Positive	Related
+aspect	7082	10	13	App	7082-aspect0	Neutral	Related
+subjective	7082	0	9	Sehr gute	7082-subjective0	Positive	Related
+subjective	7083	133	140	zu spät	7083-subjective3	Negative	Related
+aspect	7083	101	120	Uhr auf dem Display	7083-aspect2	Neutral	Related
+aspect	7083	77	83	Widget	7083-aspect1	Neutral	Related
+subjective	7083	68	76	Hübsches	7083-subjective2	Positive	Related
+aspect	7083	46	57	Standardapp	7083-aspect0	Neutral	Foreign
+subjective	7083	25	37	grade so gut	7083-subjective1	Neutral	Related
+subjective	7083	0	9	Ganz okey	7083-subjective0	Neutral	Related
+aspect	7084	9	15	Update	7084-aspect3	Unknown	Related
+subjective	7084	16	26	zum Kotzen	7084-subjective5	Negative	Related
+aspect	7084	34	40	Update	7084-aspect2	Neutral	Related
+subjective	7084	45	57	voll unnötig	7084-subjective4	Negative	Related
+aspect	7084	82	85	App	7084-aspect1	Neutral	Related
+subjective	7084	104	118	sehr zufrieden	7084-subjective3	Positive	Related
+subjective	7084	233	244	sehr schade	7084-subjective2	Negative	Related
+subjective	7084	365	374	ein Stern	7084-subjective1	Negative	Related
+aspect	7085	0	5	weker	7085-aspect1	Unknown	Related
+subjective	7085	35	46	kompleziert	7085-subjective1	Negative	Related
+subjective	7086	0	6	Bester	7086-subjective2	Positive	Related
+aspect	7086	7	13	Wecker	7086-aspect1	Neutral	Related
+subjective	7086	109	117	tadellos	7086-subjective1	Positive	Related
+subjective	7087	0	5	Viele	7087-subjective5	Positive	Related
+aspect	7087	6	14	Features	7087-aspect5	Neutral	Related
+subjective	7087	16	25	schlechte	7087-subjective4	Negative	Related
+aspect	7087	26	35	Anleitung	7087-aspect4	Neutral	Related
+aspect	7087	43	46	App	7087-aspect3	Neutral	Related
+subjective	7087	51	56	viele	7087-subjective3	Positive	Related
+aspect	7087	57	65	Features	7087-aspect2	Neutral	Related
+subjective	7087	89	97	schlecht	7087-subjective2	Negative	Related
+aspect	7087	200	208	Funktion	7087-aspect1	Neutral	Related
+subjective	7087	223	237	nicht gefunden	7087-subjective1	Negative	Related
+subjective	7088	0	3	Top	7088-subjective2	Positive	Related
+aspect	7088	7	19	Funktioniert	7088-aspect1	Neutral	Related
+subjective	7088	20	28	sehr gut	7088-subjective1	Positive	Related
+subjective	7089	0	5	Super	7089-subjective2	Positive	Related
+subjective	7089	43	60	immer verlässlich	7089-subjective1	Positive	Related
+aspect	7089	61	68	geweckt	7089-aspect1	Neutral	Related
+subjective	7090	0	5	super	7090-subjective7	Positive	Related
+aspect	7090	6	12	wecker	7090-aspect4	Neutral	Related
+aspect	7090	31	37	Wecker	7090-aspect3	Neutral	Related
+subjective	7090	73	90	nichts zu . meckern	7090-subjective6	Positive	Related
+subjective	7090	93	100	einfach	7090-subjective5	Positive	Related
+aspect	7090	104	112	bedienen	7090-aspect2	Neutral	Related
+subjective	7090	153	156	;-)	7090-subjective3	Positive	Related
+aspect	7090	171	219	direkte anwaehlen verschiedener inet radiosender	7090-aspect1	Neutral	Foreign
+subjective	7090	220	231	waere super	7090-subjective2	Negative	Related
+subjective	7090	295	298	top	7090-subjective1	Positive	Related
+subjective	7091	0	6	Bester	7091-subjective3	Positive	Related
+aspect	7091	7	13	Wecker	7091-aspect2	Neutral	Related
+subjective	7091	17	34	Macht was es soll	7091-subjective2	Positive	Related
+subjective	7091	43	48	viele	7091-subjective1	Positive	Related
+aspect	7091	49	65	Zusatzfunktionen	7091-aspect1	Neutral	Related
+subjective	7092	0	4	Gute	7092-subjective12	Positive	Related
+aspect	7092	5	15	Funktionen	7092-aspect12	Neutral	Related
+subjective	7092	17	24	leichte	7092-subjective11	Positive	Related
+aspect	7092	25	35	Handhabung	7092-aspect11	Neutral	Related
+aspect	7092	43	46	App	7092-aspect10	Neutral	Related
+subjective	7092	51	72	relativ übersichtlich	7092-subjective10	Positive	Related
+subjective	7092	92	103	zahlreichen	7092-subjective9	Positive	Related
+aspect	7092	104	114	Funktionen	7092-aspect9	Neutral	Related
+subjective	7092	120	137	gut untergebracht	7092-subjective8	Positive	Related
+subjective	7092	142	156	sehr hilfreich	7092-subjective7	Positive	Related
+subjective	7092	162	170	angenehm	7092-subjective6	Positive	Related
+aspect	7092	189	202	sanfte Wecken	7092-aspect8	Neutral	Related
+aspect	7092	240	254	Schlummertaste	7092-aspect7	Neutral	Related
+aspect	7092	301	307	Update	7092-aspect6	Neutral	Related
+subjective	7092	318	326	ganz gut	7092-subjective5	Positive	Related
+aspect	7092	341	353	Hintergründe	7092-aspect5	Neutral	Related
+subjective	7092	359	364	schön	7092-subjective4	Positive	Related
+aspect	7092	381	395	freie Farbwahl	7092-aspect4	Neutral	Foreign
+aspect	7092	404	434	Benachrichtigungs-Icon-Auswahl	7092-aspect3	Neutral	Foreign
+subjective	7092	435	440	fehlt	7092-subjective3	Negative	Related
+aspect	7092	461	467	Layout	7092-aspect2	Neutral	Related
+subjective	7092	468	477	praktisch	7092-subjective2	Positive	Related
+aspect	7092	486	489	App	7092-aspect1	Neutral	Related
+subjective	7092	509	526	weiterzuempfehlen	7092-subjective1	Positive	Related
+subjective	7093	0	9	Sehr gute	7093-subjective1	Positive	Related
+aspect	7093	10	13	App	7093-aspect1	Neutral	Related
+subjective	7094	0	13	Super einfach	7094-subjective3	Positive	Related
+aspect	7094	17	26	handhaben	7094-aspect2	Neutral	Related
+subjective	7094	30	35	viele	7094-subjective2	Positive	Related
+aspect	7094	36	57	Einstellmöglichkeiten	7094-aspect1	Neutral	Related
+subjective	7094	58	72	Empfehlenswert	7094-subjective1	Positive	Related
+subjective	7095	0	5	Guter	7095-subjective3	Positive	Related
+aspect	7095	6	12	Wecker	7095-aspect3	Neutral	Related
+aspect	7095	40	51	Vorweckzeit	7095-aspect2	Neutral	Related
+aspect	7095	60	85	Lautstärke des Vorweckers	7095-aspect1	Neutral	Related
+subjective	7095	86	98	nicht ändern	7095-subjective2	Negative	Related
+subjective	7095	133	153	Bitte implementieren	7095-subjective1	Negative	Related
+subjective	7096	9	20	Alles super	7096-subjective1	Positive	Related
+subjective	7096	0	5	Läuft	7096-subjective0	Positive	Related
+subjective	7097	151	162	wäre klasse	7097-subjective2	Negative	Related
+aspect	7097	74	99	Einstellungsmöglichkeiten	7097-aspect2	Neutral	Foreign
+subjective	7097	69	73	mehr	7097-subjective3	Negative	Related
+aspect	7097	55	58	App	7097-aspect1	Neutral	Related
+subjective	7097	45	54	gelungene	7097-subjective1	Positive	Related
+aspect	7097	11	22	Lichtwecker	7097-aspect0	Neutral	Related
+subjective	7097	0	10	Gelungener	7097-subjective0	Positive	Related
+subjective	7098	7	10	Top	7098-subjective1	Positive	Related
+subjective	7098	0	3	Top	7098-subjective0	Positive	Related
+aspect	7099	19	25	wecker	7099-aspect0	Unknown	Related
+subjective	7099	10	18	perfekte	7099-subjective1	Positive	Related
+subjective	7099	0	5	Super	7099-subjective0	Positive	Related
+subjective	7100	0	8	Sehr gut	7100-subjective0	Positive	Related
+aspect	7101	135	144	Aufwachen	7101-aspect2	Unknown	Related
+subjective	7101	119	134	Sehr angenehmes	7101-subjective3	Positive	Related
+subjective	7101	102	117	jeden cent wert	7101-subjective2	Positive	Related
+subjective	7101	21	31	extrem gut	7101-subjective1	Positive	Related
+aspect	7101	13	20	Support	7101-aspect1	Neutral	Related
+aspect	7101	8	11	App	7101-aspect0	Neutral	Related
+subjective	7101	0	7	Geniale	7101-subjective0	Positive	Related
+aspect	7102	139	145	Wecker	7102-aspect0	Neutral	Related
+subjective	7102	13	27	nicht schlecht	7102-subjective0	Positive	Related
+subjective	7103	23	28	Immer	7103-subjective1	Positive	Related
+aspect	7103	12	17	Weckt	7103-aspect0	Neutral	Related
+subjective	7103	0	8	Sehr gut	7103-subjective0	Positive	Related
+subjective	7104	15	25	begeistert	7104-subjective1	Positive	Related
+aspect	7104	6	9	App	7104-aspect0	Neutral	Related
+subjective	7104	0	5	Super	7104-subjective0	Positive	Related
+subjective	7105	55	75	tolles Zusatzangebot	7105-subjective1	Positive	Related
+aspect	7105	34	46	Wetteransage	7105-aspect1	Neutral	Related
+aspect	7105	15	18	App	7105-aspect0	Neutral	Related
+subjective	7105	9	14	Super	7105-subjective0	Positive	Related
+subjective	7106	17	28	echt klasse	7106-subjective1	Positive	Related
+subjective	7106	0	3	Gut	7106-subjective0	Positive	Related
+subjective	7107	44	46	:)	7107-subjective2	Positive	Related
+aspect	7107	37	43	Extras	7107-aspect0	Neutral	Related
+subjective	7107	30	36	netten	7107-subjective1	Positive	Related
+subjective	7107	7	25	Macht was sie soll	7107-subjective3	Positive	Related
+subjective	7107	0	3	Top	7107-subjective0	Positive	Related
+subjective	7108	73	83	Perfekt !!!	7108-subjective3	Positive	Related
+aspect	7108	58	71	einstellungen	7108-aspect1	Neutral	Related
+subjective	7108	43	57	Unendlich viel	7108-subjective2	Positive	Related
+subjective	7108	30	41	zuverlässig	7108-subjective1	Positive	Related
+aspect	7108	13	19	Läutet	7108-aspect0	Neutral	Related
+subjective	7108	0	12	Super Sache !	7108-subjective0	Positive	Related
+subjective	7109	109	119	macht Spaß	7109-subjective4	Positive	Related
+subjective	7109	89	104	viel angenehmer	7109-subjective3	Positive	Related
+aspect	7109	75	84	aufwachen	7109-aspect2	Neutral	Related
+aspect	7109	56	66	einstellen	7109-aspect1	Neutral	Related
+subjective	7109	45	55	sehr genau	7109-subjective2	Positive	Related
+subjective	7109	24	31	einfach	7109-subjective1	Positive	Related
+aspect	7109	7	13	Wecker	7109-aspect0	Neutral	Related
+subjective	7109	0	6	Cooler	7109-subjective0	Positive	Related
+subjective	7110	193	219	bitte aktualisieren / ändern	7110-subjective4	Negative	Related
+subjective	7110	179	189	nicht mehr	7110-subjective5	Negative	Related
+aspect	7110	162	178	wettererstellung	7110-aspect3	Neutral	Related
+aspect	7110	79	92	programmieren	7110-aspect2	Neutral	Related
+subjective	7110	69	75	leicht	7110-subjective3	Positive	Related
+subjective	7110	45	64	super übersichtlich	7110-subjective2	Positive	Related
+subjective	7110	37	43	genial	7110-subjective1	Positive	Related
+aspect	7110	29	32	App	7110-aspect1	Neutral	Related
+subjective	7110	7	25	funktioniert nicht	7110-subjective0	Negative	Related
+aspect	7110	0	6	Wetter	7110-aspect0	Unknown	Related
+aspect	7111	27	33	Wecker	7111-aspect0	Neutral	Related
+subjective	7111	4	26	nicht funktionierendem	7111-subjective0	Negative	Related
+subjective	7112	20	38	sehr zum empfehlen	7112-subjective2	Positive	Related
+aspect	7112	15	18	app	7112-aspect0	Neutral	Related
+subjective	7112	9	14	Super	7112-subjective1	Positive	Related
+subjective	7112	0	5	Super	7112-subjective0	Positive	Related
+subjective	7113	32	56	jedem wirklich empfehlen	7113-subjective2	Positive	Related
+aspect	7113	15	21	Wecker	7113-aspect0	Neutral	Related
+subjective	7113	9	14	Super	7113-subjective1	Positive	Related
+subjective	7113	0	5	Super	7113-subjective0	Positive	Related
+aspect	7114	43	55	Wetteransage	7114-aspect0	Neutral	Related
+aspect	7114	16	22	Wecker	7114-aspect1	Neutral	Related
+subjective	7114	10	15	Super	7114-subjective0	Positive	Related
+aspect	7114	0	6	Wecker	7114-aspect2	Unknown	Related
+subjective	7115	96	101	danke	7115-subjective5	Positive	Related
+subjective	7115	84	93	Weiter so	7115-subjective4	Positive	Related
+aspect	7115	78	82	Apps	7115-aspect2	Neutral	Related
+subjective	7115	71	77	besten	7115-subjective3	Positive	Related
+subjective	7115	51	57	spitze	7115-subjective2	Positive	Related
+aspect	7115	44	50	update	7115-aspect1	Neutral	Related
+subjective	7115	21	33	immer besser	7115-subjective1	Positive	Related
+aspect	7115	6	9	App	7115-aspect0	Neutral	Related
+subjective	7115	0	5	Super	7115-subjective0	Positive	Related
+subjective	7116	0	5	Super	7116-subjective0	Positive	Related
+aspect	7117	5	15	Funktionen	7117-aspect0	Neutral	Related
+subjective	7117	0	4	Alle	7117-subjective0	Positive	Related
+aspect	7118	176	212	Einstellungen der Benachrichtigungen	7118-aspect2	Unknown	Related
+subjective	7118	153	175	nicht funktionierenden	7118-subjective2	Negative	Related
+aspect	7118	99	138	Generalüberholung in Design und Technik	7118-aspect3	Neutral	Related
+subjective	7118	63	78	leider benötigt	7118-subjective3	Negative	Related
+subjective	7118	56	61	super	7118-subjective1	Positive	Related
+aspect	7118	36	39	App	7118-aspect1	Neutral	Related
+aspect	7118	25	28	5.1	7118-aspect0	Neutral	Related
+subjective	7118	0	18	Leider nicht schön	7118-subjective0	Negative	Related
+aspect	7119	6	12	Wecker	7119-aspect0	Neutral	Related
+subjective	7119	0	5	Beste	7119-subjective0	Positive	Related
+subjective	7120	0	8	sehr gut	7120-subjective0	Positive	Related
+subjective	7121	10	14	cool	7121-subjective2	Positive	Related
+subjective	7121	5	9	cool	7121-subjective1	Positive	Related
+subjective	7121	0	4	cool	7121-subjective0	Positive	Related
+subjective	7122	62	66	toll	7122-subjective0	Positive	Related
+aspect	7122	52	55	app	7122-aspect0	Unknown	Related
+subjective	7123	8	12	Geil	7123-subjective1	Positive	Related
+subjective	7123	0	4	Geil	7123-subjective0	Positive	Related
+subjective	7124	48	72	nicht einmal 1 * verdient	7124-subjective1	Negative	Related
+subjective	7124	0	9	Kacke - . -	7124-subjective0	Negative	Related
+subjective	7125	18	31	einfach super	7125-subjective1	Positive	Related
+aspect	7125	6	16	Funktionen	7125-aspect0	Neutral	Related
+subjective	7125	0	5	Viele	7125-subjective0	Positive	Related
+subjective	7126	52	63	zuverlässig	7126-subjective2	Positive	Related
+aspect	7126	46	51	Weckt	7126-aspect2	Neutral	Related
+subjective	7126	30	34	toll	7126-subjective1	Positive	Related
+aspect	7126	16	25	Statistik	7126-aspect1	Neutral	Related
+aspect	7126	6	9	app	7126-aspect0	Neutral	Related
+subjective	7126	0	5	Tolle	7126-subjective0	Positive	Related
+aspect	7127	6	9	app	7127-aspect0	Unknown	Related
+subjective	7127	0	5	Super	7127-subjective0	Positive	Related
+subjective	7128	102	119	Ist das Geld wert	7128-subjective4	Positive	Related
+aspect	7128	92	100	bedienen	7128-aspect2	Neutral	Related
+subjective	7128	81	88	einfach	7128-subjective3	Positive	Related
+aspect	7128	58	71	Möglichkeiten	7128-aspect1	Neutral	Related
+subjective	7128	52	57	Viele	7128-subjective2	Positive	Related
+subjective	7128	24	50	noch nie im Stich gelassen	7128-subjective1	Positive	Related
+aspect	7128	7	13	Wecker	7128-aspect0	Neutral	Related
+subjective	7128	0	6	Bester	7128-subjective0	Positive	Related
+subjective	7129	180	193	Bitte beheben	7129-subjective2	Negative	Related
+subjective	7129	42	47	nicht	7129-subjective1	Negative	Related
+aspect	7129	22	30	klingelt	7129-aspect0	Neutral	Related
+subjective	7129	0	8	Schlecht	7129-subjective0	Negative	Related
+subjective	7130	115	140	nie irgendwelche Probleme	7130-subjective4	Positive	Related
+aspect	7130	99	108	handhaben	7130-aspect2	Neutral	Related
+subjective	7130	88	95	einfach	7130-subjective3	Positive	Related
+subjective	7130	62	83	beliebig einzustellen	7130-subjective2	Positive	Related
+aspect	7130	54	61	Weckton	7130-aspect1	Neutral	Related
+subjective	7130	37	48	zuverlässig	7130-subjective1	Positive	Related
+aspect	7130	26	32	Wecker	7130-aspect0	Neutral	Related
+subjective	7130	0	18	Was will man mehr ?	7130-subjective0	Positive	Related
+subjective	7131	236	246	Nein danke	7131-subjective4	Negative	Related
+aspect	7131	183	190	Premium	7131-aspect3	Neutral	Related
+subjective	7131	138	161	viel weniger Funktionen	7131-subjective3	Negative	Related
+aspect	7131	115	129	Aktualisierung	7131-aspect2	Neutral	Related
+aspect	7131	74	99	Einstellungsmöglichkeiten	7131-aspect1	Neutral	Related
+subjective	7131	67	73	vielen	7131-subjective2	Positive	Related
+aspect	7131	42	48	Wecker	7131-aspect0	Neutral	Related
+subjective	7131	33	41	liebstes	7131-subjective1	Positive	Related
+subjective	7131	0	17	Achtung Downgrade	7131-subjective0	Negative	Related
+subjective	7132	9	18	I Love it	7132-subjective1	Positive	Related
+subjective	7132	0	5	Krass	7132-subjective0	Positive	Related
+subjective	7133	65	70	Super	7133-subjective4	Positive	Related
+subjective	7133	54	63	anpassbar	7133-subjective3	Positive	Related
+subjective	7133	36	49	übersichtlich	7133-subjective2	Positive	Related
+aspect	7133	28	34	Design	7133-aspect1	Neutral	Related
+subjective	7133	16	27	Sehr geiles	7133-subjective1	Positive	Related
+aspect	7133	6	9	App	7133-aspect0	Neutral	Related
+subjective	7133	0	5	Super	7133-subjective0	Positive	Related
+subjective	7134	74	84	einfach so	7134-subjective1	Negative	Related
+aspect	7134	54	62	klingelt	7134-aspect1	Neutral	Related
+aspect	7134	19	31	funktioniert	7134-aspect0	Neutral	Related
+subjective	7134	13	18	immer	7134-subjective0	Positive	Related
+subjective	7135	35	53	Sehr unzuverlässig	7135-subjective1	Negative	Related
+subjective	7135	9	31	manchmal einfach nicht	7135-subjective0	Negative	Related
+aspect	7135	0	8	Klingelt	7135-aspect0	Unknown	Related
+subjective	7136	107	109	OK	7136-subjective2	Positive	Related
+subjective	7136	27	32	nervt	7136-subjective1	Positive	Related
+aspect	7136	19	26	Werbung	7136-aspect0	Neutral	Related
+subjective	7136	0	5	Suppi	7136-subjective0	Positive	Related
+subjective	7137	26	29	;-)	7137-subjective1	Positive	Related
+subjective	7137	10	25	Einfach nur gut	7137-subjective0	Positive	Related
+subjective	7138	26	35	sehr toll	7138-subjective1	Positive	Related
+subjective	7138	0	9	Sehr toll	7138-subjective0	Positive	Related
+aspect	7139	340	377	Stunde nach 60 Minuten auch eine mehr	7139-aspect4	Neutral	Related
+subjective	7139	315	325	Cool währe	7139-subjective4	Negative	Related
+aspect	7139	219	229	Entwickler	7139-aspect3	Neutral	Related
+subjective	7139	200	211	Grosses Lob	7139-subjective3	Positive	Related
+subjective	7139	126	132	besser	7139-subjective2	Positive	Related
+aspect	7139	91	104	Anders Design	7139-aspect2	Neutral	Related
+subjective	7139	69	89	einfach zu überladen	7139-subjective1	Negative	Related
+aspect	7139	58	61	App	7139-aspect1	Neutral	Related
+aspect	7139	6	12	Wecker	7139-aspect0	Neutral	Related
+subjective	7139	0	5	Super	7139-subjective0	Positive	Related
+subjective	7140	0	8	Vol cool	7140-subjective0	Positive	Related
+subjective	7141	93	104	etwas buggy	7141-subjective2	Negative	Related
+aspect	7141	65	78	sprachausgabe	7141-aspect2	Neutral	Related
+subjective	7141	35	43	echt gut	7141-subjective1	Positive	Related
+aspect	7141	23	30	prinzip	7141-aspect1	Neutral	Related
+aspect	7141	6	12	wecker	7141-aspect0	Neutral	Related
+subjective	7141	0	5	guter	7141-subjective0	Positive	Related
+subjective	7142	41	65	nicht mehr zu gebrauchen	7142-subjective1	Negative	Related
+aspect	7142	34	40	Update	7142-aspect1	Neutral	Related
+subjective	7142	7	17	fehlerhaft	7142-subjective0	Negative	Related
+aspect	7142	0	6	Update	7142-aspect0	Unknown	Related
+aspect	7143	32	35	App	7143-aspect0	Unknown	Related
+subjective	7144	0	7	Perfekt	7144-subjective0	Positive	Related
+subjective	7145	47	50	gut	7145-subjective1	Positive	Related
+aspect	7145	37	43	Wecker	7145-aspect0	Neutral	Related
+subjective	7145	0	8	Sehr gut	7145-subjective0	Positive	Related
+subjective	7146	12	23	zuverlässig	7146-subjective1	Positive	Related
+aspect	7146	6	11	weckt	7146-aspect0	Neutral	Related
+subjective	7146	0	5	Super	7146-subjective0	Positive	Related
+aspect	7147	284	287	App	7147-aspect4	Unknown	Related
+subjective	7147	271	283	absolute Top	7147-subjective6	Positive	Related
+subjective	7147	209	225	bitte mal prüfen	7147-subjective5	Negative	Related
+subjective	7147	196	207	Sehr schade	7147-subjective4	Negative	Related
+subjective	7147	179	194	nicht gestartet	7147-subjective3	Negative	Related
+aspect	7147	168	173	Alarm	7147-aspect3	Neutral	Related
+subjective	7147	146	166	nicht mehr angezeigt	7147-subjective2	Negative	Related
+aspect	7147	87	99	Weckersymbol	7147-aspect2	Neutral	Related
+subjective	7147	67	85	nicht mehr richtig	7147-subjective1	Negative	Related
+aspect	7147	19	31	funktioniert	7147-aspect0	Neutral	Related
+aspect	7147	15	18	App	7147-aspect1	Unknown	Related
+subjective	7147	0	7	Problem	7147-subjective0	Negative	Related
+aspect	7149	40	43	app	7149-aspect1	Unknown	Related
+subjective	7149	36	39	top	7149-subjective2	Positive	Related
+subjective	7149	24	35	zuverlässig	7149-subjective1	Positive	Related
+subjective	7149	16	23	Einfach	7149-subjective3	Positive	Related
+aspect	7149	6	12	Wecker	7149-aspect0	Neutral	Related
+subjective	7149	0	5	Super	7149-subjective0	Positive	Related
+subjective	7150	21	23	:)	7150-subjective0	Positive	Related
+aspect	7150	14	20	wecker	7150-aspect0	Unknown	Related
+subjective	7151	57	59	xD	7151-subjective3	Positive	Related
+subjective	7151	26	56	verschlafen ist fast unmöglich	7151-subjective2	Positive	Related
+aspect	7151	19	25	wecker	7151-aspect1	Neutral	Related
+subjective	7151	12	18	Cooler	7151-subjective1	Positive	Related
+aspect	7151	5	8	app	7151-aspect0	Neutral	Related
+subjective	7151	0	4	Gute	7151-subjective0	Positive	Related
+aspect	7152	43	56	live stressig	7152-aspect1	Neutral	Related
+subjective	7152	37	42	sogar	7152-subjective1	Positive	Related
+aspect	7152	25	31	Wecker	7152-aspect0	Neutral	Related
+subjective	7152	0	5	Super	7152-subjective0	Positive	Related
+subjective	7153	8	22	Sehr praktisch	7153-subjective0	Positive	Related
+aspect	7154	70	80	Funktionen	7154-aspect1	Neutral	Related
+subjective	7154	56	69	vielen vielen	7154-subjective2	Positive	Related
+aspect	7154	36	46	Wecker App	7154-aspect0	Neutral	Related
+subjective	7154	30	35	super	7154-subjective1	Positive	Related
+subjective	7154	0	9	Exzellent	7154-subjective0	Positive	Related
+subjective	7155	76	82	Schade	7155-subjective3	Negative	Related
+subjective	7155	62	74	Totalausfall	7155-subjective2	Negative	Related
+subjective	7155	37	48	taugt nicht	7155-subjective1	Negative	Related
+aspect	7155	12	18	Wecker	7155-aspect0	Neutral	Related
+subjective	7155	0	4	Flop	7155-subjective0	Negative	Related
+aspect	7156	60	67	spotify	7156-aspect2	Unknown	Foreign
+aspect	7156	33	45	eigene musik	7156-aspect1	Neutral	Foreign
+subjective	7156	11	27	Bitte integriert	7156-subjective0	Negative	Related
+aspect	7156	0	7	Spotify	7156-aspect0	Unknown	Related
+subjective	7157	100	102	;)	7157-subjective2	Positive	Related
+aspect	7157	73	94	snooze modus abstelln	7157-aspect0	Neutral	Related
+subjective	7157	46	50	toll	7157-subjective1	Positive	Related
+subjective	7157	0	3	Top	7157-subjective0	Positive	Related
+subjective	7158	128	130	:)	7158-subjective3	Positive	Related
+subjective	7158	111	127	Nur zu empfehlen	7158-subjective2	Positive	Related
+aspect	7158	56	60	wach	7158-aspect1	Neutral	Related
+subjective	7158	44	55	immer super	7158-subjective4	Positive	Related
+aspect	7158	26	32	Wecker	7158-aspect0	Neutral	Related
+subjective	7158	13	18	liebe	7158-subjective1	Positive	Related
+subjective	7158	0	5	Super	7158-subjective0	Positive	Related
+subjective	7159	49	62	nur empfehlen	7159-subjective2	Positive	Related
+aspect	7159	33	39	wecker	7159-aspect0	Neutral	Related
+subjective	7159	21	32	echt toller	7159-subjective1	Positive	Related
+subjective	7159	0	9	Echt toll	7159-subjective0	Positive	Related

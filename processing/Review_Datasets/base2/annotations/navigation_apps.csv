@@ -1,0 +1,610 @@
+subjective	9000	0	13	S C H E I ß E	9000-subjective1	Negative	Related
+aspect	9001	0	4	Töne	9001-aspect2	Unknown	Related
+subjective	9001	27	32	keine	9001-subjective1	Negative	Related
+aspect	9001	33	45	Hinweis Töne	9001-aspect1	Neutral	Related
+subjective	9002	0	12	Ganz schwach	9002-subjective2	Negative	Related
+subjective	9002	16	33	Extrem schlechter	9002-subjective1	Negative	Related
+aspect	9002	34	41	Support	9002-aspect1	Neutral	Related
+subjective	9003	0	12	Totaler mist	9003-subjective3	Negative	Related
+aspect	9003	24	27	app	9003-aspect3	Neutral	Related
+subjective	9003	45	66	ständiger gps verlust	9003-subjective2	Negative	Related
+aspect	9003	144	166	geschwindigkeitsangabe	9003-aspect2	Neutral	Related
+aspect	9003	168	181	Routenplanung	9003-aspect1	Neutral	Related
+subjective	9003	192	207	nicht das wahre	9003-subjective1	Negative	Related
+subjective	9004	0	8	Probleme	9004-subjective3	Negative	Related
+aspect	9004	13	26	Adresseingabe	9004-aspect3	Neutral	Related
+aspect	9004	38	51	Adresseingabe	9004-aspect2	Neutral	Related
+subjective	9004	84	95	unbenutzbar	9004-subjective2	Negative	Related
+aspect	9004	112	115	App	9004-aspect1	Neutral	Related
+subjective	9004	116	119	gut	9004-subjective1	Positive	Related
+subjective	9005	0	6	Bestes	9005-subjective2	Positive	Related
+aspect	9005	7	11	navi	9005-aspect1	Neutral	Related
+subjective	9005	15	20	Super	9005-subjective1	Positive	Related
+subjective	9006	0	9	Perfekter	9006-subjective2	Positive	Related
+aspect	9006	10	20	Navigation	9006-aspect1	Neutral	Related
+subjective	9006	62	71	exzellent	9006-subjective1	Positive	Related
+subjective	9007	0	6	Sch ...	9007-subjective2	Negative	Related
+aspect	9007	21	39	routen importieren	9007-aspect1	Unknown	Related
+subjective	9008	0	9	Stürzt ab	9008-subjective3	Negative	Related
+subjective	9008	14	34	Leider schließt sich	9008-subjective2	Negative	Related
+aspect	9008	39	42	App	9008-aspect1	Neutral	Related
+subjective	9008	82	96	wenig nützlich	9008-subjective1	Negative	Related
+aspect	9009	0	10	Scout maps	9009-aspect2	Unknown	Related
+aspect	9009	14	26	Offline maps	9009-aspect1	Unknown	Related
+subjective	9009	32	46	wirklich super	9009-subjective1	Positive	Related
+subjective	9010	0	6	Scheiß	9010-subjective2	Positive	Related
+aspect	9010	7	10	App	9010-aspect1	Neutral	Related
+subjective	9011	0	7	Voll ok	9011-subjective1	Positive	Related
+aspect	9012	55	58	App	9012-aspect2	Neutral	Related
+subjective	9012	45	54	sehr gute	9012-subjective1	Positive	Related
+aspect	9012	25	35	OSM-Karten	9012-aspect1	Neutral	Related
+aspect	9012	10	20	Navigation	9012-aspect0	Neutral	Related
+subjective	9012	0	9	Sehr gute	9012-subjective0	Positive	Related
+aspect	9013	6	10	Navi	9013-aspect0	Unknown	Related
+subjective	9013	0	5	Super	9013-subjective0	Positive	Related
+subjective	9014	96	116	kleinere Problemchen	9014-subjective2	Negative	Related
+aspect	9014	56	72	Communitygedanke	9014-aspect2	Neutral	Related
+subjective	9014	26	31	super	9014-subjective1	Positive	Related
+aspect	9014	18	21	App	9014-aspect1	Neutral	Related
+aspect	9014	7	10	App	9014-aspect0	Neutral	Related
+subjective	9014	0	6	Klasse	9014-subjective0	Positive	Related
+aspect	9016	0	3	Top	9016-aspect0	Unknown	Related
+subjective	9017	44	58	voll zufrieden	9017-subjective2	Positive	Related
+aspect	9017	28	31	App	9017-aspect0	Neutral	Related
+subjective	9017	18	27	Sehr gute	9017-subjective1	Positive	Related
+subjective	9017	0	14	Einfach genial	9017-subjective0	Positive	Related
+aspect	9018	12	15	App	9018-aspect0	Neutral	Related
+subjective	9018	5	11	solide	9018-subjective1	Positive	Related
+subjective	9018	0	4	Gute	9018-subjective0	Positive	Related
+subjective	9019	155	182	helfen bei der Orientierung	9019-subjective4	Positive	Related
+subjective	9019	145	150	genau	9019-subjective3	Positive	Related
+aspect	9019	132	139	Ansagen	9019-aspect2	Neutral	Related
+aspect	9019	49	70	Einstellmöglichkeiten	9019-aspect1	Neutral	Related
+subjective	9019	43	48	viele	9019-subjective1	Positive	Related
+subjective	9019	20	28	Angenehm	9019-subjective2	Positive	Related
+aspect	9019	12	16	Navi	9019-aspect0	Neutral	Related
+subjective	9019	0	11	Praktisches	9019-subjective0	Positive	Related
+aspect	9020	326	339	Zusatzpaketen	9020-aspect3	Neutral	Related
+subjective	9020	284	300	Ärgert mich sehr	9020-subjective3	Negative	Related
+subjective	9020	208	240	nicht auf das Android übertragen	9020-subjective2	Negative	Related
+aspect	9020	173	185	Zusatzpakete	9020-aspect2	Neutral	Related
+aspect	9020	44	51	Navigon	9020-aspect1	Neutral	Related
+subjective	9020	19	39	vollkommen zufrieden	9020-subjective1	Positive	Related
+aspect	9020	6	9	App	9020-aspect0	Neutral	Related
+subjective	9020	0	5	Super	9020-subjective0	Positive	Related
+subjective	9021	11	41	könnte noch mit eingebaut sein	9021-subjective0	Negative	Related
+aspect	9021	0	10	Navigation	9021-aspect0	Unknown	Foreign
+subjective	9022	60	78	Bestes kostenloses	9022-subjective1	Positive	Related
+subjective	9022	0	16	Bestes Kostenlos	9022-subjective0	Positive	Related
+subjective	9023	117	128	Erstklassig	9023-subjective4	Positive	Related
+subjective	9023	91	115	Bin noch mehr begeistert	9023-subjective3	Positive	Related
+subjective	9023	56	70	So soll's sein	9023-subjective5	Positive	Related
+subjective	9023	43	54	erstklassig	9023-subjective2	Positive	Related
+aspect	9023	37	42	Läuft	9023-aspect0	Neutral	Related
+subjective	9023	14	35	Gefällt mit am besten	9023-subjective1	Positive	Related
+subjective	9023	0	6	Note 3	9023-subjective0	Neutral	Related
+subjective	9024	0	8	Zu große	9024-subjective2	Negative	Related
+aspect	9024	9	15	Karten	9024-aspect2	Neutral	Related
+subjective	9024	56	72	nur eine Riesige	9024-subjective1	Negative	Related
+aspect	9024	73	78	Karte	9024-aspect1	Neutral	Related
+subjective	9025	0	5	Keine	9025-subjective2	Negative	Related
+aspect	9025	6	16	Verbindung	9025-aspect2	Neutral	Related
+subjective	9025	75	80	keine	9025-subjective1	Negative	Related
+aspect	9025	81	102	Verbindung zum Server	9025-aspect1	Neutral	Related
+subjective	9026	0	3	Top	9026-subjective2	Positive	Related
+subjective	9026	7	10	Top	9026-subjective1	Positive	Related
+subjective	9027	0	4	Supi	9027-subjective2	Positive	Related
+subjective	9027	8	24	Ganz tolle Hilfe	9027-subjective1	Positive	Related
+aspect	9028	0	11	In app kauf	9028-aspect2	Unknown	Related
+subjective	9028	12	25	nicht möglich	9028-subjective3	Negative	Related
+aspect	9028	45	48	app	9028-aspect1	Neutral	Related
+subjective	9028	69	82	hochzufrieden	9028-subjective2	Positive	Related
+subjective	9028	274	276	:(	9028-subjective1	Negative	Related
+subjective	9029	0	3	TOP	9029-subjective4	Positive	Related
+aspect	9029	4	8	NAVI	9029-aspect3	Neutral	Related
+aspect	9029	12	17	läuft	9029-aspect2	Neutral	Related
+subjective	9029	39	50	einwandfrei	9029-subjective3	Positive	Related
+aspect	9029	108	112	navi	9029-aspect1	Neutral	Related
+subjective	9029	357	373	nur zu empfehlen	9029-subjective2	Positive	Related
+subjective	9029	377	386	weiter so	9029-subjective1	Positive	Related
+aspect	9030	15	25	Navigation	9030-aspect2	Unknown	Related
+subjective	9030	30	35	super	9030-subjective2	Positive	Related
+aspect	9030	46	51	Preis	9030-aspect1	Neutral	Related
+subjective	9030	56	72	deutlich zu hoch	9030-subjective1	Negative	Related
+subjective	9031	0	10	Sehr genau	9031-subjective2	Positive	Related
+subjective	9031	37	52	Bin überraschst	9031-subjective1	Positive	Related
+subjective	9032	0	5	Nette	9032-subjective3	Positive	Related
+subjective	9032	31	46	unübersichtlich	9032-subjective2	Negative	Related
+subjective	9032	61	81	viel zu spielerrisch	9032-subjective1	Negative	Related
+subjective	9033	9	14	super	9033-subjective1	Positive	Related
+subjective	9034	21	33	Immer wieder	9034-subjective1	Negative	Related
+aspect	9034	34	48	Aktualisierung	9034-aspect1	Unknown	Related
+subjective	9035	15	39	nichts besseres gefunden	9035-subjective2	Positive	Related
+subjective	9035	45	50	Super	9035-subjective1	Positive	Related
+aspect	9036	216	219	App	9036-aspect2	Neutral	Related
+aspect	9036	145	151	Karten	9036-aspect1	Neutral	Related
+subjective	9036	83	120	Seit gestern habe ich nur ein Problem	9036-subjective1	Negative	Related
+subjective	9036	27	39	total super !	9036-subjective0	Positive	Related
+aspect	9036	23	26	App	9036-aspect0	Unknown	Related
+aspect	9037	22	39	Kartendarstellung	9037-aspect0	Neutral	Related
+subjective	9037	7	21	übersichtliche	9037-subjective0	Positive	Related
+subjective	9037	0	6	Schöne	9037-subjective1	Positive	Related
+subjective	9038	4	16	klappt super	9038-subjective1	Positive	Related
+subjective	9038	0	3	Top	9038-subjective0	Positive	Related
+subjective	9039	7	10	Top	9039-subjective1	Positive	Related
+subjective	9039	0	3	Top	9039-subjective0	Positive	Related
+subjective	9040	12	39	Schließt sich immer bei mir	9040-subjective0	Negative	Related
+subjective	9041	196	205	Weiter so	9041-subjective6	Positive	Related
+subjective	9041	172	194	Dank an die Entwickler	9041-subjective5	Positive	Related
+subjective	9041	53	71	nicht zu überladen	9041-subjective4	Positive	Related
+subjective	9041	35	48	übersichtlich	9041-subjective3	Positive	Related
+subjective	9041	26	33	Schnell	9041-subjective2	Positive	Related
+aspect	9041	21	24	App	9041-aspect1	Neutral	Related
+subjective	9041	11	20	Sehr gute	9041-subjective1	Positive	Related
+aspect	9041	4	7	App	9041-aspect0	Neutral	Related
+subjective	9041	0	3	Top	9041-subjective0	Positive	Related
+aspect	9042	5	28	Einführung in Bedienung	9042-aspect0	Unknown	Related
+subjective	9042	0	4	Gute	9042-subjective0	Positive	Related
+subjective	9043	179	204	nicht mehr erkannt werden	9043-subjective5	Negative	Related
+aspect	9043	172	178	Karten	9043-aspect3	Neutral	Related
+subjective	9043	149	157	weg sind	9043-subjective4	Negative	Related
+aspect	9043	139	148	Favoriten	9043-aspect2	Neutral	Related
+subjective	9043	73	110	treten ab und zu seltsame Effekte auf	9043-subjective3	Negative	Related
+subjective	9043	45	60	an sich ist gut	9043-subjective2	Positive	Related
+aspect	9043	41	44	App	9043-aspect1	Neutral	Related
+subjective	9043	13	33	Stabilitätsproblemen	9043-subjective1	Negative	Related
+aspect	9043	5	8	App	9043-aspect0	Neutral	Related
+subjective	9043	0	4	Gute	9043-subjective0	Positive	Related
+aspect	9044	6	18	Navisoftware	9044-aspect0	Neutral	Related
+subjective	9044	0	5	Beste	9044-subjective0	Positive	Related
+subjective	9045	112	152	nur noch platz verschwendung im speicher	9045-subjective2	Negative	Related
+aspect	9045	104	107	App	9045-aspect1	Neutral	Related
+aspect	9045	45	48	app	9045-aspect0	Neutral	Related
+subjective	9045	35	40	hängt	9045-subjective1	Negative	Related
+subjective	9045	0	17	Nur noch abstürze	9045-subjective0	Negative	Related
+aspect	9046	11	15	NAVI	9046-aspect0	Unknown	Related
+subjective	9046	0	10	Sehr gutes	9046-subjective0	Positive	Related
+subjective	9047	157	182	Danke für eure Bemühungen	9047-subjective1	Positive	Related
+aspect	9047	44	57	funktionieren	9047-aspect0	Neutral	Related
+subjective	9047	23	43	Es scheint wieder zu	9047-subjective0	Positive	Related
+subjective	9048	0	6	Prima !	9048-subjective0	Positive	Related
+aspect	9049	251	259	Navi-App	9049-aspect1	Neutral	Related
+subjective	9049	150	165	Ist das ein Bug	9049-subjective1	Negative	Related
+aspect	9049	88	100	Route teilen	9049-aspect0	Neutral	Related
+subjective	9049	73	87	darf man keine	9049-subjective0	Negative	Related
+subjective	9050	154	166	schnell !!!!!	9050-subjective5	Positive	Related
+subjective	9050	142	149	klaglos	9050-subjective4	Positive	Related
+aspect	9050	133	138	läuft	9050-aspect1	Neutral	Related
+subjective	9050	120	126	Super !	9050-subjective3	Positive	Related
+subjective	9050	107	116	Stürzt ab	9050-subjective2	Negative	Related
+subjective	9050	81	103	Smartphone unbrauchbar	9050-subjective1	Negative	Related
+aspect	9050	51	57	Update	9050-aspect0	Neutral	Related
+subjective	9050	0	12	Wirklich gut	9050-subjective0	Positive	Related
+subjective	9051	234	249	ist eine Gefahr	9051-subjective3	Negative	Related
+aspect	9051	219	233	Blitzerwarnton	9051-aspect3	Neutral	Related
+aspect	9051	136	150	Glympse Symbol	9051-aspect2	Neutral	Related
+subjective	9051	126	131	stört	9051-subjective2	Negative	Related
+subjective	9051	91	115	halb abgeschnitten unten	9051-subjective1	Negative	Related
+aspect	9051	50	61	Statuszeile	9051-aspect1	Neutral	Related
+subjective	9051	13	26	abgeschnitten	9051-subjective0	Negative	Related
+aspect	9051	0	12	Statusleiste	9051-aspect0	Unknown	Related
+subjective	9052	243	256	Deinstalliert	9052-subjective4	Negative	Related
+subjective	9052	228	241	findet nichts	9052-subjective3	Negative	Related
+subjective	9052	214	224	bringt nix	9052-subjective2	Negative	Related
+aspect	9052	193	199	Karten	9052-aspect2	Neutral	Related
+aspect	9052	80	86	Karten	9052-aspect1	Neutral	Foreign
+subjective	9052	38	57	funktionieren nicht	9052-subjective1	Negative	Related
+aspect	9052	20	37	Kostenlose Karten	9052-aspect0	Neutral	Related
+subjective	9052	0	16	Von wegen gratis	9052-subjective0	Negative	Related
+aspect	9053	9	19	Karten-App	9053-aspect0	Neutral	Related
+subjective	9053	0	5	Beste	9053-subjective0	Positive	Related
+subjective	9054	17	30	ohne Probleme	9054-subjective1	Positive	Related
+aspect	9054	11	16	läuft	9054-aspect1	Neutral	Related
+aspect	9054	6	9	App	9054-aspect0	Neutral	Related
+subjective	9054	0	5	Tolle	9054-subjective0	Positive	Related
+subjective	9055	185	219	das kanst doch nicht wirklich sein	9055-subjective0	Negative	Related
+subjective	9056	8	35	einfach nicht zu gebrauchen	9056-subjective0	Negative	Related
+subjective	9057	0	8	Sehr gut	9057-subjective0	Positive	Related
+aspect	9058	6	9	App	9058-aspect0	Unknown	Related
+subjective	9058	0	5	Super	9058-subjective0	Positive	Related
+subjective	9059	0	4	Toll	9059-subjective0	Positive	Related
+subjective	9060	492	503	Sehr schade	9060-subjective4	Negative	Related
+aspect	9060	474	481	Navigon	9060-aspect3	Neutral	Related
+subjective	9060	459	469	keine Mail	9060-subjective5	Negative	Related
+subjective	9060	202	205	weg	9060-subjective2	Negative	Related
+aspect	9060	188	201	in App Käufer	9060-aspect1	Neutral	Related
+subjective	9060	82	98	Einzigstes Manko	9060-subjective1	Negative	Related
+subjective	9060	63	80	absolut zufrieden	9060-subjective0	Positive	Related
+aspect	9060	59	62	App	9060-aspect0	Neutral	Related
+subjective	9060	39	42	weg	9060-subjective3	Negative	Related
+aspect	9060	22	38	in Apples Käufer	9060-aspect2	Unknown	Related
+subjective	9061	41	52	einfach gut	9061-subjective3	Positive	Related
+subjective	9061	27	39	verständlich	9061-subjective2	Positive	Related
+subjective	9061	15	22	Einfach	9061-subjective1	Positive	Related
+subjective	9061	0	11	Super genau	9061-subjective0	Positive	Related
+subjective	9062	98	111	Bitte beheben	9062-subjective3	Negative	Related
+subjective	9062	86	96	nicht mehr	9062-subjective2	Negative	Related
+aspect	9062	79	85	Update	9062-aspect4	Neutral	Related
+aspect	9062	54	61	startet	9062-aspect3	Neutral	Related
+aspect	9062	49	53	Navi	9062-aspect2	Unknown	Related
+aspect	9062	42	45	app	9062-aspect1	Neutral	Related
+subjective	9062	36	41	Super	9062-subjective1	Positive	Related
+aspect	9062	6	13	Service	9062-aspect0	Neutral	Related
+subjective	9062	0	5	Super	9062-subjective0	Positive	Related
+subjective	9063	91	103	Weiter so !!!	9063-subjective3	Positive	Related
+subjective	9063	76	89	nur empfehlen	9063-subjective2	Positive	Related
+subjective	9063	57	65	sehr gut	9063-subjective1	Positive	Related
+aspect	9063	40	56	Entfernung in km	9063-aspect2	Neutral	Related
+aspect	9063	20	27	Führung	9063-aspect1	Neutral	Related
+subjective	9063	8	19	Sehr genaue	9063-subjective0	Positive	Related
+aspect	9063	0	4	Navi	9063-aspect0	Unknown	Related
+subjective	9064	164	175	fünf Sterne	9064-subjective3	Positive	Related
+subjective	9064	144	159	super zufrieden	9064-subjective2	Positive	Related
+subjective	9064	48	66	falsche Fahrzeiten	9064-subjective1	Negative	Related
+aspect	9064	34	40	update	9064-aspect1	Neutral	Related
+aspect	9064	8	17	Fahrdauer	9064-aspect0	Neutral	Related
+subjective	9064	0	7	Falsche	9064-subjective0	Negative	Related
+subjective	9065	15	18	:-)	9065-subjective1	Positive	Related
+subjective	9065	0	14	Nicht schleckt	9065-subjective0	Positive	Related
+subjective	9066	0	2	Ok	9066-subjective0	Positive	Related
+aspect	9067	192	231	zwischenpunkte in seine Route einplanen	9067-aspect3	Neutral	Foreign
+subjective	9067	163	182	wäre nicht schlecht	9067-subjective5	Negative	Related
+subjective	9067	130	149	etwas detaillierter	9067-subjective4	Negative	Related
+aspect	9067	114	121	Ansagen	9067-aspect2	Neutral	Foreign
+subjective	9067	71	80	" umsonst "	9067-subjective3	Positive	Related
+aspect	9067	53	56	app	9067-aspect1	Neutral	Related
+subjective	9067	48	52	gute	9067-subjective2	Positive	Related
+subjective	9067	9	32	mit kleinen Krankheiten	9067-subjective1	Negative	Related
+aspect	9067	5	8	App	9067-aspect0	Neutral	Related
+subjective	9067	0	4	Gute	9067-subjective0	Positive	Related
+aspect	9068	15	22	Offline	9068-aspect0	Neutral	Related
+subjective	9068	9	14	Beste	9068-subjective1	Positive	Related
+subjective	9068	0	5	Prima	9068-subjective0	Positive	Related
+subjective	9069	0	3	Gut	9069-subjective0	Positive	Related
+aspect	9070	34	42	Navi app	9070-aspect0	Neutral	Related
+subjective	9070	28	33	super	9070-subjective1	Positive	Related
+subjective	9070	14	22	Freeware	9070-subjective2	Positive	Related
+subjective	9070	0	6	Klasse	9070-subjective0	Positive	Related
+aspect	9071	11	19	probleme	9071-aspect0	Unknown	Related
+subjective	9071	6	10	ohne	9071-subjective1	Positive	Related
+subjective	9071	0	5	Super	9071-subjective0	Positive	Related
+subjective	9072	111	119	wünschen	9072-subjective3	Negative	Related
+aspect	9072	87	110	Anzeigen von GPX-Tracks	9072-aspect2	Neutral	Foreign
+aspect	9072	40	58	Offline-Karten App	9072-aspect1	Neutral	Related
+subjective	9072	30	39	hilfreich	9072-subjective1	Positive	Related
+subjective	9072	16	25	Sehr gute	9072-subjective2	Positive	Related
+aspect	9072	6	12	Karten	9072-aspect0	Neutral	Related
+subjective	9072	0	5	Super	9072-subjective0	Positive	Related
+subjective	9073	8	13	Super	9073-subjective0	Positive	Related
+aspect	9073	0	4	Navi	9073-aspect0	Unknown	Related
+subjective	9074	238	244	schade	9074-subjective5	Negative	Related
+subjective	9074	164	181	macht keinen Spaß	9074-subjective4	Negative	Related
+aspect	9074	125	137	Systemfehler	9074-aspect3	Neutral	Related
+aspect	9074	112	120	Abstürze	9074-aspect2	Neutral	Related
+subjective	9074	101	111	dominieren	9074-subjective3	Negative	Related
+aspect	9074	48	85	Mischung aus soz . Netzwerken und Navi	9074-aspect1	Neutral	Related
+subjective	9074	38	43	liebe	9074-subjective2	Positive	Related
+aspect	9074	25	32	Konzept	9074-aspect0	Neutral	Related
+subjective	9074	19	24	Super	9074-subjective1	Positive	Related
+subjective	9074	0	6	Schade	9074-subjective0	Negative	Related
+aspect	9075	15	21	google	9075-aspect0	Unknown	Related
+subjective	9075	9	14	Danke	9075-subjective1	Positive	Related
+subjective	9075	0	5	Super	9075-subjective0	Positive	Related
+aspect	9076	17	20	App	9076-aspect1	Neutral	Related
+subjective	9076	11	16	Prima	9076-subjective0	Positive	Related
+aspect	9076	0	7	Navfree	9076-aspect0	Unknown	Related
+subjective	9077	0	7	Geht so	9077-subjective0	Neutral	Related
+subjective	9078	168	181	Bitte updaten	9078-subjective2	Negative	Related
+subjective	9078	161	166	super	9078-subjective1	Positive	Related
+aspect	9078	140	152	funktioniert	9078-aspect1	Neutral	Related
+subjective	9078	111	125	nur Buchstaben	9078-subjective3	Negative	Related
+aspect	9078	92	110	Hausnummernabfrage	9078-aspect3	Neutral	Related
+aspect	9078	42	53	Hausnummern	9078-aspect2	Neutral	Related
+aspect	9078	17	20	App	9078-aspect0	Neutral	Related
+subjective	9078	11	16	super	9078-subjective0	Positive	Related
+subjective	9079	290	312	leider ziemlicher Mist	9079-subjective7	Negative	Related
+subjective	9079	266	279	schwer lesbar	9079-subjective6	Negative	Related
+aspect	9079	251	260	Schriften	9079-aspect5	Neutral	Related
+aspect	9079	226	234	Kontakte	9079-aspect4	Neutral	Related
+subjective	9079	200	216	dauert sehr lang	9079-subjective5	Negative	Related
+aspect	9079	186	195	Bedienung	9079-aspect3	Neutral	Related
+subjective	9079	169	185	unübersichtliche	9079-subjective4	Negative	Related
+subjective	9079	147	164	völlig unlogische	9079-subjective3	Negative	Related
+aspect	9079	118	124	Update	9079-aspect2	Neutral	Related
+subjective	9079	107	113	leider	9079-subjective2	Negative	Related
+subjective	9079	75	91	gut funktioniert	9079-subjective1	Positive	Related
+aspect	9079	46	57	Vollversion	9079-aspect1	Neutral	Related
+aspect	9079	29	35	Update	9079-aspect0	Neutral	Related
+subjective	9079	17	28	unmögliches	9079-subjective0	Negative	Related
+subjective	9080	22	34	rundes Paket	9080-subjective1	Positive	Related
+subjective	9080	0	14	Sehr zufrieden	9080-subjective0	Positive	Related
+subjective	9081	0	8	Sehr gut	9081-subjective0	Positive	Related
+subjective	9082	7	12	Super	9082-subjective1	Positive	Related
+subjective	9082	0	3	Top	9082-subjective0	Positive	Related
+subjective	9083	46	68	nicht mehr auf deutsch	9083-subjective3	Negative	Related
+aspect	9083	41	45	Text	9083-aspect1	Neutral	Related
+aspect	9083	27	31	Navi	9083-aspect0	Neutral	Related
+subjective	9083	19	26	offline	9083-subjective2	Positive	Related
+subjective	9083	7	18	kostenloses	9083-subjective1	Positive	Related
+subjective	9083	0	6	Spitze	9083-subjective0	Positive	Related
+subjective	9084	0	5	Super	9084-subjective1	Positive	Related
+subjective	9085	0	3	Top	9085-subjective3	Positive	Related
+subjective	9085	7	19	Supper sache	9085-subjective2	Positive	Related
+aspect	9085	20	32	funktioniert	9085-aspect1	Neutral	Related
+subjective	9085	33	36	gut	9085-subjective1	Positive	Related
+aspect	9086	0	4	Waze	9086-aspect1	Unknown	Related
+subjective	9086	8	19	Gefällt mir	9086-subjective1	Positive	Related
+aspect	9087	0	5	Läuft	9087-aspect2	Unknown	Related
+subjective	9087	6	18	hervorragend	9087-subjective2	Positive	Related
+aspect	9087	20	45	Preis / Leistungsverhältnis	9087-aspect1	Neutral	Related
+subjective	9087	46	49	top	9087-subjective1	Positive	Related
+subjective	9088	0	5	Super	9088-subjective2	Positive	Related
+aspect	9088	17	22	Preis	9088-aspect2	Neutral	Related
+aspect	9088	31	34	app	9088-aspect1	Neutral	Related
+subjective	9088	35	46	unschlagbar	9088-subjective1	Positive	Related
+subjective	9089	78	92	nicht so dolle	9089-subjective3	Negative	Related
+aspect	9089	127	141	HUD-Navigation	9089-aspect2	Neutral	Foreign
+subjective	9089	157	170	oft hilfreich	9089-subjective2	Positive	Related
+subjective	9089	172	183	Nicht viele	9089-subjective1	Negative	Related
+aspect	9089	184	207	Straßen mit Hausnummern	9089-aspect1	Neutral	Related
+subjective	9090	0	5	super	9090-subjective1	Positive	Related
+subjective	9091	0	9	Alles gut	9091-subjective2	Positive	Related
+subjective	9091	14	23	Alles gut	9091-subjective1	Positive	Related
+subjective	9092	0	6	Spitze	9092-subjective3	Positive	Related
+aspect	9092	14	17	App	9092-aspect2	Neutral	Related
+subjective	9092	22	28	spitze	9092-subjective2	Positive	Related
+subjective	9092	30	35	Super	9092-subjective1	Positive	Related
+aspect	9092	53	73	eigene Fahrzeugarten	9092-aspect1	Neutral	Related
+subjective	9093	0	3	Top	9093-subjective1	Positive	Related
+subjective	9094	0	5	Tolle	9094-subjective1	Positive	Related
+aspect	9094	6	9	App	9094-aspect1	Unknown	Related
+subjective	9095	0	4	Gute	9095-subjective3	Positive	Related
+aspect	9095	5	13	Navi app	9095-aspect3	Neutral	Related
+aspect	9095	43	46	App	9095-aspect2	Neutral	Related
+subjective	9095	51	59	gelungen	9095-subjective2	Positive	Related
+aspect	9095	64	76	funktioniert	9095-aspect1	Neutral	Related
+subjective	9095	87	90	gut	9095-subjective1	Positive	Related
+aspect	9097	28	32	Navi	9097-aspect1	Neutral	Related
+subjective	9097	21	27	tolles	9097-subjective1	Positive	Related
+aspect	9097	6	9	App	9097-aspect0	Neutral	Related
+subjective	9097	0	5	Super	9097-subjective0	Positive	Related
+subjective	9098	53	60	Perfekt	9098-subjective2	Positive	Related
+aspect	9098	39	52	Möglichkeiten	9098-aspect2	Neutral	Related
+subjective	9098	33	38	viele	9098-subjective3	Positive	Related
+subjective	9098	27	32	super	9098-subjective1	Positive	Related
+aspect	9098	14	26	Funktioniert	9098-aspect1	Neutral	Related
+aspect	9098	6	10	Nawi	9098-aspect0	Neutral	Related
+subjective	9098	0	5	Super	9098-subjective0	Positive	Related
+subjective	9099	0	5	Super	9099-subjective0	Positive	Related
+subjective	9100	130	148	verbesserungsfähig	9100-subjective3	Negative	Related
+aspect	9100	120	125	Suche	9100-aspect2	Neutral	Related
+aspect	9100	62	66	Ziel	9100-aspect1	Neutral	Related
+subjective	9100	45	53	sehr gut	9100-subjective2	Positive	Related
+aspect	9100	30	40	Navigation	9100-aspect0	Neutral	Related
+subjective	9100	8	21	übersichtlich	9100-subjective1	Positive	Related
+subjective	9100	0	3	Gut	9100-subjective0	Positive	Related
+subjective	9101	18	21	:-/	9101-subjective1	Negative	Related
+subjective	9101	4	17	startet nicht	9101-subjective0	Negative	Related
+aspect	9101	0	3	App	9101-aspect0	Unknown	Related
+subjective	9102	21	30	hilfreich	9102-subjective2	Positive	Related
+subjective	9102	12	20	Sehr gut	9102-subjective1	Positive	Related
+subjective	9102	0	8	Sehr gut	9102-subjective0	Positive	Related
+aspect	9103	24	30	Update	9103-aspect0	Neutral	Related
+subjective	9103	8	11	gut	9103-subjective0	Positive	Related
+subjective	9104	52	73	Geht immer noch nicht	9104-subjective1	Negative	Related
+subjective	9104	13	22	gar nicht	9104-subjective0	Negative	Related
+aspect	9104	0	7	Startet	9104-aspect0	Unknown	Related
+subjective	9105	22	31	Excellent	9105-subjective0	Positive	Related
+subjective	9106	0	7	Schrott	9106-subjective0	Negative	Related
+subjective	9107	13	22	Praktisch	9107-subjective1	Positive	Related
+subjective	9107	0	9	Praktisch	9107-subjective0	Positive	Related
+subjective	9108	0	8	Top-Navi	9108-subjective0	Positive	Related
+subjective	9109	0	13	Super einfach	9109-subjective0	Positive	Related
+subjective	9110	35	45	nicht mehr	9110-subjective0	Negative	Related
+aspect	9110	18	24	update	9110-aspect1	Unknown	Related
+aspect	9110	0	12	Funktioniert	9110-aspect0	Unknown	Related
+subjective	9111	27	41	keine Probleme	9111-subjective2	Positive	Related
+subjective	9111	18	26	Sehr gut	9111-subjective1	Positive	Related
+subjective	9111	0	14	Voll zufrieden	9111-subjective0	Positive	Related
+aspect	9112	288	292	navi	9112-aspect2	Neutral	Related
+subjective	9112	208	219	umständlich	9112-subjective1	Negative	Related
+subjective	9112	119	139	nicht mehr enthalten	9112-subjective2	Negative	Related
+aspect	9112	111	118	Version	9112-aspect1	Neutral	Related
+aspect	9112	48	58	funktionen	9112-aspect3	Neutral	Related
+subjective	9112	23	34	unbrauchbar	9112-subjective0	Negative	Related
+aspect	9112	15	22	Version	9112-aspect0	Unknown	Related
+aspect	9113	461	489	Routenoption " kurvige Route "	9113-aspect4	Neutral	Foreign
+subjective	9113	404	418	fehlt nur noch	9113-subjective6	Negative	Related
+subjective	9113	393	396	gut	9113-subjective4	Positive	Related
+aspect	9113	374	383	Bedienung	9113-aspect3	Neutral	Related
+aspect	9113	360	365	Optik	9113-aspect2	Neutral	Related
+subjective	9113	335	349	sehr zufrieden	9113-subjective3	Positive	Related
+subjective	9113	286	303	läuft jetzt alles	9113-subjective2	Positive	Related
+aspect	9113	240	243	App	9113-aspect1	Neutral	Related
+subjective	9113	183	212	leider ein großer Rückschritt	9113-subjective1	Negative	Related
+subjective	9113	156	172	nicht auswählbar	9113-subjective5	Negative	Related
+aspect	9113	83	96	Zwischenziele	9113-aspect5	Neutral	Related
+aspect	9113	32	38	Update	9113-aspect0	Neutral	Related
+subjective	9113	13	16	TOP	9113-subjective0	Positive	Related
+aspect	9114	172	175	App	9114-aspect1	Neutral	Related
+subjective	9114	147	157	Nie wieder	9114-subjective1	Negative	Related
+subjective	9114	34	54	dauerhaft angehalten	9114-subjective2	Negative	Related
+aspect	9114	25	28	App	9114-aspect0	Neutral	Related
+subjective	9114	0	18	Funktioniert nicht	9114-subjective0	Negative	Related
+subjective	9115	82	97	duetlich besser	9115-subjective0	Positive	Related
+aspect	9115	62	72	Map Factor	9115-aspect1	Neutral	Foreign
+subjective	9115	21	23	ok	9115-subjective1	Neutral	Related
+aspect	9115	4	20	Karten anschauen	9115-aspect0	Unknown	Related
+subjective	9117	142	150	Desaster	9117-subjective1	Negative	Related
+aspect	9117	128	137	Anwendung	9117-aspect2	Neutral	Related
+subjective	9117	91	101	nicht mehr	9117-subjective2	Negative	Related
+aspect	9117	74	90	Huawei ascend p6	9117-aspect1	Neutral	Related
+aspect	9117	27	34	Startet	9117-aspect3	Neutral	Related
+aspect	9117	17	23	Update	9117-aspect0	Neutral	Related
+subjective	9117	0	11	Katastrophe	9117-subjective0	Negative	Related
+subjective	9118	117	128	nicht nötig	9118-subjective2	Negative	Related
+aspect	9118	103	109	Umwege	9118-aspect1	Neutral	Related
+subjective	9118	67	77	sehr genau	9118-subjective1	Positive	Related
+subjective	9118	18	23	super	9118-subjective0	Positive	Related
+aspect	9118	14	17	App	9118-aspect0	Unknown	Related
+aspect	9119	44	51	Absturz	9119-aspect2	Neutral	Related
+subjective	9119	34	43	andauernd	9119-subjective1	Negative	Related
+aspect	9119	26	32	Karten	9119-aspect1	Neutral	Related
+subjective	9119	20	25	Keine	9119-subjective2	Negative	Related
+subjective	9119	7	16	notwendig	9119-subjective0	Positive	Related
+aspect	9119	0	6	Update	9119-aspect0	Unknown	Related
+aspect	9120	90	102	Navisoftware	9120-aspect0	Neutral	Related
+subjective	9120	85	89	gute	9120-subjective0	Positive	Related
+subjective	9120	71	74	:- D	9120-subjective1	Positive	Related
+aspect	9120	13	23	Shopsymbol	9120-aspect1	Unknown	Related
+subjective	9121	16	22	so gut	9121-subjective1	Positive	Related
+subjective	9121	0	4	Cool	9121-subjective0	Positive	Related
+subjective	9122	75	104	könnte noch verbessert werden	9122-subjective3	Negative	Related
+aspect	9122	59	74	Streckenführung	9122-aspect1	Neutral	Related
+aspect	9122	44	53	Kartenapp	9122-aspect0	Neutral	Related
+subjective	9122	28	43	sehr hilfreiche	9122-subjective2	Positive	Related
+subjective	9122	13	21	Kompakte	9122-subjective1	Positive	Related
+subjective	9122	0	8	Sehr gut	9122-subjective0	Positive	Related
+aspect	9123	323	326	app	9123-aspect3	Neutral	Related
+subjective	9123	241	265	wirklich sehr enttäuscht	9123-subjective5	Negative	Related
+subjective	9123	188	195	ÜBERALL	9123-subjective4	Negative	Related
+subjective	9123	178	183	IMMER	9123-subjective3	Negative	Related
+aspect	9123	143	162	" verbindungsfehler "	9123-aspect2	Neutral	Related
+subjective	9123	71	76	nicht	9123-subjective2	Negative	Related
+aspect	9123	65	70	läuft	9123-aspect0	Neutral	Related
+aspect	9123	61	64	app	9123-aspect1	Unknown	Related
+subjective	9123	43	50	nutzlos	9123-subjective0	Negative	Related
+subjective	9123	0	26	War mal meine Lieblingsapp	9123-subjective1	Negative	Related
+subjective	9124	0	5	Super	9124-subjective0	Positive	Related
+subjective	9125	0	8	Sehr gut	9125-subjective0	Positive	Related
+subjective	9126	26	33	für lau	9126-subjective2	Positive	Related
+aspect	9126	20	25	Lotse	9126-aspect0	Neutral	Related
+subjective	9126	9	19	sehr guter	9126-subjective1	Positive	Related
+subjective	9126	0	5	passt	9126-subjective0	Positive	Related
+aspect	9128	27	48	Verkehrsinformationen	9128-aspect0	Neutral	Related
+subjective	9128	21	26	teure	9128-subjective1	Negative	Related
+subjective	9128	0	5	Prima	9128-subjective0	Positive	Related
+subjective	9129	48	65	recht zuverlässig	9129-subjective1	Negative	Related
+aspect	9129	28	40	funktioniert	9129-aspect1	Neutral	Related
+aspect	9129	23	27	Navi	9129-aspect0	Unknown	Related
+subjective	9129	0	19	Deutlich verbessert	9129-subjective0	Positive	Related
+subjective	9130	72	87	geht das nicht ?	9130-subjective2	Negative	Related
+aspect	9130	46	66	Koordinaten eingeben	9130-aspect0	Neutral	Related
+subjective	9130	11	28	macht was es soll	9130-subjective1	Positive	Related
+subjective	9130	0	4	Okay	9130-subjective0	Positive	Related
+aspect	9131	64	76	neue Version	9131-aspect0	Unknown	Related
+aspect	9131	4	10	Update	9131-aspect1	Unknown	Related
+subjective	9132	26	40	immer geklappt	9132-subjective1	Positive	Related
+subjective	9132	0	8	Sehr gut	9132-subjective0	Positive	Related
+subjective	9133	109	124	nicht updatebar	9133-subjective2	Negative	Related
+subjective	9133	19	33	Nicht updatbar	9133-subjective1	Negative	Related
+subjective	9133	0	15	Nicht updatebar	9133-subjective0	Negative	Related
+subjective	9134	14	17	Gut	9134-subjective0	Positive	Related
+aspect	9134	0	10	Navigation	9134-aspect0	Unknown	Related
+subjective	9135	38	56	ein MUSS für jeden	9135-subjective2	Positive	Related
+subjective	9135	21	30	Weiter so	9135-subjective1	Positive	Related
+subjective	9135	0	17	Super Hammer Geil	9135-subjective0	Positive	Related
+aspect	9136	125	157	Menueführung für die Einstellung	9136-aspect3	Neutral	Related
+subjective	9136	85	97	Leider fehlt	9136-subjective1	Negative	Related
+aspect	9136	76	84	NaviApps	9136-aspect2	Neutral	Related
+subjective	9136	34	48	gute Ergänzung	9136-subjective0	Positive	Related
+aspect	9136	15	21	Karten	9136-aspect1	Unknown	Related
+aspect	9136	0	10	Navigation	9136-aspect0	Unknown	Related
+subjective	9137	20	39	muss man gut finden	9137-subjective0	Positive	Related
+aspect	9137	7	19	Alternativen	9137-aspect0	Unknown	Related
+subjective	9138	153	162	Unsinnnnn	9138-subjective2	Negative	Related
+aspect	9138	78	83	Route	9138-aspect1	Neutral	Related
+subjective	9138	37	50	sieht gut aus	9138-subjective1	Positive	Related
+aspect	9138	28	36	Programm	9138-aspect0	Neutral	Related
+subjective	9138	0	20	Mehr Schein als Sein	9138-subjective0	Negative	Related
+aspect	9139	140	153	Zwischenziele	9139-aspect3	Neutral	Related
+subjective	9139	127	139	leider keine	9139-subjective3	Negative	Related
+aspect	9139	88	93	Route	9139-aspect2	Neutral	Related
+subjective	9139	48	61	ohne Probleme	9139-subjective2	Positive	Related
+aspect	9139	25	34	Bedienung	9139-aspect1	Neutral	Related
+aspect	9139	13	23	App Design	9139-aspect0	Neutral	Related
+subjective	9139	7	12	Gutes	9139-subjective1	Positive	Related
+subjective	9139	0	3	Gut	9139-subjective0	Positive	Related
+aspect	9140	265	271	zoomen	9140-aspect2	Neutral	Foreign
+subjective	9140	222	243	ein wenig praktischer	9140-subjective7	Negative	Related
+aspect	9140	189	213	Bedienung im kartenmodus	9140-aspect1	Neutral	Related
+subjective	9140	175	180	Manko	9140-subjective6	Negative	Related
+subjective	9140	160	162	:)	9140-subjective5	Neutral	Related
+subjective	9140	150	158	5 . Stern	9140-subjective4	Positive	Related
+aspect	9140	58	78	karte von der Türkei	9140-aspect0	Neutral	Related
+subjective	9140	52	57	keine	9140-subjective3	Negative	Related
+subjective	9140	35	45	Nur schade	9140-subjective2	Negative	Related
+subjective	9140	23	33	Echt super	9140-subjective1	Neutral	Related
+subjective	9140	0	18	Einfach nur genial	9140-subjective0	Positive	Related
+aspect	9141	34	47	offline Modus	9141-aspect1	Unknown	Related
+subjective	9141	27	29	+ 1	9141-subjective1	Positive	Related
+aspect	9141	7	22	Open Street map	9141-aspect0	Neutral	Related
+subjective	9141	0	2	+ 1	9141-subjective0	Positive	Related
+subjective	9142	0	5	Super	9142-subjective0	Positive	Related
+subjective	9143	76	96	muss doch nicht sein	9143-subjective2	Negative	Related
+aspect	9143	58	75	Unterwegs Updaten	9143-aspect3	Neutral	Related
+aspect	9143	51	57	Update	9143-aspect2	Neutral	Related
+aspect	9143	30	40	Navigation	9143-aspect1	Neutral	Related
+subjective	9143	24	29	Beste	9143-subjective1	Positive	Related
+aspect	9143	6	17	Navigation-	9143-aspect0	Neutral	Related
+subjective	9143	0	5	Beste	9143-subjective0	Positive	Related
+aspect	9144	194	197	App	9144-aspect3	Neutral	Related
+subjective	9144	156	179	mit ins Programm nehmen	9144-subjective4	Negative	Related
+aspect	9144	126	143	Breite Höhe Länge	9144-aspect4	Neutral	Foreign
+aspect	9144	93	112	Funktionen für Lkws	9144-aspect2	Neutral	Related
+subjective	9144	67	76	ignoriert	9144-subjective3	Negative	Related
+subjective	9144	47	61	vernachlässigt	9144-subjective2	Negative	Related
+subjective	9144	35	41	spitze	9144-subjective1	Positive	Related
+aspect	9144	27	30	App	9144-aspect1	Neutral	Related
+subjective	9144	13	18	fehlt	9144-subjective0	Negative	Related
+aspect	9144	0	12	Lkw Funktion	9144-aspect0	Unknown	Related
+aspect	9145	30	50	Offline Navisoftware	9145-aspect0	Neutral	Related
+subjective	9145	24	29	beste	9145-subjective0	Positive	Related
+aspect	9146	361	374	Kundenservice	9146-aspect3	Neutral	Related
+subjective	9146	350	360	Schlechter	9146-subjective2	Negative	Related
+subjective	9146	259	276	keine Rückmeldung	9146-subjective1	Negative	Related
+aspect	9146	194	208	Kunden service	9146-aspect2	Neutral	Related
+aspect	9146	45	58	spravhansagen	9146-aspect1	Neutral	Related
+aspect	9146	5	8	App	9146-aspect0	Neutral	Related
+subjective	9146	0	4	Gute	9146-subjective0	Positive	Related
+subjective	9147	130	144	nicht an Board	9147-subjective3	Negative	Related
+aspect	9147	97	115	Luftlinien Messung	9147-aspect2	Neutral	Related
+aspect	9147	68	76	bedienen	9147-aspect1	Neutral	Related
+subjective	9147	54	64	intuitiver	9147-subjective2	Positive	Related
+subjective	9147	40	49	einfacher	9147-subjective1	Positive	Related
+subjective	9147	7	11	Naja	9147-subjective0	Neutral	Related
+aspect	9147	0	6	Design	9147-aspect0	Unknown	Related
+aspect	9148	112	138	Software-Verbindung zum PC	9148-aspect2	Neutral	Related
+subjective	9148	99	111	Umständliche	9148-subjective2	Negative	Related
+aspect	9148	63	97	festinstallierte Navigationsgeräte	9148-aspect1	Neutral	Foreign
+subjective	9148	52	58	besser	9148-subjective1	Positive	Related
+subjective	9148	38	46	sehr gut	9148-subjective0	Positive	Related
+aspect	9148	25	37	Funktioniert	9148-aspect0	Unknown	Related
+subjective	9149	26	39	immer aktuell	9149-subjective2	Positive	Related
+subjective	9149	20	25	Super	9149-subjective1	Positive	Related
+aspect	9149	9	16	gemacht	9149-aspect0	Neutral	Related
+subjective	9149	0	8	Echt gut	9149-subjective0	Positive	Related
+subjective	9150	82	95	nicht absolut	9150-subjective3	Negative	Related
+aspect	9150	59	81	Genauigkeit der Karten	9150-aspect1	Neutral	Related
+aspect	9150	28	39	Hausnummern	9150-aspect0	Neutral	Related
+subjective	9150	21	27	fehlen	9150-subjective2	Negative	Related
+subjective	9150	12	14	ok	9150-subjective1	Positive	Related
+subjective	9150	0	8	For Free	9150-subjective0	Positive	Related
+subjective	9151	0	8	Sehr gut	9151-subjective0	Positive	Related
+subjective	9152	0	17	Macht was es soll	9152-subjective0	Positive	Related
+subjective	9153	0	8	Sehr gut	9153-subjective0	Positive	Related
+subjective	9154	89	101	NUR BLÖDSINN	9154-subjective1	Negative	Related
+aspect	9154	16	31	ADRESSÜBERNAHME	9154-aspect0	Neutral	Related
+subjective	9154	0	3	GUT	9154-subjective0	Positive	Related
+subjective	9155	56	73	noch etwas besser	9155-subjective1	Negative	Related
+aspect	9155	34	50	routenberechnung	9155-aspect0	Neutral	Foreign
+subjective	9155	6	14	ganz gut	9155-subjective0	Positive	Related
+aspect	9156	49	56	Navigon	9156-aspect0	Neutral	Related
+subjective	9156	34	44	" Qualität "	9156-subjective1	Negative	Related
+subjective	9156	0	19	Ernsthafter schrott	9156-subjective0	Negative	Related
+subjective	9157	0	14	Referenzklasse	9157-subjective0	Positive	Related
+subjective	9158	86	91	nicht	9158-subjective1	Negative	Related
+aspect	9158	79	85	Karten	9158-aspect1	Neutral	Related
+subjective	9158	20	34	DIE Killer-App	9158-subjective0	Positive	Related
+aspect	9158	0	9	Navigator	9158-aspect0	Unknown	Related
+subjective	9159	0	3	Top	9159-subjective0	Positive	Related

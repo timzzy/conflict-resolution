@@ -1,0 +1,623 @@
+subjective	2000	0	16	Echt geschmeidig	2000-subjective4	Positive	Related
+subjective	2000	36	41	guten	2000-subjective3	Positive	Related
+aspect	2000	42	54	music player	2000-aspect3	Neutral	Related
+aspect	2000	70	76	design	2000-aspect2	Neutral	Related
+subjective	2000	81	93	hervorragend	2000-subjective2	Positive	Related
+aspect	2000	121	124	app	2000-aspect1	Neutral	Related
+subjective	2000	134	144	lobenswert	2000-subjective1	Positive	Related
+aspect	2001	5	11	update	2001-aspect1	Unknown	Related
+subjective	2001	54	63	ärgerlich	2001-subjective1	Negative	Related
+subjective	2002	16	25	zufrieden	2002-subjective2	Negative	Related
+aspect	2002	59	62	App	2002-aspect2	Neutral	Related
+subjective	2002	142	153	ärgert mich	2002-subjective1	Negative	Related
+aspect	2002	158	161	App	2002-aspect1	Neutral	Related
+subjective	2003	0	9	Echt blöd	2003-subjective2	Negative	Related
+subjective	2003	54	60	frisst	2003-subjective1	Negative	Related
+aspect	2003	66	70	akku	2003-aspect1	Neutral	Related
+subjective	2004	10	27	einfach nur super	2004-subjective1	Positive	Related
+aspect	2005	0	7	Spotify	2005-aspect1	Unknown	Related
+subjective	2005	24	27	gut	2005-subjective2	Positive	Related
+subjective	2005	29	45	Daumen hoch ;-))	2005-subjective1	Positive	Related
+subjective	2006	0	5	Super	2006-subjective4	Positive	Related
+aspect	2006	98	115	Premium - Version	2006-aspect4	Neutral	Related
+subjective	2006	183	188	nervt	2006-subjective3	Negative	Related
+aspect	2006	207	214	Werbung	2006-aspect3	Neutral	Related
+aspect	2006	230	234	Lied	2006-aspect2	Neutral	Related
+subjective	2006	442	445	top	2006-subjective2	Positive	Related
+aspect	2006	446	449	app	2006-aspect1	Neutral	Related
+subjective	2006	489	495	nervig	2006-subjective1	Negative	Related
+subjective	2007	0	8	Sehr gut	2007-subjective2	Positive	Related
+subjective	2007	12	21	Sehr toll	2007-subjective1	Positive	Related
+subjective	2008	9	20	Leider kein	2008-subjective1	Negative	Related
+aspect	2008	21	30	equalizer	2008-aspect1	Unknown	Foreign
+subjective	2009	0	3	top	2009-subjective2	Positive	Related
+subjective	2009	7	22	absolute spitze	2009-subjective1	Positive	Related
+subjective	2010	0	8	Sehr Gut	2010-subjective3	Positive	Related
+subjective	2010	12	21	Sehr gute	2010-subjective2	Positive	Related
+aspect	2010	22	25	app	2010-aspect1	Neutral	Related
+subjective	2010	43	53	sehr gerne	2010-subjective1	Positive	Related
+subjective	2011	0	7	Perfekt	2011-subjective1	Positive	Related
+subjective	2013	112	117	super	2013-subjective1	Positive	Related
+subjective	2013	91	102	sehr schade	2013-subjective0	Negative	Related
+aspect	2013	21	42	Suche nach Songtexten	2013-aspect1	Unknown	Related
+aspect	2013	0	13	Songtextsuche	2013-aspect0	Unknown	Related
+aspect	2014	486	492	Player	2014-aspect5	Neutral	Related
+subjective	2014	470	485	ausgezeichneter	2014-subjective5	Positive	Related
+aspect	2014	429	435	Player	2014-aspect4	Neutral	Related
+aspect	2014	385	395	Lockscreen	2014-aspect3	Neutral	Related
+subjective	2014	368	384	superpraktischer	2014-subjective4	Positive	Related
+aspect	2014	324	345	Einstellmöglichkeiten	2014-aspect2	Neutral	Related
+subjective	2014	318	323	geile	2014-subjective3	Positive	Related
+subjective	2014	303	316	super einfach	2014-subjective2	Positive	Related
+aspect	2014	292	302	Handhabung	2014-aspect1	Neutral	Related
+subjective	2014	277	290	ausgezeichnet	2014-subjective7	Positive	Related
+aspect	2014	267	276	Klangbild	2014-aspect6	Neutral	Related
+subjective	2014	246	265	wirklich so gut ist	2014-subjective6	Positive	Related
+aspect	2014	239	245	Player	2014-aspect0	Neutral	Related
+subjective	2014	5	23	Ich bin begeistert	2014-subjective1	Positive	Related
+subjective	2014	0	3	Wow	2014-subjective0	Positive	Related
+subjective	2015	138	163	bessere Qualität erwartet	2015-subjective3	Negative	Related
+subjective	2015	54	72	gehen oft verloren	2015-subjective2	Negative	Related
+aspect	2015	48	53	Songs	2015-aspect0	Neutral	Related
+subjective	2015	20	33	Sehr instabil	2015-subjective1	Negative	Related
+subjective	2015	0	16	Nicht ausgereift	2015-subjective0	Negative	Related
+subjective	2016	13	31	Nummer-1-Musik-App	2016-subjective1	Positive	Related
+subjective	2016	0	3	Top	2016-subjective0	Positive	Related
+subjective	2017	35	56	mit Abstand der Beste	2017-subjective0	Positive	Related
+aspect	2017	6	12	Player	2017-aspect0	Unknown	Related
+subjective	2018	81	94	ohne Probleme	2018-subjective1	Positive	Related
+aspect	2018	63	74	Google play	2018-aspect0	Neutral	Related
+subjective	2018	0	11	Alles läuft	2018-subjective0	Positive	Related
+subjective	2019	0	8	Scheisse	2019-subjective0	Negative	Related
+aspect	2020	64	76	Shuttle + App	2020-aspect0	Neutral	Related
+subjective	2020	9	14	Danke	2020-subjective1	Positive	Related
+subjective	2020	0	4	Nice	2020-subjective0	Positive	Related
+aspect	2021	365	373	Produkte	2021-aspect9	Neutral	Related
+subjective	2021	310	326	größte Frechheit	2021-subjective5	Negative	Related
+aspect	2021	292	297	Musik	2021-aspect7	Neutral	Related
+aspect	2021	283	291	Sammlung	2021-aspect6	Neutral	Related
+aspect	2021	261	265	Menü	2021-aspect8	Neutral	Related
+aspect	2021	200	210	Highlights	2021-aspect5	Neutral	Related
+aspect	2021	186	194	Angebote	2021-aspect4	Neutral	Related
+aspect	2021	154	160	Öffnen	2021-aspect3	Neutral	Related
+subjective	2021	116	135	Am meisten nervt es	2021-subjective4	Negative	Related
+aspect	2021	105	114	gestaltet	2021-aspect2	Neutral	Related
+subjective	2021	93	104	umständlich	2021-subjective3	Negative	Related
+subjective	2021	73	88	unübersichtlich	2021-subjective2	Negative	Related
+aspect	2021	65	68	APP	2021-aspect1	Neutral	Related
+aspect	2021	48	55	Updates	2021-aspect0	Neutral	Related
+subjective	2021	20	26	dreist	2021-subjective1	Negative	Related
+subjective	2021	0	15	Unübersichtlich	2021-subjective0	Negative	Related
+subjective	2022	117	122	Beste	2022-subjective3	Positive	Related
+aspect	2022	88	94	Player	2022-aspect2	Neutral	Related
+subjective	2022	81	87	toller	2022-subjective2	Positive	Related
+aspect	2022	51	60	Runtastic	2022-aspect0	Neutral	Foreign
+aspect	2022	34	40	Player	2022-aspect1	Neutral	Related
+subjective	2022	10	16	Leider	2022-subjective1	Negative	Related
+subjective	2022	0	6	Schade	2022-subjective0	Negative	Related
+subjective	2023	70	90	Alles einfach genial	2023-subjective0	Positive	Related
+aspect	2023	55	58	app	2023-aspect0	Neutral	Related
+aspect	2023	44	53	community	2023-aspect2	Neutral	Related
+aspect	2023	36	42	Dienst	2023-aspect1	Neutral	Related
+subjective	2023	30	35	beste	2023-subjective1	Positive	Related
+aspect	2024	0	17	Lockscreen widget	2024-aspect1	Unknown	Related
+subjective	2024	18	21	weg	2024-subjective1	Negative	Related
+aspect	2025	32	36	Lied	2025-aspect2	Unknown	Related
+subjective	2025	58	74	nicht downloaden	2025-subjective1	Negative	Related
+aspect	2025	136	149	Speicherplatz	2025-aspect1	Neutral	Related
+aspect	2026	13	18	music	2026-aspect1	Unknown	Related
+subjective	2026	19	38	nocht ohne Internet	2026-subjective1	Negative	Related
+subjective	2028	8	13	Super	2028-subjective2	Positive	Related
+subjective	2028	14	22	5 Sterne	2028-subjective1	Positive	Related
+subjective	2029	0	7	Not bad	2029-subjective1	Neutral	Related
+subjective	2030	0	5	Prima	2030-subjective2	Positive	Related
+subjective	2030	5	7	👍	2030-subjective1	Positive	Related
+subjective	2031	0	6	Bester	2031-subjective1	Positive	Related
+aspect	2031	7	18	Musikstream	2031-aspect1	Unknown	Related
+subjective	2032	0	5	Schön	2032-subjective3	Positive	Related
+subjective	2032	15	19	Supi	2032-subjective2	Positive	Related
+subjective	2032	25	27	😃	2032-subjective1	Positive	Related
+subjective	2033	0	11	Akkufresser	2033-subjective3	Negative	Related
+aspect	2033	15	20	Handy	2033-aspect2	Neutral	Related
+subjective	2033	26	31	heiss	2033-subjective2	Negative	Related
+subjective	2033	36	47	zieht stark	2033-subjective1	Negative	Related
+aspect	2033	48	52	Akku	2033-aspect1	Neutral	Related
+subjective	2034	0	5	Super	2034-subjective3	Positive	Related
+subjective	2034	54	69	nur vier Sterne	2034-subjective2	Negative	Related
+aspect	2034	93	96	App	2034-aspect5	Neutral	Related
+aspect	2034	225	233	Liedname	2034-aspect4	Neutral	Related
+aspect	2034	238	244	Sänger	2034-aspect3	Neutral	Related
+subjective	2034	256	270	bitte ergänzen	2034-subjective1	Negative	Related
+aspect	2034	285	288	App	2034-aspect2	Neutral	Related
+aspect	2034	372	375	App	2034-aspect1	Neutral	Related
+subjective	2035	0	5	Guter	2035-subjective7	Positive	Related
+aspect	2035	6	12	Player	2035-aspect4	Neutral	Related
+subjective	2035	14	23	schwächen	2035-subjective6	Negative	Related
+aspect	2035	55	61	Player	2035-aspect3	Neutral	Related
+aspect	2035	138	147	equalizer	2035-aspect2	Neutral	Related
+subjective	2035	152	165	wirklich nice	2035-subjective5	Positive	Related
+subjective	2035	170	183	übersichtlich	2035-subjective4	Positive	Related
+subjective	2035	185	203	Großer KritikPunkt	2035-subjective3	Negative	Related
+aspect	2035	235	240	Titel	2035-aspect1	Neutral	Related
+subjective	2035	290	304	2 Sterne Abzug	2035-subjective2	Negative	Related
+subjective	2035	327	338	unbrauchbar	2035-subjective1	Negative	Related
+subjective	2036	10	22	einfach cool	2036-subjective0	Positive	Related
+subjective	2037	8	12	Nice	2037-subjective1	Positive	Related
+subjective	2037	0	4	Nice	2037-subjective0	Positive	Related
+aspect	2038	42	48	Player	2038-aspect0	Neutral	Related
+subjective	2038	26	41	keinen besseren	2038-subjective1	Positive	Related
+subjective	2038	0	7	Perfekt	2038-subjective0	Positive	Related
+aspect	2039	33	75	Musikdateien als Klingel / Weckton auswählen	2039-aspect0	Neutral	Foreign
+subjective	2039	0	17	Was sehr gut wäre	2039-subjective0	Negative	Related
+subjective	2040	0	12	Richtig geil	2040-subjective0	Positive	Related
+aspect	2041	53	71	anderes abgespielt	2041-aspect0	Unknown	Related
+subjective	2041	3	7	dumm	2041-subjective0	Negative	Related
+aspect	2042	59	62	App	2042-aspect0	Neutral	Related
+subjective	2042	50	58	perfekte	2042-subjective2	Positive	Related
+subjective	2042	18	48	rein gar nichts zu beanstanden	2042-subjective1	Positive	Related
+subjective	2042	0	6	Klasse	2042-subjective0	Positive	Related
+subjective	2043	110	123	Bitte beheben	2043-subjective0	Negative	Related
+subjective	2043	88	108	passiert nichts mehr	2043-subjective1	Negative	Related
+aspect	2043	34	47	Lied anmachen	2043-aspect0	Neutral	Related
+subjective	2043	0	10	Ladefehler	2043-subjective2	Negative	Related
+subjective	2044	128	140	Bitte ändern	2044-subjective3	Negative	Related
+subjective	2044	121	126	nervt	2044-subjective2	Negative	Related
+aspect	2044	108	115	Liedern	2044-aspect2	Neutral	Related
+subjective	2044	86	91	hängt	2044-subjective1	Negative	Related
+aspect	2044	74	81	startet	2044-aspect1	Neutral	Related
+subjective	2044	62	66	ewig	2044-subjective0	Negative	Related
+aspect	2044	44	50	Update	2044-aspect0	Unknown	Related
+aspect	2045	451	457	seiten	2045-aspect3	Neutral	Related
+aspect	2045	417	427	startseite	2045-aspect2	Neutral	Related
+subjective	2045	399	416	unübersichtlichen	2045-subjective3	Negative	Related
+subjective	2045	350	365	Ein Stern Abzug	2045-subjective4	Negative	Related
+subjective	2045	298	312	sehr zufrieden	2045-subjective2	Positive	Related
+aspect	2045	290	297	Spotify	2045-aspect1	Neutral	Related
+subjective	2045	268	276	4 Sterne	2045-subjective1	Positive	Related
+subjective	2045	104	111	umsonst	2045-subjective0	Positive	Related
+aspect	2045	32	39	spotify	2045-aspect0	Unknown	Related
+subjective	2046	90	111	ladet ladet und ladet	2046-subjective2	Negative	Related
+subjective	2046	73	86	geht es nicht	2046-subjective1	Negative	Related
+aspect	2046	67	72	handy	2046-aspect1	Neutral	Related
+subjective	2046	23	50	funktioniert es einbahnfrei	2046-subjective0	Positive	Related
+aspect	2046	18	22	ipad	2046-aspect0	Unknown	Related
+aspect	2047	114	129	Twitter-Updates	2047-aspect2	Neutral	Related
+subjective	2047	108	113	keine	2047-subjective2	Negative	Related
+subjective	2047	71	82	echt genial	2047-subjective1	Positive	Related
+aspect	2047	53	66	related Songs	2047-aspect1	Neutral	Related
+subjective	2047	26	31	super	2047-subjective0	Positive	Related
+aspect	2047	22	25	App	2047-aspect0	Unknown	Related
+aspect	2048	150	161	sound cloud	2048-aspect2	Neutral	Foreign
+aspect	2048	141	148	Spotify	2048-aspect1	Neutral	Foreign
+aspect	2048	116	128	Amazon music	2048-aspect0	Neutral	Foreign
+subjective	2048	109	115	Lieber	2048-subjective1	Negative	Related
+subjective	2048	88	100	nur streamen	2048-subjective2	Negative	Related
+aspect	2048	45	50	Datei	2048-aspect3	Neutral	Related
+subjective	2048	0	8	0 sterne	2048-subjective0	Negative	Related
+subjective	2049	200	211	ist es wert	2049-subjective5	Positive	Related
+aspect	2049	176	183	premium	2049-aspect2	Neutral	Related
+subjective	2049	154	158	Geil	2049-subjective4	Positive	Related
+subjective	2049	139	153	einfach Hammer	2049-subjective3	Positive	Related
+aspect	2049	96	102	finden	2049-aspect1	Neutral	Related
+subjective	2049	78	95	alles sehr leicht	2049-subjective2	Positive	Related
+aspect	2049	57	68	beschriftet	2049-aspect3	Neutral	Related
+subjective	2049	47	56	alles gut	2049-subjective6	Positive	Related
+subjective	2049	29	42	übersichtlich	2049-subjective1	Positive	Related
+aspect	2049	21	24	app	2049-aspect0	Neutral	Related
+subjective	2049	0	3	Gut	2049-subjective0	Positive	Related
+subjective	2050	19	21	;)	2050-subjective2	Positive	Related
+subjective	2050	7	18	Passt alles	2050-subjective1	Positive	Related
+subjective	2050	0	3	Top	2050-subjective0	Positive	Related
+subjective	2051	46	58	lieblingsapp	2051-subjective2	Positive	Related
+subjective	2051	23	39	sehr vorteilhaft	2051-subjective1	Positive	Related
+subjective	2051	0	12	Verdammt gut	2051-subjective0	Positive	Related
+aspect	2052	179	189	Widgetpack	2052-aspect3	Neutral	Related
+aspect	2052	99	110	Audioplayer	2052-aspect2	Neutral	Related
+subjective	2052	93	98	beste	2052-subjective5	Positive	Related
+aspect	2052	62	87	Einstellungsmöglichkeiten	2052-aspect1	Neutral	Related
+subjective	2052	50	61	viele viele	2052-subjective4	Positive	Related
+aspect	2052	43	48	Klang	2052-aspect0	Neutral	Related
+subjective	2052	34	42	lauterer	2052-subjective3	Positive	Related
+subjective	2052	21	29	sauberer	2052-subjective2	Positive	Related
+subjective	2052	13	19	Stabil	2052-subjective1	Positive	Related
+subjective	2052	0	8	Suuuuper	2052-subjective0	Positive	Related
+subjective	2053	21	29	Schlecht	2053-subjective0	Negative	Related
+subjective	2054	249	266	keinen Stern wert	2054-subjective0	Negative	Related
+aspect	2054	245	248	APP	2054-aspect2	Neutral	Related
+aspect	2054	159	179	Musiktitel aussuchen	2054-aspect3	Neutral	Related
+subjective	2054	153	158	keine	2054-subjective1	Negative	Related
+aspect	2054	136	151	Musik vorspulen	2054-aspect4	Neutral	Related
+subjective	2054	130	135	keine	2054-subjective2	Negative	Related
+aspect	2054	73	79	update	2054-aspect1	Neutral	Related
+subjective	2054	33	55	gar nichts mehr machen	2054-subjective3	Negative	Related
+aspect	2054	17	23	update	2054-aspect0	Unknown	Related
+subjective	2055	216	234	nicht funktioniert	2055-subjective5	Negative	Related
+subjective	2055	175	186	umständlich	2055-subjective2	Negative	Related
+aspect	2055	137	157	Playlist abspeichern	2055-aspect2	Neutral	Related
+subjective	2055	99	117	verschieben können	2055-subjective4	Negative	Related
+aspect	2055	90	98	Playlist	2055-aspect1	Neutral	Related
+aspect	2055	65	71	Lieder	2055-aspect3	Neutral	Related
+subjective	2055	30	53	Verbesserungsvorschläge	2055-subjective3	Negative	Related
+aspect	2055	22	28	Player	2055-aspect0	Neutral	Related
+subjective	2055	8	21	Fantastischer	2055-subjective1	Positive	Related
+subjective	2055	0	3	Top	2055-subjective0	Positive	Related
+subjective	2056	34	47	Bin zufrieden	2056-subjective1	Positive	Related
+subjective	2056	0	30	Keine nennenswerte alternative	2056-subjective0	Negative	Related
+aspect	2057	8	11	App	2057-aspect0	Unknown	Related
+subjective	2057	0	7	geniale	2057-subjective0	Positive	Related
+aspect	2058	51	66	Spotify Premium	2058-aspect1	Neutral	Related
+subjective	2058	8	17	stürzt ab	2058-subjective0	Negative	Related
+aspect	2058	4	7	App	2058-aspect0	Unknown	Related
+subjective	2059	244	253	ULTRAFAIL	2059-subjective2	Negative	Related
+subjective	2059	239	242	wtf	2059-subjective3	Negative	Related
+subjective	2059	58	85	nicht vor oder zurückspulen	2059-subjective4	Negative	Related
+aspect	2059	51	57	lieder	2059-aspect1	Neutral	Related
+subjective	2059	25	36	mal gar nix	2059-subjective1	Negative	Related
+aspect	2059	19	24	Funzt	2059-aspect0	Neutral	Related
+subjective	2059	0	15	Harter bullshit	2059-subjective0	Negative	Related
+subjective	2060	220	228	sinnvoll	2060-subjective3	Negative	Related
+aspect	2060	209	219	SleepTimer	2060-aspect3	Neutral	Foreign
+aspect	2060	196	199	App	2060-aspect2	Neutral	Related
+subjective	2060	170	175	stört	2060-subjective2	Negative	Related
+subjective	2060	137	163	nicht wiedergegeben werden	2060-subjective1	Negative	Related
+aspect	2060	106	113	Streams	2060-aspect1	Neutral	Related
+aspect	2060	85	88	App	2060-aspect0	Neutral	Related
+subjective	2060	62	76	sehr zufrieden	2060-subjective0	Positive	Related
+subjective	2061	117	138	immer noch begeistert	2061-subjective1	Positive	Related
+aspect	2061	46	49	App	2061-aspect0	Neutral	Related
+subjective	2061	0	21	Immer noch begeistert	2061-subjective0	Positive	Related
+subjective	2062	0	14	Sehr sehr cool	2062-subjective0	Positive	Related
+subjective	2063	8	28	Kann man alles hören	2063-subjective1	Positive	Related
+subjective	2063	0	4	Geil	2063-subjective0	Positive	Related
+aspect	2064	340	344	Bass	2064-aspect7	Neutral	Related
+aspect	2064	320	329	Equalizer	2064-aspect6	Neutral	Related
+subjective	2064	309	319	göttlichen	2064-subjective3	Positive	Related
+aspect	2064	295	298	App	2064-aspect3	Neutral	Related
+aspect	2064	233	242	Equalizer	2064-aspect5	Neutral	Related
+aspect	2064	166	170	Bass	2064-aspect4	Neutral	Related
+subjective	2064	96	121	einfach nur noch schlecht	2064-subjective1	Negative	Related
+aspect	2064	86	91	Klang	2064-aspect2	Neutral	Related
+subjective	2064	63	80	komplett zerstört	2064-subjective0	Negative	Related
+aspect	2064	58	62	Bass	2064-aspect1	Neutral	Related
+aspect	2064	43	49	Update	2064-aspect0	Neutral	Related
+subjective	2064	0	30	nicht mehr das , was es mal war	2064-subjective2	Negative	Related
+subjective	2065	7	19	Klappt alles	2065-subjective1	Positive	Related
+subjective	2065	0	3	Gut	2065-subjective0	Positive	Related
+aspect	2066	76	81	Musik	2066-aspect0	Neutral	Related
+subjective	2066	37	53	das geht garnich	2066-subjective2	Negative	Related
+subjective	2066	16	36	So was von behindert	2066-subjective1	Negative	Related
+subjective	2066	0	12	Voll dumm !!!	2066-subjective0	Negative	Related
+aspect	2067	116	122	Player	2067-aspect2	Neutral	Related
+subjective	2067	110	115	beste	2067-subjective2	Positive	Related
+aspect	2067	60	77	Lockscreen-Widget	2067-aspect1	Neutral	Related
+subjective	2067	49	58	editieren	2067-subjective1	Positive	Related
+aspect	2067	40	45	Cover	2067-aspect0	Neutral	Related
+subjective	2067	18	38	Schöne Möglichkeiten	2067-subjective3	Positive	Related
+subjective	2067	0	14	Einach nur gut	2067-subjective0	Positive	Related
+subjective	2068	203	214	einwandfrei	2068-subjective5	Positive	Related
+aspect	2068	182	194	funktioniert	2068-aspect1	Neutral	Related
+subjective	2068	167	180	finds perfekt	2068-subjective4	Positive	Related
+subjective	2068	153	161	disliken	2068-subjective3	Positive	Related
+subjective	2068	86	91	liken	2068-subjective2	Positive	Related
+aspect	2068	79	85	Lieder	2068-aspect0	Neutral	Related
+aspect	2068	48	56	playlist	2068-aspect2	Neutral	Related
+subjective	2068	18	29	Läuft alles	2068-subjective1	Positive	Related
+subjective	2068	0	13	Alles perfekt	2068-subjective0	Positive	Related
+subjective	2069	34	47	lohnt sich : P	2069-subjective1	Positive	Related
+aspect	2069	26	33	premium	2069-aspect0	Neutral	Related
+subjective	2069	0	7	perfekt	2069-subjective0	Positive	Related
+aspect	2070	193	225	Zugang zu seinen Lieblingslisten	2070-aspect2	Neutral	Related
+subjective	2070	175	192	uneingeschränkten	2070-subjective2	Positive	Related
+subjective	2070	83	97	sehr zufrieden	2070-subjective1	Positive	Related
+aspect	2070	33	48	Premium Version	2070-aspect1	Neutral	Related
+aspect	2070	18	25	Spotify	2070-aspect0	Neutral	Related
+subjective	2070	0	8	Grandios	2070-subjective0	Positive	Related
+aspect	2071	53	59	Update	2071-aspect1	Neutral	Related
+aspect	2071	6	9	App	2071-aspect0	Neutral	Related
+subjective	2071	0	5	Blöde	2071-subjective0	Negative	Related
+subjective	2072	0	7	perfekt	2072-subjective0	Positive	Related
+subjective	2073	0	16	Einfach nur geil	2073-subjective0	Positive	Related
+subjective	2074	0	12	Ist sehr gut	2074-subjective0	Positive	Related
+subjective	2075	61	76	geht gar nichts	2075-subjective1	Negative	Related
+aspect	2075	40	50	Aussetzern	2075-aspect0	Neutral	Related
+subjective	2075	0	7	Problem	2075-subjective0	Negative	Related
+aspect	2076	58	79	musikalischen Stöbern	2076-aspect1	Neutral	Related
+subjective	2076	44	53	Großartig	2076-subjective1	Positive	Related
+subjective	2076	12	23	einwandfrei	2076-subjective0	Positive	Related
+aspect	2076	6	11	läuft	2076-aspect0	Unknown	Related
+subjective	2077	39	52	nicht richtig	2077-subjective1	Negative	Related
+aspect	2077	26	38	Funktioniert	2077-aspect0	Neutral	Related
+subjective	2077	0	22	Muss verbessert werden	2077-subjective0	Negative	Related
+aspect	2078	94	97	App	2078-aspect3	Neutral	Related
+subjective	2078	88	93	Beste	2078-subjective2	Positive	Related
+aspect	2078	80	86	Fading	2078-aspect2	Neutral	Related
+aspect	2078	60	78	Lautstärkeregelung	2078-aspect1	Neutral	Related
+aspect	2078	37	58	Kopfhörer Anpassungen	2078-aspect0	Neutral	Related
+subjective	2078	25	35	begeistert	2078-subjective1	Positive	Related
+subjective	2078	0	17	Note3 Einwandfrei	2078-subjective0	Positive	Related
+subjective	2079	0	4	Geil	2079-subjective0	Positive	Related
+aspect	2080	15	26	Musikplayer	2080-aspect0	Neutral	Related
+subjective	2080	8	14	Bester	2080-subjective1	Positive	Related
+subjective	2080	0	4	Top !	2080-subjective0	Positive	Related
+aspect	2081	5	11	Player	2081-aspect0	Unknown	Related
+subjective	2081	0	4	Best	2081-subjective0	Positive	Related
+aspect	2082	36	42	Lieder	2082-aspect0	Neutral	Related
+subjective	2082	11	23	Find es doof	2082-subjective1	Negative	Related
+subjective	2082	0	7	Geht so	2082-subjective0	Neutral	Related
+subjective	2083	178	205	bin voll und ganz zufrieden	2083-subjective2	Positive	Related
+subjective	2083	150	173	funktioniert das wieder	2083-subjective1	Positive	Related
+aspect	2083	82	89	Support	2083-aspect2	Neutral	Related
+aspect	2083	36	51	Premium Account	2083-aspect1	Neutral	Related
+subjective	2083	8	16	sehr gut	2083-subjective0	Positive	Related
+aspect	2083	0	7	Support	2083-aspect0	Unknown	Related
+subjective	2084	0	4	Gute	2084-subjective2	Positive	Related
+aspect	2084	5	18	Musikqualität	2084-aspect5	Neutral	Related
+subjective	2084	25	32	zuwenig	2084-subjective1	Negative	Related
+aspect	2084	33	46	Einstellungen	2084-aspect4	Neutral	Related
+aspect	2084	78	81	App	2084-aspect3	Neutral	Related
+aspect	2084	170	178	Qualität	2084-aspect2	Neutral	Related
+aspect	2084	183	196	Angebotumfang	2084-aspect1	Neutral	Related
+subjective	2085	0	5	Guter	2085-subjective7	Positive	Related
+aspect	2085	6	12	Player	2085-aspect4	Neutral	Related
+subjective	2085	26	39	kleine Macken	2085-subjective6	Negative	Related
+subjective	2085	43	55	Sehr einfach	2085-subjective5	Positive	Related
+aspect	2085	71	77	Player	2085-aspect3	Neutral	Related
+subjective	2085	89	102	umfangreichen	2085-subjective4	Positive	Related
+aspect	2085	103	113	Funktionen	2085-aspect2	Neutral	Related
+subjective	2085	118	128	sehr guter	2085-subjective3	Positive	Related
+aspect	2085	139	150	Darstellung	2085-aspect1	Neutral	Related
+subjective	2085	179	190	Minuspunkte	2085-subjective2	Negative	Related
+subjective	2085	299	308	Aussetzer	2085-subjective1	Negative	Related
+subjective	2086	0	4	geil	2086-subjective3	Positive	Related
+subjective	2086	8	12	geil	2086-subjective2	Positive	Related
+subjective	2086	18	26	scheisse	2086-subjective1	Negative	Related
+aspect	2086	42	52	abbonieren	2086-aspect1	Neutral	Related
+subjective	2087	0	6	Hammer	2087-subjective2	Positive	Related
+subjective	2087	30	38	ein Muss	2087-subjective1	Positive	Related
+subjective	2088	0	4	Geil	2088-subjective3	Positive	Related
+subjective	2088	68	70	;)	2088-subjective2	Positive	Related
+subjective	2088	75	96	kann es nur empfehlen	2088-subjective1	Positive	Related
+subjective	2089	0	7	PERFEKT	2089-subjective5	Positive	Related
+aspect	2089	25	31	Player	2089-aspect4	Neutral	Related
+aspect	2089	52	57	Klang	2089-aspect3	Neutral	Related
+subjective	2089	71	74	gut	2089-subjective4	Positive	Related
+subjective	2089	83	93	Spaß macht	2089-subjective3	Positive	Related
+aspect	2089	95	109	Musik zu hören	2089-aspect2	Neutral	Related
+aspect	2089	115	124	Bedienung	2089-aspect1	Neutral	Related
+subjective	2089	125	154	kann m . M . n . nicht besser sein	2089-subjective2	Positive	Related
+subjective	2089	156	163	Perfekt	2089-subjective1	Positive	Related
+subjective	2090	0	4	Geht	2090-subjective3	Neutral	Related
+aspect	2090	22	28	Design	2090-aspect3	Neutral	Related
+aspect	2090	43	49	player	2090-aspect2	Neutral	Related
+subjective	2090	50	57	ganz OK	2090-subjective2	Neutral	Related
+aspect	2090	71	81	soundcloud	2090-aspect1	Neutral	Foreign
+subjective	2090	82	88	besser	2090-subjective1	Negative	Related
+aspect	2091	75	81	update	2091-aspect1	Unknown	Related
+subjective	2092	0	6	Drecks	2092-subjective3	Negative	Related
+aspect	2092	7	10	App	2092-aspect2	Neutral	Related
+aspect	2092	30	36	Update	2092-aspect1	Neutral	Related
+subjective	2092	108	123	Super ärgerlich	2092-subjective1	Negative	Related
+subjective	2093	0	3	Top	2093-subjective2	Positive	Related
+subjective	2093	7	24	Bin hochzufrieden	2093-subjective1	Positive	Related
+subjective	2094	0	13	Bitte beheben	2094-subjective1	Negative	Related
+subjective	2095	0	6	Bester	2095-subjective3	Positive	Related
+aspect	2095	7	13	Player	2095-aspect3	Neutral	Related
+subjective	2095	41	46	beste	2095-subjective2	Positive	Related
+aspect	2095	47	53	Player	2095-aspect2	Neutral	Related
+subjective	2095	104	125	lohnt sich jeden Cent	2095-subjective1	Positive	Related
+aspect	2095	178	181	App	2095-aspect1	Neutral	Related
+subjective	2096	0	5	Super	2096-subjective0	Positive	Related
+subjective	2097	19	39	Gibt nichts besseres	2097-subjective1	Positive	Related
+aspect	2097	7	15	Programm	2097-aspect0	Neutral	Related
+subjective	2097	0	6	Bestes	2097-subjective0	Positive	Related
+subjective	2098	141	171	Macht so echt keinen Spaß mehr	2098-subjective3	Negative	Related
+aspect	2098	121	139	Download von Songs	2098-aspect1	Neutral	Related
+subjective	2098	99	115	massive Probleme	2098-subjective2	Negative	Related
+aspect	2098	84	94	Ladezeiten	2098-aspect0	Neutral	Related
+subjective	2098	71	83	extrem lange	2098-subjective1	Negative	Related
+subjective	2098	0	6	Schade	2098-subjective0	Negative	Related
+subjective	2099	21	52	kommt er einfach nicht in Gange	2099-subjective0	Negative	Related
+aspect	2099	14	20	update	2099-aspect0	Unknown	Related
+subjective	2100	195	210	Grottenschlecht	2100-subjective0	Negative	Related
+subjective	2102	55	58	; )	2102-subjective2	Positive	Related
+subjective	2102	22	51	kann ich nur weiter empfehlen	2102-subjective1	Positive	Related
+aspect	2102	14	17	App	2102-aspect0	Neutral	Related
+subjective	2102	0	13	Richtig GEILE	2102-subjective0	Positive	Related
+subjective	2103	13	30	Einfach nur beste	2103-subjective1	Positive	Related
+subjective	2103	0	9	Coooooool	2103-subjective0	Positive	Related
+subjective	2104	0	17	Ssssereeehhhr gut	2104-subjective0	Positive	Related
+subjective	2105	132	142	geht nicht	2105-subjective0	Negative	Related
+aspect	2105	115	126	Mp 3 Player	2105-aspect1	Neutral	Related
+subjective	2105	95	105	geht nicht	2105-subjective1	Negative	Related
+aspect	2105	42	45	app	2105-aspect0	Unknown	Related
+subjective	2106	45	58	alles perfekt	2106-subjective1	Positive	Related
+aspect	2106	31	37	Update	2106-aspect0	Neutral	Related
+subjective	2106	0	9	Alles gut	2106-subjective0	Positive	Related
+aspect	2107	96	99	App	2107-aspect0	Neutral	Related
+subjective	2107	90	95	Super	2107-subjective1	Positive	Related
+subjective	2107	0	14	EINFACH GENIAL	2107-subjective0	Positive	Related
+subjective	2108	0	4	Cool	2108-subjective0	Positive	Related
+subjective	2109	0	6	GENIAL	2109-subjective0	Positive	Related
+aspect	2110	327	338	Unterordner	2110-aspect2	Neutral	Related
+subjective	2110	313	326	viel zu viele	2110-subjective2	Negative	Related
+aspect	2110	281	291	Kategorien	2110-aspect1	Neutral	Related
+subjective	2110	265	280	vorgeschriebene	2110-subjective1	Negative	Related
+aspect	2110	234	250	Power amp Player	2110-aspect0	Neutral	Foreign
+aspect	2110	150	156	Ordner	2110-aspect3	Neutral	Related
+subjective	2110	105	127	Nervt es mich tierisch	2110-subjective3	Negative	Related
+subjective	2110	92	96	mies	2110-subjective4	Negative	Related
+aspect	2110	23	26	app	2110-aspect4	Neutral	Related
+subjective	2110	0	12	Großes Manko	2110-subjective0	Negative	Related
+aspect	2111	106	109	App	2111-aspect0	Neutral	Related
+subjective	2111	55	74	ihr seid der Hammer	2111-subjective0	Positive	Related
+aspect	2113	75	78	App	2113-aspect1	Neutral	Related
+aspect	2113	51	58	Spotify	2113-aspect0	Neutral	Related
+subjective	2113	20	50	beste Entscheidung dieses Jahr	2113-subjective1	Positive	Related
+subjective	2113	0	12	Einfach geil	2113-subjective0	Positive	Related
+subjective	2114	154	156	:(	2114-subjective1	Negative	Related
+subjective	2114	109	111	:/	2114-subjective0	Negative	Related
+subjective	2114	92	107	leiser geworden	2114-subjective2	Negative	Related
+aspect	2114	49	56	Spotify	2114-aspect0	Unknown	Related
+subjective	2114	0	15	leiser geworden	2114-subjective3	Neutral	Related
+subjective	2115	32	45	eher schlecht	2115-subjective1	Negative	Related
+aspect	2115	8	14	Design	2115-aspect0	Neutral	Related
+subjective	2115	0	4	Naja	2115-subjective0	Neutral	Related
+subjective	2116	85	88	:-(	2116-subjective2	Neutral	Related
+aspect	2116	66	78	full version	2116-aspect0	Neutral	Related
+subjective	2116	12	16	doof	2116-subjective1	Negative	Related
+subjective	2116	0	4	Supi	2116-subjective0	Positive	Related
+subjective	2117	0	16	Nix Funktioniert	2117-subjective0	Negative	Related
+subjective	2118	51	53	😠	2118-subjective3	Negative	Related
+subjective	2118	49	51	😠	2118-subjective2	Negative	Related
+subjective	2118	47	49	😠	2118-subjective1	Negative	Related
+subjective	2118	37	46	voll doof	2118-subjective0	Negative	Related
+subjective	2119	13	27	Läuft wie ne 1	2119-subjective1	Positive	Related
+subjective	2119	0	9	Ganz dick	2119-subjective0	Positive	Related
+subjective	2120	0	20	Richtig fett scheise	2120-subjective0	Negative	Related
+subjective	2121	20	30	akzeptabel	2121-subjective1	Positive	Related
+aspect	2121	7	19	Ohne premium	2121-aspect0	Neutral	Related
+subjective	2121	0	3	Gut	2121-subjective0	Positive	Related
+subjective	2122	90	97	muß her	2122-subjective0	Negative	Related
+aspect	2122	77	83	Update	2122-aspect1	Unknown	Related
+subjective	2122	44	74	die gekauften skins nicht mehr		Neutral	Related
+aspect	2122	9	15	update	2122-aspect0	Unknown	Related
+subjective	2123	0	9	Großartig	2123-subjective0	Positive	Related
+subjective	2124	124	135	wären schön	2124-subjective3	Negative	Related
+aspect	2124	117	123	Ordner	2124-aspect2	Neutral	Foreign
+subjective	2124	80	98	jetzt gehts wieder	2124-subjective2	Positive	Related
+aspect	2124	52	59	updates	2124-aspect1	Neutral	Related
+aspect	2124	39	42	APP	2124-aspect0	Neutral	Related
+subjective	2124	23	30	Problem	2124-subjective1	Negative	Related
+subjective	2124	0	9	Ganz okay	2124-subjective0	Positive	Related
+subjective	2125	30	57	2,99 ist der mir nicht wert	2125-subjective1	Negative	Related
+subjective	2125	21	24	gut	2125-subjective0	Positive	Related
+aspect	2125	10	16	Player	2125-aspect0	Unknown	Related
+aspect	2125	0	6	Player	2125-aspect1	Unknown	Related
+subjective	2126	26	51	lohnt sich auf jeden Fall	2126-subjective2	Positive	Related
+subjective	2126	9	23	Echt mega geil	2126-subjective1	Positive	Related
+subjective	2126	0	3	Top	2126-subjective0	Positive	Related
+subjective	2127	93	111	bitte nach bessern	2127-subjective2	Negative	Related
+aspect	2127	74	83	Die Ärzte	2127-aspect2	Neutral	Foreign
+aspect	2127	57	69	Böhse Onkelz	2127-aspect1	Neutral	Foreign
+subjective	2127	45	56	leider kene	2127-subjective3	Negative	Related
+aspect	2127	26	31	Alben	2127-aspect0	Neutral	Related
+subjective	2127	22	25	Top	2127-subjective1	Positive	Related
+subjective	2127	0	18	Sehr empfehlenswet	2127-subjective0	Positive	Related
+aspect	2128	165	182	Zufallswiedergabe	2128-aspect0	Neutral	Related
+aspect	2128	135	143	Playlist	2128-aspect1	Neutral	Related
+aspect	2128	70	83	Shuffle Knopf	2128-aspect2	Neutral	Related
+subjective	2128	36	55	nicht zu grbrauchen	2128-subjective2	Negative	Related
+subjective	2128	16	25	kostenlos	2128-subjective1	Positive	Related
+subjective	2128	0	7	Scheiße	2128-subjective0	Negative	Related
+subjective	2129	70	75	teuer	2129-subjective3	Negative	Related
+aspect	2129	34	39	Musik	2129-aspect0	Neutral	Related
+subjective	2129	16	24	5 Sterne	2129-subjective2	Positive	Related
+subjective	2129	7	15	Sehr gut	2129-subjective1	Positive	Related
+subjective	2129	0	3	Gut	2129-subjective0	Positive	Related
+subjective	2130	0	9	Super gut	2130-subjective0	Positive	Related
+subjective	2131	135	143	5 Sterne	2131-subjective2	Positive	Related
+aspect	2131	89	96	Spotify	2131-aspect2	Neutral	Related
+aspect	2131	60	74	Music such App	2131-aspect1	Neutral	Foreign
+subjective	2131	38	49	wünsche ich	2131-subjective1	Negative	Related
+subjective	2131	6	23	immer einwandfrei	2131-subjective0	Positive	Related
+aspect	2131	0	5	Läuft	2131-aspect0	Unknown	Related
+aspect	2133	32	51	Samsung Musicplayer	2133-aspect0	Neutral	Foreign
+subjective	2133	11	27	Besser sogar als	2133-subjective1	Positive	Related
+subjective	2133	0	7	Perfekt	2133-subjective0	Positive	Related
+subjective	2134	164	166	: D	2134-subjective4	Positive	Related
+aspect	2134	148	163	Material Design	2134-aspect2	Neutral	Related
+subjective	2134	108	119	Gefällt mir	2134-subjective3	Positive	Related
+subjective	2134	94	106	noch schöner	2134-subjective2	Positive	Related
+aspect	2134	69	75	update	2134-aspect1	Neutral	Related
+aspect	2134	55	58	App	2134-aspect0	Neutral	Related
+subjective	2134	22	46	überhaupt keine Probleme	2134-subjective1	Positive	Related
+subjective	2134	4	9	Rockt	2134-subjective0	Positive	Related
+subjective	2135	0	8	Sau geil	2135-subjective0	Positive	Related
+subjective	2136	16	22	Hammer	2136-subjective0	Positive	Related
+aspect	2136	0	7	Spotify	2136-aspect0	Unknown	Related
+subjective	2137	0	17	Flackert nur noch	2137-subjective0	Negative	Related
+subjective	2138	228	244	Bitte mal cheken	2138-subjective4	Negative	Related
+aspect	2138	179	185	player	2138-aspect2	Neutral	Related
+subjective	2138	141	166	ab und an treten bugs auf	2138-subjective3	Negative	Related
+aspect	2138	94	108	Akku Verbrauch	2138-aspect1	Neutral	Related
+subjective	2138	83	89	steigt	2138-subjective2	Negative	Related
+subjective	2138	55	67	eher negativ	2138-subjective1	Negative	Related
+aspect	2138	31	37	Update	2138-aspect0	Neutral	Related
+subjective	2138	0	11	An sich gut	2138-subjective0	Positive	Related
+subjective	2139	13	24	alles nicht	2139-subjective0	Negative	Related
+aspect	2139	0	12	Funktioniert	2139-aspect0	Unknown	Related
+subjective	2140	114	123	praktisch	2140-subjective2	Positive	Related
+subjective	2140	98	109	extrem geil	2140-subjective1	Positive	Related
+aspect	2140	90	97	premium	2140-aspect1	Neutral	Related
+aspect	2140	25	31	stream	2140-aspect0	Neutral	Related
+subjective	2140	10	24	sehr sehr geil	2140-subjective0	Positive	Related
+subjective	2141	0	4	Naja	2141-subjective0	Neutral	Related
+subjective	2142	185	198	nicht nutzbar	2142-subjective4	Negative	Related
+subjective	2142	162	175	echt schlecht	2142-subjective3	Negative	Related
+aspect	2142	147	161	9,99 € im Monat	2142-aspect2	Neutral	Related
+subjective	2142	127	141	nervt gewaltig	2142-subjective2	Negative	Related
+aspect	2142	102	105	App	2142-aspect1	Neutral	Related
+subjective	2142	87	92	hängt	2142-subjective1	Negative	Related
+aspect	2142	6	25	Internet Verbindung	2142-aspect0	Neutral	Related
+subjective	2142	0	5	Keine	2142-subjective0	Negative	Related
+aspect	2143	69	93	Vor- u . Rückspulfunktion	2143-aspect2	Neutral	Related
+subjective	2143	39	46	Wichtig	2143-subjective2	Positive	Related
+aspect	2143	27	37	Funktionen	2143-aspect1	Neutral	Related
+subjective	2143	20	26	vielen	2143-subjective1	Positive	Related
+aspect	2143	9	15	Player	2143-aspect0	Neutral	Related
+subjective	2143	0	8	Genialer	2143-subjective0	Positive	Related
+subjective	2144	28	35	5sterne	2144-subjective2	Positive	Related
+aspect	2144	20	23	app	2144-aspect0	Neutral	Related
+subjective	2144	14	19	Super	2144-subjective1	Positive	Related
+subjective	2144	0	10	👍 HAMMER 👍	2144-subjective0	Positive	Related
+subjective	2145	110	144	😡 😢 😢 😢 😣 😣 😣 😣 😣 😣 😣 😣 😣 😣 😣 😣 😣	2145-subjective2	Negative	Related
+subjective	2145	98	109	Echt gemein	2145-subjective1	Negative	Related
+aspect	2145	35	46	Premium Abo	2145-aspect0	Neutral	Related
+subjective	2145	0	15	Extrem schlecht	2145-subjective0	Negative	Related
+subjective	2146	92	109	einfach nur super	2146-subjective3	Positive	Related
+subjective	2146	55	91	kann nichts schlechtes darüber sagen	2146-subjective2	Positive	Related
+aspect	2146	51	54	App	2146-aspect1	Neutral	Related
+subjective	2146	30	39	zufrieden	2146-subjective1	Positive	Related
+aspect	2146	10	13	app	2146-aspect0	Neutral	Related
+subjective	2146	4	9	super	2146-subjective0	Positive	Related
+subjective	2147	0	17	Einfach nur super	2147-subjective0	Positive	Related
+aspect	2148	138	155	Spotify für Linux	2148-aspect0	Neutral	Foreign
+subjective	2148	124	134	Bitte noch	2148-subjective1	Negative	Related
+subjective	2148	0	9	I love it	2148-subjective0	Positive	Related
+aspect	2149	7	18	Musikplayer	2149-aspect0	Neutral	Related
+subjective	2149	0	6	Bester	2149-subjective0	Positive	Related
+aspect	2150	56	63	Premium	2150-aspect1	Neutral	Related
+subjective	2150	36	51	10 € lohnen sich	2150-subjective1	Positive	Related
+aspect	2150	23	30	Spotify	2150-aspect0	Neutral	Related
+subjective	2150	15	22	gefällt	2150-subjective0	Positive	Related
+aspect	2151	13	16	app	2151-aspect0	Unknown	Related
+subjective	2151	7	12	Beste	2151-subjective1	Positive	Related
+subjective	2151	0	3	Top	2151-subjective0	Positive	Related
+aspect	2152	45	53	songtext	2152-aspect0	Neutral	Related
+subjective	2152	22	30	6 sterne	2152-subjective0	Positive	Related
+aspect	2152	0	8	Songtext	2152-aspect1	Unknown	Related
+aspect	2153	30	41	pro Version	2153-aspect1	Unknown	Related
+aspect	2153	14	21	Werbung	2153-aspect0	Neutral	Related
+subjective	2153	8	13	Keine	2153-subjective1	Positive	Related
+subjective	2153	0	4	Cool	2153-subjective0	Positive	Related
+subjective	2154	43	64	Davor klappte es ohne	2154-subjective1	Negative	Related
+aspect	2154	32	35	ABO	2154-aspect0	Neutral	Related
+subjective	2154	0	2	😠	2154-subjective0	Negative	Related
+subjective	2155	185	216	zeigt so gut wie nichts mehr an	2155-subjective4	Negative	Related
+subjective	2155	162	179	stürzt ständig ab	2155-subjective3	Negative	Related
+aspect	2155	158	161	App	2155-aspect3	Neutral	Related
+subjective	2155	110	152	funktioniert einfach überhaupt nichts mehr	2155-subjective2	Negative	Related
+aspect	2155	103	109	Update	2155-aspect2	Neutral	Related
+aspect	2155	72	79	Spotify	2155-aspect1	Neutral	Related
+subjective	2155	38	67	immer voll und ganz zufrieden	2155-subjective1	Positive	Related
+subjective	2155	12	23	unbrauchbar	2155-subjective0	Negative	Related
+aspect	2155	5	11	Update	2155-aspect0	Unknown	Related
+subjective	2156	21	30	Exzellent	2156-subjective0	Positive	Related
+aspect	2156	0	17	Google Play Music	2156-aspect0	Unknown	Related
+subjective	2157	7	16	Supertoll	2157-subjective1	Positive	Related
+subjective	2157	0	3	TOP	2157-subjective0	Positive	Related
+subjective	2158	18	37	Braucht man einfach	2158-subjective1	Positive	Related
+subjective	2158	0	14	Heimliche Nr . 1	2158-subjective0	Positive	Related
+aspect	2159	23	30	Auswahl	2159-aspect0	Neutral	Related
+subjective	2159	17	22	Große	2159-subjective1	Positive	Related
+subjective	2159	0	13	Einfach super	2159-subjective0	Positive	Related

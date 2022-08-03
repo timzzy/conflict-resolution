@@ -1,0 +1,464 @@
+subjective	10000	61	102	BLLLLLLLLLLLLLLLÖÖÖÖÖÖÖÖÖÖÖÖÖDDDDDDDDDDDD	10000-subjective1	Negative	Related
+subjective	10001	0	4	Cool	10001-subjective2	Positive	Related
+subjective	10001	8	12	Cool	10001-subjective1	Positive	Related
+subjective	10002	0	4	Cool	10002-subjective4	Positive	Related
+subjective	10002	5	9	Cool	10002-subjective3	Positive	Related
+subjective	10002	24	38	keine probleme	10002-subjective2	Positive	Related
+subjective	10002	46	51	super	10002-subjective1	Positive	Related
+aspect	10002	52	55	app	10002-aspect1	Neutral	Related
+subjective	10003	0	3	Gut	10003-subjective2	Positive	Related
+subjective	10003	14	18	gute	10003-subjective1	Positive	Related
+aspect	10003	19	27	Qualität	10003-aspect1	Neutral	Related
+subjective	10005	0	11	Eifach geil	10005-subjective1	Positive	Related
+subjective	10006	44	63	was soll der scheiß	10006-subjective1	Negative	Related
+aspect	10007	0	9	Anmeldung	10007-aspect1	Unknown	Related
+subjective	10007	10	23	nicht möglich	10007-subjective1	Negative	Related
+subjective	10008	0	8	Schlecht	10008-subjective3	Negative	Related
+subjective	10008	19	32	Ganze zeit ab	10008-subjective2	Negative	Related
+subjective	10008	49	55	scheiß	10008-subjective1	Negative	Related
+aspect	10009	0	8	Facebook	10009-aspect3	Unknown	Related
+aspect	10009	15	27	Funktioniert	10009-aspect2	Unknown	Related
+subjective	10009	35	46	garnix mehr	10009-subjective3	Negative	Related
+aspect	10009	56	62	Update	10009-aspect1	Neutral	Related
+subjective	10009	66	82	Richtig schlecht	10009-subjective2	Negative	Related
+subjective	10009	84	97	Daumen runter	10009-subjective1	Negative	Related
+aspect	10010	20	27	Version	10010-aspect2	Unknown	Related
+aspect	10010	66	84	Facebookverbindung	10010-aspect1	Neutral	Related
+subjective	10011	0	12	Mega chillig	10011-subjective1	Positive	Related
+subjective	10012	116	135	kommt es schwarz an	10012-subjective2	Negative	Related
+aspect	10012	77	97	Bild von der Galerie	10012-aspect1	Neutral	Related
+subjective	10012	30	58	kommt die stimme in Zeitlupe	10012-subjective1	Negative	Related
+aspect	10012	17	23	Videos	10012-aspect0	Neutral	Related
+subjective	10012	0	4	Naja	10012-subjective0	Neutral	Related
+subjective	10013	7	12	fehlt	10013-subjective0	Negative	Related
+aspect	10013	0	6	App2sd	10013-aspect0	Unknown	Related
+subjective	10014	67	94	können nicht geladen werden	10014-subjective2	Negative	Related
+aspect	10014	55	66	neuigkeiten	10014-aspect2	Neutral	Related
+subjective	10014	43	54	fehlerhaft .	10014-subjective1	Negative	Related
+aspect	10014	32	38	update	10014-aspect1	Neutral	Related
+subjective	10014	7	17	fehlerhaft	10014-subjective0	Negative	Related
+aspect	10014	0	6	update	10014-aspect0	Unknown	Related
+subjective	10015	48	68	einfach nur schlecht	10015-subjective1	Negative	Related
+subjective	10015	0	15	Stürzt immer ab	10015-subjective0	Negative	Related
+subjective	10016	20	65	werden nicht oder werden fehlerhaft angezeigt	10016-subjective1	Negative	Related
+aspect	10016	15	19	GIFs	10016-aspect0	Neutral	Related
+subjective	10016	0	4	Naja	10016-subjective0	Neutral	Related
+subjective	10017	0	5	Bombe	10017-subjective0	Positive	Related
+subjective	10018	8	12	Cool	10018-subjective1	Positive	Related
+subjective	10018	0	4	Cool	10018-subjective0	Positive	Related
+subjective	10019	0	9	Sooo cool	10019-subjective0	Positive	Related
+subjective	10020	0	5	Super	10020-subjective0	Positive	Related
+subjective	10021	105	134	Verpisst euch ihr spinner ... !	10021-subjective2	Negative	Related
+subjective	10021	83	104	Hallo geht's noch ... !	10021-subjective1	Negative	Related
+subjective	10021	45	82	verkauft unsere Daten an die NSA .... !	10021-subjective3	Negative	Related
+aspect	10021	36	44	Facebook	10021-aspect0	Neutral	Related
+subjective	10021	0	32	Vorsicht Spionage hoch 10 ... !!!!	10021-subjective0	Negative	Related
+subjective	10022	8	21	es lohnt sich	10022-subjective1	Positive	Related
+subjective	10022	0	4	Cool	10022-subjective0	Positive	Related
+subjective	10023	91	105	ist das letzte	10023-subjective1	Negative	Related
+aspect	10023	87	90	App	10023-aspect1	Neutral	Related
+aspect	10023	34	42	Facebook	10023-aspect0	Neutral	Related
+subjective	10023	0	19	Nicht zu gebrauchen	10023-subjective0	Negative	Related
+aspect	10024	0	8	Facebook	10024-aspect1	Unknown	Related
+subjective	10024	12	27	Stürzt immer ab	10024-subjective2	Negative	Related
+subjective	10024	32	39	Schrott	10024-subjective1	Negative	Related
+aspect	10025	0	5	Memos	10025-aspect2	Unknown	Related
+subjective	10025	6	13	zu kurz	10025-subjective1	Negative	Related
+aspect	10025	46	51	memos	10025-aspect1	Neutral	Related
+subjective	10026	0	7	Tip top	10026-subjective1	Positive	Related
+subjective	10027	15	21	Klasse	10027-subjective1	Positive	Related
+subjective	10028	4	8	okax	10028-subjective1	Positive	Related
+subjective	10029	0	12	Richtig geil	10029-subjective1	Positive	Related
+aspect	10030	0	5	Insta	10030-aspect2	Unknown	Related
+subjective	10030	10	21	echt klasse	10030-subjective5	Positive	Related
+subjective	10030	31	36	liebe	10030-subjective4	Positive	Related
+aspect	10030	37	46	instagram	10030-aspect1	Neutral	Related
+subjective	10030	145	159	total verzerrt	10030-subjective3	Negative	Related
+subjective	10030	160	162	😒	10030-subjective2	Negative	Related
+subjective	10030	163	176	bitte beheben	10030-subjective1	Negative	Related
+subjective	10031	0	3	Top	10031-subjective2	Positive	Related
+aspect	10031	27	30	App	10031-aspect1	Neutral	Related
+subjective	10031	42	53	einwandfrei	10031-subjective1	Positive	Related
+aspect	10032	5	11	Update	10032-aspect1	Unknown	Related
+subjective	10032	12	36	nicht mehr zu gebrauchen	10032-subjective2	Negative	Related
+subjective	10032	38	51	Bitte beheben	10032-subjective1	Negative	Related
+aspect	10034	31	39	Facebook	10034-aspect3	Unknown	Related
+aspect	10034	68	76	Beiträge	10034-aspect2	Unknown	Related
+aspect	10034	96	109	Einstellungen	10034-aspect1	Unknown	Related
+subjective	10035	0	3	Gut	10035-subjective1	Positive	Related
+subjective	10036	37	45	scheisse	10036-subjective1	Negative	Related
+subjective	10036	0	15	stürzt immer ab	10036-subjective0	Negative	Related
+subjective	10037	12	24	ich liebe es	10037-subjective1	Positive	Related
+subjective	10037	0	11	Alles super	10037-subjective0	Positive	Related
+aspect	10038	28	31	app	10038-aspect0	Neutral	Related
+subjective	10038	18	27	Sehr gute	10038-subjective1	Positive	Related
+subjective	10038	0	14	Empfehlenswert	10038-subjective0	Positive	Related
+subjective	10039	0	6	Superb	10039-subjective0	Positive	Related
+subjective	10040	0	14	Nix läuft mehr	10040-subjective0	Negative	Related
+subjective	10041	30	36	genial	10041-subjective0	Positive	Related
+aspect	10041	16	24	Facebook	10041-aspect0	Unknown	Related
+aspect	10042	113	124	Xperia X10i	10042-aspect1	Unknown	Related
+subjective	10042	54	72	nicht funktioniert	10042-subjective1	Negative	Related
+aspect	10042	47	49	pk	10042-aspect0	Neutral	Related
+subjective	10042	25	27	ok	10042-subjective0	Positive	Related
+subjective	10043	31	39	echt gut	10043-subjective1	Positive	Related
+aspect	10043	27	30	App	10043-aspect1	Neutral	Related
+subjective	10043	21	26	Gaile	10043-subjective0	Positive	Related
+aspect	10043	0	17	Alcatel one touch	10043-aspect0	Unknown	Related
+subjective	10044	100	102	:)	10044-subjective2	Positive	Related
+subjective	10044	82	99	einfach die beste	10044-subjective1	Positive	Related
+aspect	10044	66	74	Facebook	10044-aspect1	Neutral	Related
+aspect	10044	37	45	Facebook	10044-aspect0	Neutral	Related
+subjective	10044	0	8	Super :)	10044-subjective0	Positive	Related
+aspect	10045	53	61	Facebook	10045-aspect0	Neutral	Related
+subjective	10045	11	25	Ned der hammer	10045-subjective1	Negative	Related
+subjective	10045	0	7	Geht nä	10045-subjective0	Negative	Related
+subjective	10046	30	52	Hängt sich ständig auf	10046-subjective1	Negative	Related
+subjective	10046	0	28	Läuft nicht mehr zuverlässig	10046-subjective0	Negative	Related
+subjective	10047	0	12	This is good	10047-subjective0	Positive	Related
+subjective	10048	0	4	Cool	10048-subjective0	Positive	Related
+aspect	10049	33	42	Instagram	10049-aspect2	Neutral	Related
+aspect	10049	19	22	App	10049-aspect1	Neutral	Related
+subjective	10049	13	18	Tolle	10049-subjective1	Positive	Related
+aspect	10049	6	9	App	10049-aspect0	Neutral	Related
+subjective	10049	0	5	Tolle	10049-subjective0	Positive	Related
+subjective	10051	15	23	scheisse	10051-subjective0	Negative	Related
+aspect	10051	4	7	APP	10051-aspect0	Unknown	Related
+subjective	10052	89	102	Bitte beheben	10052-subjective0	Negative	Related
+aspect	10052	75	81	Videos	10052-aspect3	Unknown	Related
+aspect	10052	63	69	Bilder	10052-aspect2	Unknown	Related
+aspect	10052	38	41	App	10052-aspect1	Unknown	Related
+aspect	10052	17	23	Update	10052-aspect0	Unknown	Related
+subjective	10053	116	139	kann ja nicht wahr sein	10053-subjective2	Negative	Related
+subjective	10053	91	114	Behebt das mal ganz fix	10053-subjective0	Negative	Related
+aspect	10053	82	88	Update	10053-aspect3	Neutral	Related
+subjective	10053	68	77	Ganz groß	10053-subjective1	Negative	Related
+aspect	10053	49	58	speichern	10053-aspect2	Unknown	Related
+aspect	10053	18	27	G + Konten	10053-aspect1	Unknown	Related
+aspect	10053	5	13	wechseln	10053-aspect0	Unknown	Related
+subjective	10054	3	7	Geil	10054-subjective0	Positive	Related
+aspect	10055	66	77	Unterpunkte	10055-aspect1	Neutral	Related
+subjective	10055	60	65	viele	10055-subjective2	Negative	Related
+subjective	10055	18	49	Teilweise etwas unübersichtlich	10055-subjective1	Negative	Related
+aspect	10055	5	14	Umsetzung	10055-aspect0	Neutral	Related
+subjective	10055	0	4	Gute	10055-subjective0	Positive	Related
+subjective	10056	0	3	Gut	10056-subjective0	Positive	Related
+subjective	10057	112	114	👍	10057-subjective3	Positive	Related
+subjective	10057	95	111	Probs an twitter	10057-subjective2	Positive	Related
+subjective	10057	87	91	geil	10057-subjective1	Positive	Related
+aspect	10057	23	30	twitter	10057-aspect0	Neutral	Related
+subjective	10057	0	5	Super	10057-subjective0	Positive	Related
+subjective	10058	96	108	läufts prima	10058-subjective3	Positive	Related
+aspect	10058	56	77	miteinander schreiben	10058-aspect0	Neutral	Related
+subjective	10058	43	55	nicht direkt	10058-subjective4	Negative	Related
+subjective	10058	17	21	blöd	10058-subjective2	Negative	Related
+subjective	10058	8	16	Echt gut	10058-subjective1	Positive	Related
+subjective	10058	0	4	Supi	10058-subjective0	Positive	Related
+subjective	10059	15	26	einwandfrei	10059-subjective2	Positive	Related
+subjective	10059	9	14	Super	10059-subjective1	Positive	Related
+subjective	10059	0	5	Super	10059-subjective0	Positive	Related
+subjective	10060	0	18	Macht , was es soll	10060-subjective0	Positive	Related
+subjective	10062	20	25	alles	10062-subjective1	Positive	Related
+aspect	10062	14	19	läuft	10062-aspect0	Neutral	Related
+subjective	10062	0	2	Ok	10062-subjective0	Positive	Related
+subjective	10063	94	115	Bitte schnell beheben	10063-subjective1	Negative	Related
+subjective	10063	90	93	- _ -	10063-subjective2	Negative	Related
+subjective	10063	72	89	nicht mehr öffnen	10063-subjective3	Negative	Related
+aspect	10063	60	71	Nachrichten	10063-aspect1	Neutral	Related
+aspect	10063	38	44	update	10063-aspect2	Neutral	Related
+aspect	10063	11	17	update	10063-aspect0	Neutral	Related
+subjective	10063	0	10	Schlechtes	10063-subjective0	Negative	Related
+subjective	10064	6	16	Total geil	10064-subjective0	Positive	Related
+subjective	10065	0	18	Dreck vom feinsten	10065-subjective0	Negative	Related
+aspect	10066	22	42	Leute kennen gelernt	10066-aspect0	Unknown	Related
+subjective	10066	16	21	viele	10066-subjective0	Positive	Related
+subjective	10066	0	3	Wow	10066-subjective1	Positive	Related
+subjective	10067	64	66	👌	10067-subjective4	Positive	Related
+subjective	10067	62	64	😛	10067-subjective3	Positive	Related
+subjective	10067	52	60	alles Ok	10067-subjective2	Positive	Related
+subjective	10067	33	38	nervt	10067-subjective1	Negative	Related
+subjective	10067	13	28	voll die Killer	10067-subjective0	Negative	Related
+aspect	10067	0	7	Updates	10067-aspect0	Unknown	Related
+aspect	10068	86	92	Update	10068-aspect1	Unknown	Related
+subjective	10068	53	66	nicht möglich	10068-subjective1	Negative	Related
+aspect	10068	42	52	Verbindung	10068-aspect0	Neutral	Related
+subjective	10068	0	19	Richtig schlecht !!!	10068-subjective0	Negative	Related
+subjective	10069	214	235	bearbeitet die mengel	10069-subjective2	Negative	Related
+aspect	10069	186	189	app	10069-aspect1	Neutral	Related
+subjective	10069	70	80	zum kotzen	10069-subjective1	Negative	Related
+subjective	10069	36	63	nich mehr richtig angezeigt	10069-subjective0	Negative	Related
+aspect	10069	21	30	anstupsen	10069-aspect0	Unknown	Related
+subjective	10070	182	184	:)	10070-subjective2	Positive	Related
+subjective	10070	177	180	gut	10070-subjective3	Positive	Related
+aspect	10070	162	171	Instagram	10070-aspect1	Neutral	Related
+subjective	10070	111	113	😊	10070-subjective1	Positive	Related
+aspect	10070	36	45	Instagram	10070-aspect0	Neutral	Related
+subjective	10070	0	13	Lieblings-App	10070-subjective0	Positive	Related
+subjective	10071	80	97	nervt einfach nur	10071-subjective3	Negative	Related
+subjective	10071	60	74	kommt nicht an	10071-subjective2	Negative	Related
+aspect	10071	44	59	Sicherheitscode	10071-aspect1	Neutral	Related
+subjective	10071	38	43	blöde	10071-subjective1	Negative	Related
+subjective	10071	16	27	kommt nicht	10071-subjective0	Negative	Related
+aspect	10071	0	15	Sicherheitscode	10071-aspect0	Unknown	Related
+subjective	10072	24	38	extrem langsam	10072-subjective0	Negative	Related
+aspect	10072	16	20	lädt	10072-aspect0	Unknown	Related
+aspect	10072	9	15	update	10072-aspect1	Unknown	Related
+subjective	10073	27	35	sehr gut	10073-subjective1	Positive	Related
+subjective	10073	0	11	Einzigartig	10073-subjective0	Positive	Related
+subjective	10074	7	10	Gut	10074-subjective1	Positive	Related
+subjective	10074	0	3	Gut	10074-subjective0	Positive	Related
+subjective	10075	189	214	bitte das Problem beheben	10075-subjective4	Negative	Related
+subjective	10075	173	188	dauert soo lang	10075-subjective3	Negative	Related
+aspect	10075	130	138	Ladezeit	10075-aspect1	Neutral	Related
+aspect	10075	116	119	App	10075-aspect0	Neutral	Related
+subjective	10075	99	111	Einfach toll	10075-subjective2	Positive	Related
+subjective	10075	7	25	Einfach nur leicht	10075-subjective1	Positive	Related
+subjective	10075	0	3	Top	10075-subjective0	Positive	Related
+subjective	10076	123	141	nicht mehr geladen	10076-subjective0	Negative	Related
+aspect	10076	85	91	Bilder	10076-aspect0	Neutral	Related
+subjective	10076	58	72	was soll das ??	10076-subjective1	Negative	Related
+aspect	10076	52	57	abo's	10076-aspect2	Unknown	Related
+aspect	10076	27	32	abo's	10076-aspect1	Unknown	Related
+subjective	10077	42	55	bitte beheben	10077-subjective1	Negative	Related
+subjective	10077	32	41	über 8 GB	10077-subjective2	Negative	Related
+aspect	10077	11	18	Braucht	10077-aspect0	Neutral	Related
+subjective	10077	0	7	Scheise	10077-subjective0	Negative	Related
+subjective	10078	14	25	einwandfrei	10078-subjective1	Positive	Related
+aspect	10078	8	13	Läuft	10078-aspect0	Neutral	Related
+subjective	10078	0	4	Top !	10078-subjective0	Positive	Related
+subjective	10079	51	74	wäre es wirklich Hammer	10079-subjective0	Negative	Related
+aspect	10079	29	44	Landscape Modus	10079-aspect0	Neutral	Related
+subjective	10079	0	4	Toll	10079-subjective1	Positive	Related
+subjective	10080	79	98	empfehle sie weiter	10080-subjective3	Positive	Related
+aspect	10080	40	45	likes	10080-aspect1	Neutral	Related
+subjective	10080	29	39	Macht spaß	10080-subjective2	Positive	Related
+aspect	10080	25	28	App	10080-aspect0	Neutral	Related
+subjective	10080	19	24	super	10080-subjective1	Positive	Related
+subjective	10080	0	3	Gut	10080-subjective0	Positive	Related
+subjective	10081	107	134	bitte schnellstens beheben !	10081-subjective3	Negative	Related
+subjective	10081	86	104	nicht mehr geladen	10081-subjective2	Negative	Related
+aspect	10081	67	78	Neuigkeiten	10081-aspect1	Neutral	Related
+subjective	10081	45	66	Was ist denn da los ??	10081-subjective1	Negative	Related
+subjective	10081	26	41	gar nichts mehr	10081-subjective0	Negative	Related
+aspect	10081	0	12	Funktioniert	10081-aspect0	Unknown	Related
+subjective	10082	9	30	Lohnt sich wirklich !	10082-subjective1	Positive	Related
+subjective	10082	0	5	Super	10082-subjective0	Positive	Related
+subjective	10083	0	9	Nicht gut	10083-subjective0	Negative	Related
+subjective	10084	0	3	Top	10084-subjective2	Positive	Related
+subjective	10084	7	13	Tiptop	10084-subjective1	Positive	Related
+aspect	10086	0	24	Call of duty Black ops 2	10086-aspect1	Unknown	Related
+subjective	10086	158	171	läuft bei mir	10086-subjective1	Positive	Related
+subjective	10087	0	20	Hammmmmmeeeeerrrrrrr	10087-subjective1	Positive	Related
+subjective	10088	0	11	Enfach Cool	10088-subjective2	Positive	Related
+aspect	10088	66	81	neue funktionen	10088-aspect1	Neutral	Related
+subjective	10088	96	99	gut	10088-subjective1	Positive	Related
+subjective	10089	0	4	Cool	10089-subjective1	Positive	Related
+aspect	10090	32	38	update	10090-aspect2	Unknown	Related
+subjective	10090	55	63	gelöscht	10090-subjective2	Negative	Related
+subjective	10090	68	85	Stundenlang keine	10090-subjective1	Negative	Related
+aspect	10090	86	103	server verbindung	10090-aspect1	Neutral	Related
+aspect	10091	9	15	update	10091-aspect1	Unknown	Related
+subjective	10091	16	28	läd es nicht	10091-subjective2	Negative	Related
+subjective	10091	109	127	Was für ein scheiß	10091-subjective1	Negative	Related
+subjective	10092	0	8	Ganz gut	10092-subjective3	Positive	Related
+subjective	10092	23	32	voll cool	10092-subjective2	Positive	Related
+subjective	10092	86	88	:(	10092-subjective1	Negative	Related
+aspect	10093	65	68	app	10093-aspect1	Unknown	Related
+subjective	10093	69	77	wie assi	10093-subjective1	Negative	Related
+subjective	10094	0	4	Geil	10094-subjective2	Positive	Related
+subjective	10094	5	21	macht total bock	10094-subjective1	Positive	Related
+subjective	10095	0	5	Lange	10095-subjective2	Negative	Related
+aspect	10095	6	16	Ladezeiten	10095-aspect3	Neutral	Related
+aspect	10095	24	27	app	10095-aspect2	Unknown	Related
+aspect	10095	28	31	läd	10095-aspect1	Neutral	Related
+subjective	10095	82	92	sehr lange	10095-subjective1	Negative	Related
+subjective	10097	338	348	schlechter	10097-subjective1	Negative	Related
+subjective	10097	283	289	Fehler	10097-subjective3	Negative	Related
+aspect	10097	217	226	Einloggen	10097-aspect1	Neutral	Related
+subjective	10097	147	165	nicht mehr richtig	10097-subjective2	Negative	Related
+aspect	10097	136	146	Passwörter	10097-aspect0	Neutral	Related
+subjective	10097	0	14	Absolut nervig	10097-subjective0	Negative	Related
+subjective	10098	19	20	☺	10098-subjective2	Positive	Related
+subjective	10098	6	17	Fantastisch	10098-subjective0	Positive	Related
+subjective	10098	0	2	👌	10098-subjective1	Positive	Related
+subjective	10099	57	73	laden nicht mehr	10099-subjective1	Negative	Related
+aspect	10099	45	56	Neuigkeiten	10099-aspect1	Neutral	Related
+subjective	10099	16	43	geht so gut wie nichts mehr	10099-subjective0	Negative	Related
+aspect	10099	9	15	update	10099-aspect0	Unknown	Related
+subjective	10100	135	158	hängt es sich immer auf	10100-subjective3	Negative	Related
+subjective	10100	69	118	stürzt es seit dem letzten update immer wieder ab	10100-subjective2	Negative	Related
+subjective	10100	34	58	heftiger als die der NSA	10100-subjective1	Negative	Related
+aspect	10100	14	28	Berechtigungen	10100-aspect0	Neutral	Related
+subjective	10100	0	5	Alter	10100-subjective0	Negative	Related
+subjective	10101	98	111	Fehlermeldung	10101-subjective1	Negative	Related
+aspect	10101	30	37	hastags	10101-aspect0	Neutral	Related
+subjective	10101	0	3	Gut	10101-subjective0	Positive	Related
+subjective	10102	43	58	einzeln klicken	10102-subjective2	Negative	Related
+aspect	10102	38	42	Bild	10102-aspect0	Neutral	Related
+subjective	10102	11	17	schade	10102-subjective1	Negative	Related
+subjective	10102	0	5	Super	10102-subjective0	Positive	Related
+subjective	10103	0	8	Ganz gut	10103-subjective0	Positive	Related
+subjective	10104	59	61	😊	10104-subjective2	Positive	Related
+subjective	10104	53	59	besser	10104-subjective1	Positive	Related
+aspect	10104	40	48	Facebook	10104-aspect0	Neutral	Foreign
+subjective	10104	13	24	einfach gut	10104-subjective0	Positive	Related
+subjective	10105	146	159	fehlermeldung	10105-subjective2	Negative	Related
+subjective	10105	28	36	sehr gut	10105-subjective1	Positive	Related
+aspect	10105	24	27	app	10105-aspect0	Neutral	Related
+subjective	10105	0	5	HILFE	10105-subjective0	Negative	Related
+subjective	10106	25	34	Laeuft ja	10106-subjective0	Positive	Related
+aspect	10106	0	11	Chiiszhhaas	10106-aspect0	Unknown	Related
+aspect	10107	61	72	informieren	10107-aspect1	Unknown	Related
+subjective	10107	45	52	schnell	10107-subjective1	Positive	Related
+subjective	10107	8	18	reicht aus	10107-subjective0	Neutral	Related
+aspect	10107	4	7	App	10107-aspect0	Unknown	Related
+subjective	10108	66	72	Fehler	10108-subjective1	Negative	Related
+aspect	10108	14	22	Facebook	10108-aspect0	Neutral	Related
+subjective	10108	0	5	Hilfe	10108-subjective0	Negative	Related
+subjective	10109	92	94	OK	10109-subjective2	Positive	Related
+subjective	10109	23	30	scheiße	10109-subjective1	Negative	Related
+subjective	10109	0	5	Stark	10109-subjective0	Positive	Related
+subjective	10110	13	40	braucht man nicht unbedingt	10110-subjective1	Negative	Related
+subjective	10110	0	7	Ganz ok	10110-subjective0	Positive	Related
+aspect	10111	82	98	Videos abspielen	10111-aspect1	Neutral	Related
+subjective	10111	54	71	lassen sich keine	10111-subjective2	Negative	Related
+subjective	10111	14	43	verliert ständig Leseposition	10111-subjective1	Negative	Related
+aspect	10111	10	13	APP	10111-aspect0	Neutral	Related
+subjective	10111	0	6	Nervig	10111-subjective0	Negative	Related
+subjective	10112	0	6	Great !	10112-subjective0	Positive	Related
+aspect	10113	28	35	Twitter	10113-aspect1	Neutral	Related
+subjective	10113	18	27	Ich liebe	10113-subjective1	Positive	Related
+aspect	10113	12	15	App	10113-aspect0	Neutral	Related
+subjective	10113	6	11	Super	10113-subjective0	Positive	Related
+subjective	10113	0	2	👇	10113-subjective2	Positive	Related
+subjective	10114	51	53	: D	10114-subjective3	Positive	Related
+subjective	10114	48	50	1a	10114-subjective2	Positive	Related
+subjective	10114	30	46	keinen Problemen	10114-subjective4	Positive	Related
+subjective	10114	12	19	Einfach	10114-subjective1	Positive	Related
+subjective	10114	0	8	Liebe es	10114-subjective0	Positive	Related
+subjective	10115	0	4	Geil	10115-subjective0	Positive	Related
+subjective	10116	0	9	Echt cool	10116-subjective0	Positive	Related
+aspect	10117	56	59	app	10117-aspect0	Neutral	Related
+subjective	10117	0	12	Scheiße geil	10117-subjective0	Positive	Related
+subjective	10118	15	43	empfehle es natürlich weiter	10118-subjective1	Positive	Related
+subjective	10118	0	10	Super toll	10118-subjective0	Positive	Related
+aspect	10120	16	19	app	10120-aspect0	Neutral	Related
+subjective	10120	0	15	Sehr aehr coole	10120-subjective0	Positive	Related
+subjective	10121	18	40	brauchen ewig zu laden	10121-subjective1	Negative	Related
+aspect	10121	12	17	fotos	10121-aspect0	Neutral	Related
+subjective	10121	0	4	Mies	10121-subjective0	Negative	Related
+subjective	10122	0	4	Geht	10122-subjective0	Positive	Related
+subjective	10123	42	59	nur noch Probleme	10123-subjective0	Negative	Related
+aspect	10123	9	21	aktualisiert	10123-aspect0	Unknown	Related
+subjective	10124	110	140	stürzt einfach immer wieder ab	10124-subjective2	Negative	Related
+aspect	10124	33	36	App	10124-aspect0	Neutral	Related
+subjective	10124	14	28	Ständig stürzt	10124-subjective1	Negative	Related
+subjective	10124	3	8	nervt	10124-subjective0	Negative	Related
+subjective	10125	23	36	total scheiße	10125-subjective1	Negative	Related
+aspect	10125	15	18	App	10125-aspect0	Neutral	Related
+subjective	10125	0	7	Scheiße	10125-subjective0	Negative	Related
+subjective	10126	13	25	einfach cool	10126-subjective1	Positive	Related
+subjective	10126	0	2	💝	10126-subjective0	Positive	Related
+subjective	10127	22	25	gut	10127-subjective0	Positive	Related
+aspect	10127	0	8	Facebook	10127-aspect0	Unknown	Related
+subjective	10128	51	71	nicht mehr pausieren	10128-subjective1	Negative	Related
+aspect	10128	45	50	Video	10128-aspect1	Neutral	Related
+aspect	10128	13	16	App	10128-aspect0	Neutral	Related
+subjective	10128	8	12	gute	10128-subjective0	Positive	Related
+aspect	10129	85	93	spiegeln	10129-aspect0	Neutral	Foreign
+subjective	10129	31	49	würde mir wünschen	10129-subjective2	Negative	Related
+subjective	10129	19	26	Coooool	10129-subjective1	Positive	Related
+subjective	10129	0	14	Einfach spitze	10129-subjective0	Positive	Related
+subjective	10130	45	62	nicht mehr so gut	10130-subjective1	Negative	Related
+aspect	10130	35	44	instagram	10130-aspect1	Neutral	Related
+aspect	10130	24	30	update	10130-aspect0	Neutral	Related
+subjective	10130	0	4	Naja	10130-subjective0	Neutral	Related
+subjective	10131	296	298	:/	10131-subjective5	Negative	Related
+subjective	10131	284	296	etwas nervig	10131-subjective4	Negative	Related
+subjective	10131	254	265	Sehr Schade	10131-subjective3	Negative	Related
+aspect	10131	219	251	Videos aus meiner Galerie teilen	10131-aspect2	Neutral	Related
+subjective	10131	185	202	kann ich nichtmal	10131-subjective6	Negative	Related
+aspect	10131	101	117	Benachrichtigung	10131-aspect1	Neutral	Related
+subjective	10131	95	100	keine	10131-subjective2	Negative	Related
+subjective	10131	41	55	Lieblings Apps	10131-subjective1	Positive	Related
+aspect	10131	11	18	Twitter	10131-aspect0	Neutral	Related
+subjective	10131	0	7	Genervt	10131-subjective0	Negative	Related
+subjective	10132	114	133	richtig die scheiße	10132-subjective1	Negative	Related
+subjective	10132	100	113	bleibt stehen	10132-subjective0	Negative	Related
+aspect	10132	94	99	video	10132-aspect2	Unknown	Related
+aspect	10132	16	22	videos	10132-aspect1	Unknown	Related
+aspect	10132	0	6	Videos	10132-aspect0	Unknown	Related
+subjective	10133	202	210	wäre gut	10133-subjective3	Negative	Related
+aspect	10133	189	201	Kundenpflege	10133-aspect2	Neutral	Related
+subjective	10133	184	188	mehr	10133-subjective2	Negative	Related
+subjective	10133	141	157	tierisch langsam	10133-subjective1	Negative	Related
+aspect	10133	135	140	Handy	10133-aspect1	Neutral	Related
+subjective	10133	112	120	abgehakt	10133-subjective0	Negative	Related
+aspect	10133	100	106	Videos	10133-aspect0	Neutral	Related
+subjective	10133	74	94	nur noch willkürlich	10133-subjective4	Negative	Related
+aspect	10133	62	73	Neuigkeiten	10133-aspect3	Unknown	Related
+aspect	10133	45	51	Update	10133-aspect4	Unknown	Related
+subjective	10135	0	14	Einfach Klasse	10135-subjective0	Positive	Related
+subjective	10136	222	227	NERFT	10136-subjective4	Negative	Related
+aspect	10136	160	181	Messenger extra laden	10136-aspect0	Neutral	Related
+subjective	10136	110	128	verschlechtert nur	10136-subjective3	Negative	Related
+subjective	10136	60	76	Langsam nervt es	10136-subjective2	Negative	Related
+subjective	10136	14	29	laaaaangsaaaaam	10136-subjective1	Negative	Related
+subjective	10136	0	12	Unterirdisch	10136-subjective0	Negative	Related
+subjective	10137	69	76	süchtig	10137-subjective1	Positive	Related
+aspect	10137	41	44	App	10137-aspect0	Neutral	Related
+subjective	10137	5	10	Beste	10137-subjective0	Positive	Related
+aspect	10138	16	19	app	10138-aspect0	Unknown	Related
+subjective	10138	4	9	liebe	10138-subjective0	Positive	Related
+subjective	10139	12	15	Gut	10139-subjective0	Positive	Related
+aspect	10139	0	8	Facebook	10139-aspect0	Unknown	Related
+subjective	10140	106	118	Bitte ändern	10140-subjective1	Negative	Related
+subjective	10140	94	104	nicht mehr	10140-subjective2	Negative	Related
+aspect	10140	44	70	Weiterleitung auf Websites	10140-aspect1	Neutral	Related
+aspect	10140	26	32	Update	10140-aspect2	Neutral	Related
+subjective	10140	7	13	ändern	10140-subjective0	Negative	Related
+aspect	10140	0	6	Update	10140-aspect0	Unknown	Related
+subjective	10141	82	84	😕	10141-subjective2	Negative	Related
+subjective	10141	64	80	stürzt häufig ab	10141-subjective1	Negative	Related
+subjective	10141	38	50	ewig langsam	10141-subjective0	Negative	Related
+aspect	10141	34	37	App	10141-aspect0	Unknown	Related
+aspect	10142	10	18	facebook	10142-aspect0	Neutral	Related
+subjective	10142	0	5	Beste	10142-subjective0	Positive	Related
+subjective	10143	9	14	Betse	10143-subjective1	Positive	Related
+subjective	10143	0	5	Beste	10143-subjective0	Positive	Related
+subjective	10144	8	12	Cool	10144-subjective1	Positive	Related
+subjective	10144	0	4	Cool	10144-subjective0	Positive	Related
+subjective	10145	0	5	super	10145-subjective0	Positive	Related
+subjective	10146	36	38	;)	10146-subjective1	Positive	Related
+aspect	10146	30	36	posten	10146-aspect1	Neutral	Related
+aspect	10146	18	21	app	10146-aspect2	Neutral	Related
+subjective	10146	13	17	Nice	10146-subjective0	Positive	Related
+aspect	10146	0	9	Instagram	10146-aspect0	Unknown	Related
+subjective	10147	18	30	richtig geil	10147-subjective1	Positive	Related
+aspect	10147	9	13	ista	10147-aspect0	Neutral	Related
+subjective	10147	0	5	beste	10147-subjective0	Positive	Related
+subjective	10148	21	24	:- D	10148-subjective1	Positive	Related
+subjective	10148	0	20	Richtig richtig geil	10148-subjective0	Positive	Related
+subjective	10149	79	92	scheiß fehler	10149-subjective0	Negative	Related
+aspect	10149	29	33	bild	10149-aspect0	Unknown	Related
+subjective	10150	36	57	Bleibt ständig hängen	10150-subjective1	Negative	Related
+subjective	10150	19	32	ganz schlecht	10150-subjective0	Negative	Related
+aspect	10150	12	18	update	10150-aspect0	Unknown	Related
+aspect	10151	34	37	App	10151-aspect0	Neutral	Related
+subjective	10151	22	27	liebe	10151-subjective0	Positive	Related
+subjective	10152	12	16	Cool	10152-subjective0	Positive	Related
+aspect	10152	0	8	Facebook	10152-aspect0	Unknown	Related
+subjective	10153	36	39	❤ 😊	10153-subjective1	Positive	Related
+subjective	10153	21	34	Lieblingsapps	10153-subjective2	Positive	Related
+subjective	10153	0	3	Top	10153-subjective0	Positive	Related
+aspect	10154	42	60	zuschneide Methode	10154-aspect0	Unknown	Foreign
+subjective	10154	22	27	fehlt	10154-subjective2	Negative	Related
+subjective	10154	8	19	Passt alles	10154-subjective1	Positive	Related
+subjective	10154	0	4	Cool	10154-subjective0	Positive	Related
+subjective	10156	33	35	:(	10156-subjective0	Negative	Related
+aspect	10156	24	32	anmelden	10156-aspect0	Neutral	Related
+subjective	10156	4	19	kann mich nicht	10156-subjective1	Negative	Related
+subjective	10157	0	16	Einfach nur geil	10157-subjective0	Positive	Related
+subjective	10158	35	45	spinnt oft	10158-subjective1	Negative	Related
+subjective	10158	0	6	schade	10158-subjective0	Negative	Related
+subjective	10159	0	7	Geht so	10159-subjective0	Neutral	Related
