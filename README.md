@@ -29,6 +29,6 @@ To run the scripts in this, following tools, datasets (both downloaded from kagg
 
 #Reviews from apple datasets contains reviews from both apple applications
 
-#Average run time - 50minutes
+#Average run time - 50 to 160 minutes depending on computing resources
 
 #About seventeen python modules specified in the notebooks needs to be installed on the host machine to run the implementation
