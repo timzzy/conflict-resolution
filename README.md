@@ -26,4 +26,5 @@ To run the scripts in this, following tools, datasets (both downloaded from kagg
 # Reviews from Kaggle datasets contains reviews from both android and apple's mobile applications
 # Reviews from android datasets contains reviews from android applications 
 # Reviews from apple datasets contains reviews from both apple applications
+# Average run time - 50minutes
 # About seventeen python modules specified in the notebooks needs to be installed on the host machine to run the implementation
